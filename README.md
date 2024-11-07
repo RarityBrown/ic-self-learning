@@ -13,5 +13,7 @@
 
 - [CS 自学指南](https://github.com/pkuflyingpig/cs-self-learning/)
 - [统计学自学指南](https://xuankaiwang.github.io/)
-- [各种学科自学指南](https://github.com/MuggleWei/learning_compass)
+- [各种学科自学指南](https://github.com/MuggleWei/learning_compass) [EECS | 学科自学指南](https://mugglewei.github.io/learning_compass/posts/major/eecs/)
+  - [Eta Kappa Nu (HKN), Mu Chapter](https://hkn.eecs.berkeley.edu/courseguides)
 - [《上海交通大学生存手册》](https://github.com/SurviveSJTU/SurviveSJTUManual)
+- 
