@@ -10,7 +10,7 @@
   - 本书的中文译者之一张鸿老师网课可参考（遗憾的是部分视频电流声大） ⭐⭐⭐
   - Razavi Electronic Circuits 2 是高等模拟设计
 - IEEE Solid-State Circuits Magazine: The Analog Mind
-  - 如果你对 IC 设计有一定了解，JSSC 肯定知道，从类似的名字可以推断出 SSCM 是 SSCS 旗下一个 Magazine。Razavi 在上面发了不少教学性质的小文章
+  - 如果你对 IC 设计有一定了解，JSSC 肯定知道，从类似的名字可以推断出 SSCM 是 SSCS 旗下的一个 Magazine。Razavi 在上面发了不少教学性质的[小文章](https://ieeexplore.ieee.org/author/37275476000?history=no&highlight=true&returnType=SEARCH&sortType=paper-citations&refinements=PublicationTitle%3AIEEE+Solid-State+Circuits+Magazine&searchWithin="Author+Ids"%3A37275476000&returnFacets=ALL)
 
 ### Phillip E. Allen @ Georgia Tech
 
@@ -47,7 +47,7 @@
 
 ### Boris Murmann @ Stanford
 
-Murmann 2023 年从 Stanford 跳槽到夏威夷大学去养老了。在夏威夷大学没开高等模集的课，开了一个开源 EDA 模集设计课。其他的可以看看 [Boris Murmann: GitHub](https://github.com/bmurmann)，因为这个老师相对 Razavi, Allen 年轻，GitHub 用得很多。
+Murmann 2023 年从 Stanford 跳槽到夏威夷大学去养老了。在夏威夷大学没开高等模集的课，开了一个开源 EDA 模集设计课。其他的可以看看 [Boris Murmann: GitHub](https://github.com/bmurmann)，因为这个老师相对 Razavi, Allen 年轻，GitHub 用得较多。
 
 - book & solution?: CMOS only
   - *Systematic Design of Analog CMOS Circuits Using Pre-Computed Lookup Tables* ⭐⭐⭐
@@ -91,8 +91,17 @@ UCB 的 EE140/240 相对好一些，大概 2010 年左右的视频。（不过�
 
 - book: CMOS
   - 《现代模拟集成电路设计》挺新的书，也是基于 gm/id 设计方法的，目前找不到电子版（虽然说支持正版，但是电子版主要是为了便于快速搜索书中内容）和电子版购买渠道
+  - 不建议初学者入门使用，这本书和国内教材的普遍情况一样，更像是一本高度浓缩的参考册，而不是适合零基础学生自学的厚书
 - courseware
   - 暂无公开资源
+
+
+###  Ali Sheikholeslami @ University of Toronto
+
+- [The Signal Journey](https://ieeexplore.ieee.org/document/8901499)
+- [Looking into a Node](https://ieeexplore.ieee.org/document/6841782), [Correction to "Looking into a Node"](https://ieeexplore.ieee.org/document/6882860)
+- [Looking Into Two Nodes](https://ieeexplore.ieee.org/document/9467047)
+- [Source Degeneration](https://ieeexplore.ieee.org/document/6882877)
 
 ### Johan Huijsing @ TU Delft
 
