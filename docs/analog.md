@@ -1,3 +1,20 @@
+
+## General EE Analog
+
+
+[kennethkuhn.com/students/](https://www.kennethkuhn.com/students/)
+
+
+### ADI
+
+[《新概念模拟电路》全五册 | Analog Devices](https://www.analog.com/cn/lp/002/analog-circuit-compilation-yang.html)
+[新概念模拟电路 | 亚德诺半导体](https://www.analog.com/cn/lp/002/yang-e-book.html)
+[University Program online teaching materials](https://wiki.analog.com/university/courses/tutorials/index)
+
+待整理
+
+## Basic & Advanced Analog IC
+
 ### Behzad Razavi @ UCLA
 
 - book & solution: CMOS only
