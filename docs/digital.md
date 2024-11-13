@@ -15,15 +15,7 @@
 
 ## Courses
 
-- EECS 151/251A, UC Berkeley, John Wawrzynek, （BiliBili 上有转载）
-- ELEC 4200, Auburn University, Ujjwal Guin（顺带一提，Google 联想 Tim Cook 是校友，这学校感觉很不出名啊，也是因为 Google 到 slides 后一看内容感觉很好才发现的）
-- ECE 5760, Cornell, Advanced Microcontroller Design and system-on-chip
-- 6.111, MIT, Introductory Digital Systems Laboratory
-- Digital VLSI Design, Adam Teman,
-
-
-
-| 大学                | 课程序号      | 年份（课程网站）                                             | 课程名称                                           | 授课老师       | video             | slide     | 其他                                               |
+| 大学                | 课程序号      | 年份/课程网站                                                | 课程名称                                           | 授课老师       | video             | slide     | 其他                                               |
 | ------------------- | ------------- | ------------------------------------------------------------ | -------------------------------------------------- | -------------- | ----------------- | --------- | -------------------------------------------------- |
 | UC Berkeley         | EECS 151/251A |                                                              |                                                    | John Wawrzynek | BiliBili 上有转载 | available |                                                    |
 | Auburn University\* | ELEC 4200     |                                                              |                                                    | Ujjwal Guin    |                   | available |                                                    |
