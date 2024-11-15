@@ -31,8 +31,9 @@ ADDA 方向南京大学是有本科生选修课的？
 | Title                                                        | Author                 | Year | IEEE/Google Scholar |
 | ------------------------------------------------------------ | ---------------------- | ---- | ------------------- |
 | [A 10-bit 50-MS/s SAR ADC With a Monotonic Capacitor Switching Procedure](https://ieeexplore.ieee.org/document/5437496) | Chun-Cheng (Jason) Liu | 2010 | 1000/1500           |
-|                                                              |                        |      |                     |
-|                                                              |                        |      |                     |
+| [Low-Power SAR ADC Design: Overview and Survey of State-of-the-Art Techniques](https://ieeexplore.ieee.org/document/9761973) | 唐希源                 | 2022 | 62/44               |
+
+
 
 https://github.com/bmurmann/ADC-survey
 
