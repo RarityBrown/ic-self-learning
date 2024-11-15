@@ -2,12 +2,40 @@
 
 ### prerequisite
 
-开关电容
+- 开关电容
+- comparator
+- A Brief History of Data Conversion: A Tale of Nozzles, Relays, Tubes, Transistors, and CMOS
+
+
+### 入门
+
+FUNDAMENTALS OF SAMPLED DATA SYSTEMS, ADI
 
 ### 课程资源
 
+ADDA 方向南京大学是有本科生选修课的？
+
+
 - 孙楠 @ THU
-- UCB EE247
+- 李福乐 @ THU
+- 唐希源 @ PKU?
+- UCB EE 247 (old), EE 240C (new)
+
+- 朱樟明 @ XIDIAN
+  - 《低功耗 CMOS 逐次逼近型模数转换器》
+- Allen
+  - 第二版
+
+### 经典文献
+
+| Title                                                        | Author                 | Year | IEEE/Google Scholar |
+| ------------------------------------------------------------ | ---------------------- | ---- | ------------------- |
+| [A 10-bit 50-MS/s SAR ADC With a Monotonic Capacitor Switching Procedure](https://ieeexplore.ieee.org/document/5437496) | Chun-Cheng (Jason) Liu | 2010 | 1000/1500           |
+|                                                              |                        |      |                     |
+|                                                              |                        |      |                     |
+
+https://github.com/bmurmann/ADC-survey
+
 
 ### 参考
 
