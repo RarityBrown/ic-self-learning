@@ -8,7 +8,8 @@
   - 是 Razavi 的学生，关于更多八卦详见 [Academic Tree](https://github.com/RarityBrown/blog/blob/main/blog/hall_of_fame.md#razavi)
   - [BiliBili](https://space.bilibili.com/1629031600)
 
-
+- Ali Sheikholeslami @ University of Toronto
+  - Understanding Jitter and Phase Noise: A Circuits and Systems Perspective
 
 ### 就业
 
