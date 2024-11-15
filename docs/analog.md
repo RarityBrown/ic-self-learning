@@ -26,8 +26,8 @@
   - 广为流传的视频 Electronic Circuits 1 是 Razavi 的模电授课，而不是模集，内容偏基础
   - 本书的中文译者之一张鸿老师网课可参考（遗憾的是部分视频电流声大） ⭐⭐⭐
   - Razavi Electronic Circuits 2 是高等模拟设计
-- IEEE Solid-State Circuits Magazine: The Analog Mind
-  - 如果你对 IC 设计有一定了解，JSSC 肯定知道，从类似的名字可以推断出 SSCM 是 SSCS 旗下的一个 Magazine。Razavi 在上面发了不少教学性质的[小文章](https://ieeexplore.ieee.org/author/37275476000?history=no&highlight=true&returnType=SEARCH&sortType=paper-citations&refinements=PublicationTitle%3AIEEE+Solid-State+Circuits+Magazine&searchWithin="Author+Ids"%3A37275476000&returnFacets=ALL)
+- IEEE Solid-State Circuits Magazine
+  - 如果你对 IC 设计有一定了解，JSSC 肯定知道，从类似的名字可以推断出 SSC-M 是 SSCS 旗下的一个 Magazine。Razavi 在上面发了不少教学性质的[小文章](https://ieeexplore.ieee.org/author/37275476000?history=no&highlight=true&returnType=SEARCH&sortType=paper-citations&refinements=PublicationTitle%3AIEEE+Solid-State+Circuits+Magazine&searchWithin="Author+Ids"%3A37275476000&returnFacets=ALL)
 
 ### Phillip E. Allen @ Georgia Tech
 
@@ -40,6 +40,12 @@
 - video：
   - 个人网站上有[售](https://aicdesign.org/product-category/academic-courses/)他亲自讲解的书每章的 course，$45 一章，不便宜，网上找不到相关资源。也有更面向[产业界](https://aicdesign.org/product/design-procedures-for-analog-integrated-circuits/)一点的课，更贵
   - Bilibili 上东南大学吴金老师的网课（有两个版本，老版本更深更全）可以参考，网课不像书本往往直接给出一个电路图，来进行“逆向”分析，网课会讲述电路的“正向”设计思路，即这个电路是怎么思考产生的。在 eetop 上有配套 slide 可以下载。所以说看书和上课都很重要，不可能看完四本书就无师自通的 ⭐⭐⭐⭐
+
+### EE 4430 @ Georgia Tech
+
+- courseware
+- video：
+  - https://www.youtube.com/playlist?list=PLk40zdAGNVqUttWK35gJoa-Smg_xHQHk2
 
 ### Ali Hajimiri @ Caltech
 
@@ -68,10 +74,16 @@ Murmann 2023 年从 Stanford 跳槽到夏威夷大学去养老了。在夏威夷
 
 - book & solution?: CMOS only
   - *Systematic Design of Analog CMOS Circuits Using Pre-Computed Lookup Tables* ⭐⭐⭐
+  - *Analysis and Design of Elementary MOS Amplifier Stages*
 - courseware
   - Stanford EE214B, *Advanced Analog Integrated Circuit Design*. 我目前网上搜到的最新版本是 Winter 2017-18 ⭐⭐⭐⭐
 - video
   - 暂无公开资源
+- IEEE Solid-State Circuits Magazine
+  - [Thermal Noise in Track-and-Hold Circuits: Analysis and Simulation Techniques](https://ieeexplore.ieee.org/document/6218338)
+  - [Understanding Metastability in SAR ADCs: Part I: Synchronous](https://ieeexplore.ieee.org/document/8741286)
+  - [Understanding Metastability in SAR ADCs: Part II: Asynchronous](https://ieeexplore.ieee.org/document/8811772)
+
 
 ### R. Jacob Baker @ UNLV
 
@@ -107,7 +119,7 @@ UCB 的 EE140/240 相对好一些，大概 2010 年左右的视频。（不过�
 ### 孙楠 @ THU
 
 - book: CMOS
-  - 《现代模拟集成电路设计》挺新的书，也是基于 gm/id 设计方法的，目前找不到电子版（虽然说支持正版，但是电子版主要是为了便于快速搜索书中内容）和电子版购买渠道
+  - 《现代模拟集成电路设计》挺新的书，也是基于 gm/id 设计方法的，目前找不到电子版（虽然说支持正版，但是电子版主要是为了便于快速搜索书中内容）和电子版购买渠道。有消息说小错不少，待我细细阅读后再写
   - 不建议初学者入门使用，这本书和国内教材的普遍情况一样，更像是一本高度浓缩的参考册，而不是适合零基础学生自学的厚书
 - courseware
   - 暂无公开资源
@@ -115,10 +127,13 @@ UCB 的 EE140/240 相对好一些，大概 2010 年左右的视频。（不过�
 
 ###  Ali Sheikholeslami @ University of Toronto
 
-- [The Signal Journey](https://ieeexplore.ieee.org/document/8901499)
-- [Looking into a Node](https://ieeexplore.ieee.org/document/6841782), [Correction to "Looking into a Node"](https://ieeexplore.ieee.org/document/6882860)
-- [Looking Into Two Nodes](https://ieeexplore.ieee.org/document/9467047)
-- [Source Degeneration](https://ieeexplore.ieee.org/document/6882877)
+- IEEE Solid-State Circuits Magazine
+  - 和 Razavi 一样，也发了相当多的[文章](#https://ieeexplore.ieee.org/author/37274725900?searchWithin=%22Author+Ids%22%3A37274725900&history=no&highlight=true&returnFacets=ALL&returnType=SEARCH&sortType=newest&refinements=PublicationTitle%3AIEEE+Solid-State+Circuits+Magazine)，选出几篇有代表性的
+  - [The Signal Journey](https://ieeexplore.ieee.org/document/8901499)
+  - [Looking into a Node](https://ieeexplore.ieee.org/document/6841782), [Correction to "Looking into a Node"](https://ieeexplore.ieee.org/document/6882860)
+  - [Looking Into Two Nodes](https://ieeexplore.ieee.org/document/9467047)
+  - [Source Degeneration](https://ieeexplore.ieee.org/document/6882877)
+
 
 ### Johan Huijsing @ TU Delft
 
@@ -127,6 +142,16 @@ UCB 的 EE140/240 相对好一些，大概 2010 年左右的视频。（不过�
 - book
   - *Operational Ampliers: Theory and Design (Third Edition)* 这老头好像研究了一辈子运放，所以这本书可以从题目中看出，就不是一本 Analog IC 的书，而是一本 OPAMP 的书
   - 书中的内容也涉及一些 chopper 之类的东西，没看过也看不懂
+
+### ISSCC
+
+- 2021, Designing Amplifiers for Stability
+
+### Other Basic Topics
+
+- translinear loop
+- bootstrap
+- chopper
 
 ### (Ultra) Low-Voltage Design
 
