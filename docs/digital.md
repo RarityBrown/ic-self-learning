@@ -5,6 +5,8 @@
 - 建议的 prerequisite 和 EECS 151 一致：数电、计组，也非常建议考虑用 AI 辅助学一学 Verilog 基础的语法
 - 本文目前主要关注数字前端，如果有空可能会放一些数字后端的东西，不过这个似乎也是 EDA perspective 的东西，没有什么“知识”
 
+to ref: https://github.com/abdelazeem201/ASIC-Design-Roadmap
+
 ## HDL Language
 
 - Verilog 而不是 VHDL：ref: *Language Wars in the 21st Century: Verilog versus VHDL*
