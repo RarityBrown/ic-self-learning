@@ -1,4 +1,11 @@
 
+
+## Undergraduate-level device & Graduate-level, design perspective device
+
+
+- [Analog circuits in ultra-deep-submicron CMOS](https://ieeexplore.ieee.org/document/1374997)
+- [Analog Circuit Design in Nanoscale CMOS Technologies](https://ieeexplore.ieee.org/document/5247174)
+
 ## General EE Analog
 
 
