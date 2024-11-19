@@ -178,6 +178,9 @@ UCB 的 EE140/240 相对好一些，大概 2010 年左右的视频。（不过�
 - https://www.scribd.com/document/43005861/10-1-1-112
 - https://www.scribd.com/document/40733019/Low-Voltage-LowPower-AnalogComs-Course
 
+
+[A 60-dB Gain OTA Operating at 0.25-V Power Supply in 130-nm Digital CMOS Process](https://ieeexplore.ieee.org/document/6695792)
+
 ### Overview & Roadmap
 
 不同于 CS 的 Open Source 精神，EE 课程在开放性上从来都是介于传统工科和 CS 之间的。公开资料过时、需要学生账号登录、不公开提供 slides 和视频、PDK 不公开、付费资料良莠不齐等问题是妨碍自学的重要因素。尽管如此，因为 2010s 的 MOOC 热和 2020s 的 COVID 疫情，仍有不少老师和工程师或主动或被动地为广大学子提供了宝贵的在线学习资源，其中 YouTube Razavi 老师网课和 BiliBili 张鸿老师网课分别超过了 1million 和 0.5million 的总播放量。不过幸运的是，作为中国人，可以享受到几乎全世界的在线资源，如果你觉得中文课都不合你胃口，国外名师的英语课你也可以享受，但是如果老外在 YouTube 上找不到喜欢的课，就不可能找到 BiliBili 去听中文可课了。另外，受益于国内广泛的学生和工程师群体，eetop 这类连老外都羡慕的网站也得好好珍惜，可以说是 IC 届的 GitHub 了，从 slides 到 PDK，只要胆子大，无奇不有。
