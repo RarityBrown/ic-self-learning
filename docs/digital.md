@@ -13,6 +13,7 @@ to ref: https://github.com/abdelazeem201/ASIC-Design-Roadmap
 - Verilog 而不是 Chisel 等 HLS：~~不要被做体系结构的人拐跑了（说的就是一生一芯）~~
 - Verilog 而不是 SystemVerilog：面向初学者的 SystemVerilog 的优质课程或教材较少，往往假设读者有 Verilog 背景；而且面向验证的内容多，面向设计的内容少
   - [RTL Modeling with SystemVerilog for Simulation and Synthesis by Stuart Sutherland](https://www.sutherland-hdl.com/books_and_guides.html) 作者去世
+  - Synthesizing SystemVerilog Busting the Myth that SystemVerilog is only for Verification
   - 当然，如果准备在数字方向上深造的话近年来可能还是 SystemVerilog 为主了，当然，这只是我一个数字外行人的想法罢了
 
 ## Courses
@@ -24,18 +25,9 @@ to ref: https://github.com/abdelazeem201/ASIC-Design-Roadmap
 | Cornell             | ECE 5760      |                                                              | Advanced Microcontroller Design and system-on-chip |                |                   |           |                                                    |
 | MIT                 | 6.111         |                                                              | Introductory Digital Systems Laboratory            |                |                   |           |                                                    |
 | Bar-Ilan University | 83-612        | [2018](https://www.eng.biu.ac.il/temanad/digital-vlsi-design/) | Digital VLSI Design                                | Adam Teman     | YouTube           | available | [知乎讲解](https://zhuanlan.zhihu.com/p/692181873) |
+| UC San Diego        | ECE 111       |                                                              | Advanced Digital Design Project                    |                |                   |           | SystemVerilog                                      |
 
 \*顺带一提，Google 联想 Tim Cook 是校友，这学校感觉很不出名啊，也是因为 Google 到 slides 后一看内容感觉很好才发现的
-
-
-
-
-
-
-
-
-
-
 
 ## Books
 
