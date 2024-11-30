@@ -1,23 +1,20 @@
-- 数学基础
-- 数学进阶
-- 物理基础
-  - 大学物理
-  - 电磁场
-  - 固体物理
+- 数理基础
+  - 微积分、线性代数、概率论
+  - 大学物理、电磁场、固体物理
 - 编程入门 & 计算机背景
-  - C/C++
-  - Python
-  - MATLAB
-  - 机器学习
-  - 计组
-- 电路基础
+  - C、C++、Python、MATLAB、计组
+- 专业基础
   - 电路分析
-  - 模拟电路
-- 信号
+  - 专业导论，以 Berkeley EECS 16 为例
+- Signal.md
   - 信号系统
   - DSP
-- Analog
-- Digital
+  - 通信原理
+- Analog.md
+  - Analog Circuits
+  - Analog IC
+  - Advanced Analog IC
+- Digital.md
   - Digital Logic
   - Digital IC
   - FPGA
