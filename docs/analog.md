@@ -153,6 +153,13 @@ UCB 的 EE140/240 相对好一些，大概 2010 年左右的视频。（不过�
 ### ISSCC
 
 - 2021, Designing Amplifiers for Stability
+- https://github.com/nishanchettri/ISSCC-Courses
+
+
+### Paper Worth Reading
+
+- [Current Reference Circuits: A Tutorial](https://ieeexplore.ieee.org/document/9314894) TCAS2
+
 
 ### Other Basic Topics
 
