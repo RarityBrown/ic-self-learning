@@ -3,6 +3,11 @@
 
 ### 课程资源
 
+
+台湾中華大學 田慶誠 田庆诚：BiliBili 有转载
+
+贾海坤 集创赛 short course?
+
 [学射频ic 先啃拉扎维的模集还是射频微电子? - 知乎 (zhihu.com)](https://www.zhihu.com/question/528173753)
 
 [射频集成电路设计都需要哪些方面的知识？ - 知乎](https://www.zhihu.com/question/396596897)
@@ -11,9 +16,10 @@
 
 Fudan
 
-台湾中華大學 田慶誠 田庆诚：BiliBili 有转载
+
 
 MIT 6.776
+
 
 ### 就业
 
