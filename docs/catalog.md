@@ -1,3 +1,5 @@
+
+
 - 数理基础
   - 微积分、线性代数、概率论
   - 大学物理、电磁场、固体物理
@@ -6,24 +8,29 @@
 - 专业基础
   - 电路分析
   - 专业导论，以 Berkeley EECS 16 为例
-- Signal.md
-  - 信号系统
-  - DSP
-  - 通信原理
-- Analog.md
-  - Analog Circuits
-  - Analog IC
-  - Advanced Analog IC
-- Digital.md
-  - Digital Logic
-  - Digital IC
-  - FPGA
-  - Verilog
-- Device
-  - 半导体物理
-  - 半导体器件
+- [Signal](signal.md)
+  - 信号与系统 Signal and System
+  - 通信原理 Communication Systems
+  - 数字信号处理 Digital Signal Processing
+- [Analog](analog.md)
+  - 模拟电路 Analog Circuits
+    - 模拟电路实验 Analog Circuits Lab
+  - 模拟集成电路 Analog IC
+    - 模拟集成电路实验 Analog IC Lab
+  - 高级模拟集成电路 Advanced Analog IC
+- [Digital](digital.md)
+  - 数字逻辑 Digital Logic
+    - 数字逻辑实验 Digital Logic Lab
+  - 数字集成电路 Digital IC
+    - 数字集成电路实验 Digital IC Lab
+      - Verilog
+      - FPGA
+- [Device](device.md)
+  - 半导体物理 Semiconductor Physics
+  - 半导体器件 Device
+    - 器件实验 Device Lab
 - Process
-- MEMS
+- MEMS & Sensor
 - PCB
   - 信号完整性
 - EDA
