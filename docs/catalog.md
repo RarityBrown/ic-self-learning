@@ -2,6 +2,9 @@
 
 - 数理基础
   - 微积分、线性代数、概率论
+  - （复变函数/工程数学/数学物理方法）
+    - *Advanced Engineering Mathematics*
+    - *Mathematical Methods in the Physical Sciences*
   - 大学物理、电磁场、固体物理
 - 编程入门 & 计算机背景
   - C、C++、Python、MATLAB、计组
