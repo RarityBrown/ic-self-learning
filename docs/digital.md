@@ -2,19 +2,19 @@
 
 - 虽然大概率以后就是做 analog 的了，但是和 digital 因电源时钟离不开 analog 类似，analog 因接口测试离不开 digital，所以也得学习啊
 - 国内高校普遍使用 *Digital Integrated Circuit: A Design Perspective* 这本又老又底层的书，对于 Verilog 和 Architecture 的内容介绍几乎为零，从现代的角度看与其说是 design perspective 的，不妨说是 EDA perspective 的。另一本国内高校普遍使用的 Verilog 书过度关注于语法，而且太老，不适合用于学习
-- 建议的 prerequisite 和 EECS 151 一致：数电、计组，也非常建议考虑用 AI 辅助学一学 Verilog 基础的语法
-- 本文目前主要关注数字前端，如果有空可能会放一些数字后端的东西，不过这个似乎也是 EDA perspective 的东西，没有什么“知识”
+- 建议的 prerequisite 和 EECS 151 一致：数电、计组，也非常建议考虑用 AI 辅助学一学 Verilog 基础的语法和其对应的电路实现
+- 本文目前主要关注数字前端，如果有空可能会放一些数字后端的东西，不过这个似乎也是 EDA perspective 的东西，没有什么“知识”，偏向于“技术”
 
 to ref: https://github.com/abdelazeem201/ASIC-Design-Roadmap
 
 ## HDL Language
 
-- Verilog 而不是 VHDL：ref: *Language Wars in the 21st Century: Verilog versus VHDL*
-- Verilog 而不是 Chisel 等 HLS：~~不要被做体系结构的人拐跑了（说的就是一生一芯）~~
-- Verilog 而不是 SystemVerilog：面向初学者的 SystemVerilog 的优质课程或教材较少，往往假设读者有 Verilog 背景；而且面向验证的内容多，面向设计的内容少
+- Verilog 而不是 VHDL：ref: *Language Wars in the 21st Century: Verilog versus VHDL*. 早年间欧洲用 VHDL 多，但是因为 IC 产业在美国比较发达，而美国用 Verilog 多，所以近年来 Verilog 和 SystemVerilog 更主流了。
+- Verilog 而不是 Chisel 等 HLS：不要被做体系结构的人拐跑了（说的就是一生一芯）。digital design 和 computer architecture 本质上是两个专业，数字 ICer 用 Chisel 就像嵌入式工程师用 MicroPython 一样奇怪。你也可以看看一些[其他观点](https://www.zhihu.com/question/58584770)
+- 初学时使用 Verilog 而不是 SystemVerilog：面向初学者的 SystemVerilog 的优质课程或教材较少，往往假设读者有 Verilog 背景；而且面向验证的内容多，面向设计的内容少
   - [RTL Modeling with SystemVerilog for Simulation and Synthesis by Stuart Sutherland](https://www.sutherland-hdl.com/books_and_guides.html) 作者去世
   - Synthesizing SystemVerilog Busting the Myth that SystemVerilog is only for Verification
-  - 当然，如果准备在数字方向上深造的话近年来可能还是 SystemVerilog 为主了，当然，这只是我一个数字外行人的想法罢了
+  - 如果准备在数字方向上深造的话近年来还是 SystemVerilog 为主了，当然，这只是我一个数字外行人的浅薄想法罢了
 
 ## Courses
 
@@ -105,7 +105,7 @@ Designing Video Game Hardware in Verilog
 - https://www.zhihu.com/question/21892919
 - https://www.zhihu.com/question/54815861
 - https://www.zhihu.com/question/403640698
-
+- https://www.zhihu.com/question/561619125
 
 一些工具资源
 
