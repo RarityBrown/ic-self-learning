@@ -1,13 +1,14 @@
 
 
 - 数理基础
-  - 微积分、线性代数、概率论
+  - 微积分、线性代数、概率论：本文略
   - （复变函数/工程数学/数学物理方法）
     - *Advanced Engineering Mathematics*
     - *Mathematical Methods in the Physical Sciences*
   - 大学物理、电磁场、固体物理
-- 编程入门 & 计算机背景
-  - C、C++、Python、MATLAB、计组
+- 编程入门 & 计算机背景：详见 [CS 自学指南](https://github.com/pkuflyingpig/cs-self-learning/)，本文略
+  - C、C++、Python、MATLAB
+  - 计组/体系结构、数据结构与算法、机器学习导论/人工智能导论
 - 专业基础
   - 电路分析
   - 专业导论，以 Berkeley EECS 16 为例
@@ -20,7 +21,8 @@
     - 模拟电路实验 Analog Circuits Lab
   - 模拟集成电路 Analog IC
     - 模拟集成电路实验 Analog IC Lab
-  - 高级模拟集成电路 Advanced Analog IC
+  - 高等模拟集成电路 Advanced Analog IC
+  - 射频集成电路 RFIC
 - [Digital](digital.md)
   - 数字逻辑 Digital Logic
     - 数字逻辑实验 Digital Logic Lab
