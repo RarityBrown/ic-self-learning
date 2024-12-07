@@ -1,5 +1,7 @@
 # PLL
 
+ref: https://zhuanlan.zhihu.com/p/9576555642
+
 ### 课程资源
 
 - isscc short course
