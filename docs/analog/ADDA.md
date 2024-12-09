@@ -25,6 +25,13 @@ ADDA 方向南京大学是有本科生选修课的？
   - 《低功耗 CMOS 逐次逼近型模数转换器》
 - Allen
   - 第二版
+ 
+
+#### ISSCC
+
+2016 ISSCC Tutorials: Basics of SAR ADCs: Circuits & Architectures
+
+
 
 ### 经典文献
 
