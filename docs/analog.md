@@ -80,7 +80,7 @@
  
 另外，因为被 Hajimiri 的人格有点吸引到了，所以就多提他几句。Hajimiri 最近几年好像在搞什么地球同步轨道供电之类的，“想要改变人类科技发展”的壮举了，他好像 TED 和 RFIC 之类的演讲中讲了不少这个，考虑到他还相对比较年轻，感觉真的是高山仰止。
 
-### Boris Murmann @ Stanford
+### Boris Murmann @ Stanford → UH Mānoa
 
 Murmann 2023 年从 Stanford 跳槽到夏威夷大学去养老了。在夏威夷大学没开高等模集的课，开了一个开源 EDA 模集设计课。其他的可以看看 [Boris Murmann: GitHub](https://github.com/bmurmann)，因为这个老师相对 Razavi, Allen 年轻，GitHub 用得较多。
 
@@ -171,34 +171,6 @@ SSCS 的 Student Member 中国区一年 $14+$5.5（IEEE + [SSCS](https://www.iee
 
 - [Current Reference Circuits: A Tutorial](https://ieeexplore.ieee.org/document/9314894) TCAS2
 
-
-### Other Basic Topics
-
-- translinear loop
-- bootstrap
-- chopper
-
-### (Ultra) Low-Voltage Design
-
-一些（超）低压和亚阈值的书，改天再整理。主要是想看一下 sub-1V / 0.7V 左右的模拟电路设计（不是射频电路）
-
-- Sub-threshold Design for Ultra Low-Power Systems
-- Analog Building Blocks for Low Voltage Applications
-- Extreme Low-Power Mixed Signal IC Design: Subthreshold Source-Coupled Circuits
-- Design of CMOS Analog Integrated Circuits and Systems
-- Low-Power Analog Techniques, Sensors for Mobile Devices, and Energy Efficient Amplifiers
-- Low-Power CMOS VLSI Circuit Design
-- CMOS Analog Design Using All-Region MOSFET Modeling
-- Low-Voltage CMOS Log Companding Analog Design
-- Low-Voltage CMOS Operational Amplifiers: Theory, Design and Implementation
-- Ultra-Low Power Application-Specific Integrated Circuits for Sensing
-- Ultra-Low Power Integrated Circuit Design
-- https://www.scribd.com/document/43005861/10-1-1-112
-- https://www.scribd.com/document/40733019/Low-Voltage-LowPower-AnalogComs-Course
-
-
-[A 60-dB Gain OTA Operating at 0.25-V Power Supply in 130-nm Digital CMOS Process](https://ieeexplore.ieee.org/document/6695792)
-
 ### Overview & Roadmap
 
 对于天资不特别出众的学生而言，总体建议的学习路径如下（横轴为一年的时间 365 天，可视情况自由放缩时间）：
@@ -248,8 +220,47 @@ gantt
 
 
 
+## Analog/Mixed-Signal/RF EDA
+
+### SPICE & BSIM
+
+
+### Kenneth S. Kundert @ UC Berkeley → Cadence 
+
+- [Life After SPICE](https://ieeexplore.ieee.org/document/6051611)
+- [Simulation of Nonlinear Circuits in the Frequency Domain](https://ieeexplore.ieee.org/document/1270223)
+- [Steady-State Methods for Simulating Analog and Microwave Circuits](https://link.springer.com/book/10.1007/978-1-4757-2081-5)
+- [The Designer’s Guide to Spice and Spectre®](https://link.springer.com/book/10.1007/b101824)
+- [The Designer’s Guide to Verilog-AMS](https://link.springer.com/book/10.1007/b117108)
+- [Introduction to RF simulation and its application](https://ieeexplore.ieee.org/document/782091)
+
+## Other Basic Topics
+
+- translinear loop
+- bootstrap
+- chopper
 
 
 
+### (Ultra) Low-Voltage Design
+
+一些（超）低压和亚阈值的书，改天再整理。主要是想看一下 sub-1V / 0.7V 左右的模拟电路设计（不是射频电路）
+
+- Sub-threshold Design for Ultra Low-Power Systems
+- Analog Building Blocks for Low Voltage Applications
+- Extreme Low-Power Mixed Signal IC Design: Subthreshold Source-Coupled Circuits
+- Design of CMOS Analog Integrated Circuits and Systems
+- Low-Power Analog Techniques, Sensors for Mobile Devices, and Energy Efficient Amplifiers
+- Low-Power CMOS VLSI Circuit Design
+- CMOS Analog Design Using All-Region MOSFET Modeling
+- Low-Voltage CMOS Log Companding Analog Design
+- Low-Voltage CMOS Operational Amplifiers: Theory, Design and Implementation
+- Ultra-Low Power Application-Specific Integrated Circuits for Sensing
+- Ultra-Low Power Integrated Circuit Design
+- https://www.scribd.com/document/43005861/10-1-1-112
+- https://www.scribd.com/document/40733019/Low-Voltage-LowPower-AnalogComs-Course
+
+
+[A 60-dB Gain OTA Operating at 0.25-V Power Supply in 130-nm Digital CMOS Process](https://ieeexplore.ieee.org/document/6695792)
 
 
