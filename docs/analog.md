@@ -170,6 +170,7 @@ SSCS 的 Student Member 中国区一年 $14+$5.5（IEEE + [SSCS](https://www.iee
 ### Paper Worth Reading
 
 - [Current Reference Circuits: A Tutorial](https://ieeexplore.ieee.org/document/9314894) TCAS2
+- [A Systematic Review of Voltage Reference Circuits: Spanning Room Temperature to Cryogenic Applications](https://ieeexplore.ieee.org/document/10786235) TCAS1
 
 ### Overview & Roadmap
 
