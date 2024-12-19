@@ -1,35 +1,39 @@
 # ADDA
 
-### prerequisite
+## Prerequisite
 
-- 开关电容
-- comparator
+### Switch-Capacitor
+
+### Comparator
+
+[Keeping Things Quiet: A New Methodology for Dynamic Comparator Noise Analysis, Art Schaldenbrand, 2016](https://www.cadence.com/content/dam/cadence-www/global/en_US/videos/tools/custom-_ic_analog_rf_design/NoiseAnalyisposting201612Chalk%20Talk.pdf)
+
+### Introduction
+
 - A Brief History of Data Conversion: A Tale of Nozzles, Relays, Tubes, Transistors, and CMOS
+- FUNDAMENTALS OF SAMPLED DATA SYSTEMS, ADI
 
-
-### 入门
-
-FUNDAMENTALS OF SAMPLED DATA SYSTEMS, ADI
-
-### 课程资源
+## 学习资源
 
 ADDA 方向南京大学是有本科生选修课的？
 
-
-- 孙楠 @ THU
-- 李福乐 @ THU
-- 唐希源 @ PKU?
+- Boris Murmann @ Stanford
+  - 2022 ISSCC Short Course: Introduction to ADCs/DACs: Metrics, Topologies, Trade Space, and Applications
+  - https://github.com/bmurmann/ADC-survey
+- Pieter Harpe (SAR-ADC) @ TU/e
+  - 2016 ISSCC Tutorials: [Basics of SAR ADCs: Circuits & Architectures](https://resourcecenter.sscs.ieee.org/education/short-courses/sscstut20160090)
+  - 2016 SSC-M: [Successive Approximation Analog-to-Digital Converters: Improving Power Efficiency and Conversion Speed](https://ieeexplore.ieee.org/document/7743043)
+  - 2019 ESSCIRC: [Low-power SAR ADCs: trends, examples and future](https://ieeexplore.ieee.org/document/8902871) & [Low-Power SAR ADCs: Basic Techniques and Trends](https://ieeexplore.ieee.org/document/9908164)
+  - 2024 CICC: [Energy Efficient ADC Design Techniques](https://ieeexplore.ieee.org/document/10529035)
+- 孙楠 & 李福乐 @ THU
+- 唐希源 @ PKU
+  - 2022 TCASI: [Low-Power SAR ADC Design: Overview and Survey of State-of-the-Art Techniques](https://ieeexplore.ieee.org/document/9761973)
 - UCB EE 247 (old), EE 240C (new)
-
 - 朱樟明 @ XIDIAN
   - 《低功耗 CMOS 逐次逼近型模数转换器》
 - Allen
   - 第二版
- 
 
-#### ISSCC
-
-2016 ISSCC Tutorials: Basics of SAR ADCs: Circuits & Architectures
 
 
 
@@ -38,11 +42,6 @@ ADDA 方向南京大学是有本科生选修课的？
 | Title                                                        | Author                 | Year | IEEE/Google Scholar |
 | ------------------------------------------------------------ | ---------------------- | ---- | ------------------- |
 | [A 10-bit 50-MS/s SAR ADC With a Monotonic Capacitor Switching Procedure](https://ieeexplore.ieee.org/document/5437496) | Chun-Cheng (Jason) Liu | 2010 | 1000/1500           |
-| [Low-Power SAR ADC Design: Overview and Survey of State-of-the-Art Techniques](https://ieeexplore.ieee.org/document/9761973) | 唐希源                 | 2022 | 62/44               |
-
-
-
-https://github.com/bmurmann/ADC-survey
 
 
 ### 参考
