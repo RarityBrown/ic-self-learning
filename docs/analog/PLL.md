@@ -5,7 +5,9 @@ ref: https://zhuanlan.zhihu.com/p/9576555642
 ### 课程资源
 
 - isscc short course
-- Razavi
+- Razavi @ UCLA
+  - ISSCC 2021 Short Course: Introduction to PLLs: Phase Noise, Modeling, and Key Wireless Design Considerations
+  - 2020 book: *Design of CMOS Phase-Locked Loops*
 - 李致毅 @ NTU
   - 是 Razavi 的学生，关于更多八卦详见 [Academic Tree](https://github.com/RarityBrown/blog/blob/main/blog/hall_of_fame.md#razavi)
   - [BiliBili](https://space.bilibili.com/1629031600)
