@@ -1,4 +1,4 @@
-
+# Analog IC
 
 ## Undergraduate-level device & Graduate-level, design perspective device
 
@@ -226,14 +226,25 @@ gantt
 ### SPICE & BSIM
 
 
-### Kenneth S. Kundert @ UC Berkeley → Cadence 
+### Spectre by Cadence: Kenneth S. Kundert @ UC Berkeley → Cadence 
 
 - [Life After SPICE](https://ieeexplore.ieee.org/document/6051611)
 - [Simulation of Nonlinear Circuits in the Frequency Domain](https://ieeexplore.ieee.org/document/1270223)
 - [Steady-State Methods for Simulating Analog and Microwave Circuits](https://link.springer.com/book/10.1007/978-1-4757-2081-5)
-- [The Designer’s Guide to Spice and Spectre®](https://link.springer.com/book/10.1007/b101824)
+- [The Designer’s Guide to Spice and Spectre®](https://link.springer.com/book/10.1007/b101824) 有许建超（西安交通大学）的电子译本
 - [The Designer’s Guide to Verilog-AMS](https://link.springer.com/book/10.1007/b117108)
 - [Introduction to RF simulation and its application](https://ieeexplore.ieee.org/document/782091)
+
+
+
+
+### Keysight ADS
+
+RFPro = FEM + Momentum
+ChannelSim (SerDes 方向)
+
+### Ansys HFSS
+
 
 ## Other Basic Topics
 
@@ -263,5 +274,9 @@ gantt
 
 
 [A 60-dB Gain OTA Operating at 0.25-V Power Supply in 130-nm Digital CMOS Process](https://ieeexplore.ieee.org/document/6695792)
+
+## Advanced Analog/RF/Mixed-Signal Topic for Graduate Student
+
+对于研究生层次的方向，因为行业内竞争和保密等原因，公开的教学资源更加稀少。详见 analog 文件夹。
 
 
