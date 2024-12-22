@@ -17,7 +17,8 @@
 
 ADDA 方向南京大学是有本科生选修课的？
 
-- Boris Murmann @ Stanford
+- Boris Murmann @ Stanford → UH Mānoa
+  - Stanford EE315A, EE315B
   - 2022 ISSCC Short Course: Introduction to ADCs/DACs: Metrics, Topologies, Trade Space, and Applications
   - https://github.com/bmurmann/ADC-survey
 - Pieter Harpe (SAR-ADC) @ TU/e
