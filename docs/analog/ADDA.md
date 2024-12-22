@@ -13,7 +13,9 @@
 - A Brief History of Data Conversion: A Tale of Nozzles, Relays, Tubes, Transistors, and CMOS
 - FUNDAMENTALS OF SAMPLED DATA SYSTEMS, ADI
 
-## 学习资源
+## Classic ADDA
+
+###  学习资源
 
 ADDA 方向南京大学是有本科生选修课的？
 
@@ -53,3 +55,24 @@ ADDA 方向南京大学是有本科生选修课的？
 - https://www.zhihu.com/question/478487601
 - https://www.zhihu.com/question/590222455
 - https://www.zhihu.com/question/433785533
+
+
+
+
+## Sensor Interface & Biomedical IC
+
+
+| University | Course No. | Year / WebSite                                              | Name                | Teacher         | Video | Slide |
+| ---------- | ---------- | ----------------------------------------------------------- | ------------------- | --------------- | ----- | ----- |
+| TU Delft   | EE1320     | [2013](https://ocw.tudelft.nl/courses/measurement-science/) | Measurement Science | Michiel Pertijs | OCW   | OCW   |
+|            |            |                                                             |                     |                 |       |       |
+
+
+
+- Kofi Makinwa @ TU Delft
+  - ISSCC 2008 Tutorial: CMOS Temperature Sensors
+  - ISSCC 2010 Short Course: Designing Smart Sensors (in Standard CMOS)
+  - VLSI 2016 VLSIx Circuit Insights: Smart Sensor Design
+
+ 
+### Chopper
