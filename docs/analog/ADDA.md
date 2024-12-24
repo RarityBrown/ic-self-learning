@@ -73,6 +73,15 @@ ADDA 方向南京大学是有本科生选修课的？
   - ISSCC 2008 Tutorial: CMOS Temperature Sensors
   - ISSCC 2010 Short Course: Designing Smart Sensors (in Standard CMOS)
   - VLSI 2016 VLSIx Circuit Insights: Smart Sensor Design
+- Fan Qinwen @ TU Delft
+  - Webinar 2022: Evolution of precision amplifiers
 
  
-### Chopper
+### Chopper & Chopping
+
+### Auto-Zeroing
+
+### Dynamic Element Matching (DEM)
+
+
+
