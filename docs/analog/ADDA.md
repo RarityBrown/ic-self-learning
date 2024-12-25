@@ -68,20 +68,26 @@ ADDA 方向南京大学是有本科生选修课的？
 |            |            |                                                             |                     |                 |       |       |
 
 
-
 - Kofi Makinwa @ TU Delft
+  - ESSCIRC 2007 PLENARY: Smart sensor design: The art of compensation and cancellation
   - ISSCC 2008 Tutorial: CMOS Temperature Sensors
   - ISSCC 2010 Short Course: Designing Smart Sensors (in Standard CMOS)
   - VLSI 2016 VLSIx Circuit Insights: Smart Sensor Design
 - Fan Qinwen @ TU Delft
   - Webinar 2022: Evolution of precision amplifiers
 
- 
-### Chopper & Chopping
+### Chopping & Auto-Zeroing & Dynamic Element Matching (DEM)
 
-### Auto-Zeroing
+- Kofi Makinwa @ TU Delft
+  - ISSCC 2007 Tutorial: Dynamic-Offset Cancellation Techniques in CMOS
+  - ISSCCedu 2016: Chopper Amplifier Demystified
+  - ESSCIRCedu 2018: Auto-Zeroing Demystified
+  - IEEE Sensors 2018: Capacitively-Coupled Chopper Instrumentation Amplifiers: an Overview
+  - ISSCC 2022 Circuit Insights: Coping with Variability
+  - ESSCIRC 2023 Circuit Insights: The Power of Averaging
 
-### Dynamic Element Matching (DEM)
+
+[Chopping Amp in Cadence Virtuoso](https://www.youtube.com/watch?v=gF8sOlK7TM8)
 
 
 
