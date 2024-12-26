@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f927ba83-a9d5-4941-bc25-0f772d086ef0)# ADDA
+# ADDA
 
 ## Prerequisite
 
