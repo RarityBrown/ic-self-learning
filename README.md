@@ -16,7 +16,7 @@ UC Berkeley [EECS Circuits/Computer Hardware Course Flow Map](https://eecs.berke
 
 ![image](https://github.com/user-attachments/assets/3de7f83c-bbcd-4e9d-927f-2c627a7cb428)
 
-Other references: [1](https://engineering.berkeley.edu/students/undergraduate-guide/degree-requirements/major-programs/electrical-engineering-computer-sciences/) [2](https://eecs.berkeley.edu/resources/undergrads/eecs-2/study-plans/)
+Other references: [1](https://www.zhihu.com/question/20177494/answer/29057506) [2](https://engineering.berkeley.edu/students/undergraduate-guide/degree-requirements/major-programs/electrical-engineering-computer-sciences/) [3](https://eecs.berkeley.edu/resources/undergrads/eecs-2/study-plans/) 
 
 ## Georgia Tech
 
