@@ -173,8 +173,15 @@ UCB 的 EE140/240 相对好一些，大概 2010 年左右的视频。（不过�
 
 ![image](https://github.com/user-attachments/assets/f13a2ac0-3435-45b9-a681-0cc53726c695)
 
+下面是一些基础的 Tutorial 和 Short Course，适合高年级本科生观看：
 
-- 2021, Designing Amplifiers for Stability
+
+| Title                              | Year | Instructor     | Type     |
+| ---------------------------------- | ---- | -------------- | -------- |
+| Design of Voltage References       | 2013 | Wing-Hung Ki   | Tutorial |
+| Designing Amplifiers for Stability | 2021 | Viola Schäffer | Tutorial |
+
+
 - https://github.com/nishanchettri/ISSCC-Courses
 
 
