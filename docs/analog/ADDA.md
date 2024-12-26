@@ -1,4 +1,4 @@
-# ADDA
+![image](https://github.com/user-attachments/assets/f927ba83-a9d5-4941-bc25-0f772d086ef0)# ADDA
 
 ## Prerequisite
 
@@ -68,10 +68,11 @@ ADDA 方向南京大学是有本科生选修课的？
 |            |            |                                                             |                     |                 |       |       |
 
 
-- Kofi Makinwa @ TU Delft
+- Kofi Makinwa & Michiel Pertijs @ TU Delft
   - ESSCIRC 2007 PLENARY: Smart sensor design: The art of compensation and cancellation
   - ISSCC 2008 Tutorial: CMOS Temperature Sensors
   - ISSCC 2010 Short Course: Designing Smart Sensors (in Standard CMOS)
+  - ISSCC 2014 Tutorial: Design of Physical-to-Digital Converters
   - VLSI 2016 VLSIx Circuit Insights: Smart Sensor Design
 - Fan Qinwen @ TU Delft
   - Webinar 2022: Evolution of precision amplifiers
