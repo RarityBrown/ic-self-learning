@@ -16,11 +16,27 @@ UC Berkeley [EECS Circuits/Computer Hardware Course Flow Map](https://eecs.berke
 
 ![image](https://github.com/user-attachments/assets/3de7f83c-bbcd-4e9d-927f-2c627a7cb428)
 
+Other references: [1](https://engineering.berkeley.edu/students/undergraduate-guide/degree-requirements/major-programs/electrical-engineering-computer-sciences/) [2](https://eecs.berkeley.edu/resources/undergrads/eecs-2/study-plans/)
+
 ## Georgia Tech
 
 Georgia Tech [ECE Circuits/Computer Hardware Course Flow, Hardware Course Flow Map](https://ece.gatech.edu/ece-circuitscomputer-hardware-course-flow) (2024-09)
 
 ![image](https://github.com/user-attachments/assets/776e2a21-f696-4c96-9f6c-84d1d4bf23b3)
+
+## Stanford
+
+Stanford [Electrical Engineering Program | SoE Undergrad Handbook](https://ughb.stanford.edu/majors-minors/electrical-engineering-program) (2024~2025)
+
+![image](https://github.com/user-attachments/assets/ba877a1a-c305-404f-9e71-61a539947060)
+
+Other references: [1](https://archived-bulletin.stanford.mobi/soe-ug-majors/ee/ee.pdf) [2](https://archived-bulletin.stanford.mobi/soe-ug-majors/ee/)
+
+## Others
+
+Caltech: [Undergraduate Programs - Electrical Engineering](https://www.ee.caltech.edu/academics/ugrad)
+
+MIT: [Electrical Engineering with Computing (Course 6-5) | MIT Course Catalog](https://catalog.mit.edu/degree-charts/electrical-engineering-computing-6-5/) & [EECS Tracks | MIT Course Catalog](https://catalog.mit.edu/degree-charts/electrical-engineering-computer-science-tracks/#electricalengineeringtext)
 
 # Credit
 
