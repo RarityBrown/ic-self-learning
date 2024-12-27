@@ -2,16 +2,22 @@
 
 ## Signal and System
 
-| University   | Course No. | Year / WebSite                                               | Name                                       | Teacher | Video    | Slide | Lab  | Others |
-| ------------ | ---------- | ------------------------------------------------------------ | ------------------------------------------ | ------- | -------- | ----- | ---- | ------ |
-| MIT          | 6.003      | [2011](https://ocw.mit.edu/courses/6-003-signals-and-systems-fall-2011/) | Signals and Systems                        |         |          |       |      |        |
-| UC Berkeley  | EE 120     |                                                              | Signals and Systems                        |         | BiliBili |       |      |        |
-| Stanford     | EE261      | [2007](https://see.stanford.edu/Course/EE261)                | The Fourier Transform and its Applications |         |          |       |      |        |
-| 台湾科技大学 |            |                                                              | 信号与系统                                 | 黄腾毅  | BiliBili |       |      |        |
+| University   | Course No. | Year / WebSite                                               | Name                                       | Teacher           | Video    | Slide | Lab  | Others                                                       |
+| ------------ | ---------- | ------------------------------------------------------------ | ------------------------------------------ | ----------------- | -------- | ----- | ---- | ------------------------------------------------------------ |
+| MIT          | 6.003      | [2011](https://ocw.mit.edu/courses/6-003-signals-and-systems-fall-2011/) | Signals and Systems                        | Dennis Freeman    | OCW      | OCW   | OCW  |                                                              |
+| MIT          | RES.6-007  | [1987](https://ocw.mit.edu/courses/res-6-007-signals-and-systems-spring-2011/) | Signals and Systems                        | Alan V. Oppenheim | YouTube  |       |      | [6.003 or RES.6.007? : r/DSP](https://www.reddit.com/r/DSP/comments/194qq87/ocw_mits_6003_or_res6007/) |
+| UC Berkeley  | EE 120     |                                                              | Signals and Systems                        |                   | BiliBili |       |      |                                                              |
+| Stanford     | EE261      | [2007](https://see.stanford.edu/Course/EE261)                | The Fourier Transform and its Applications |                   |          |       |      |                                                              |
+| 台湾科技大学 |            |                                                              | 信号与系统                                 | 黄腾毅            | BiliBili |       |      |                                                              |
 
 ref: https://www.zhihu.com/question/489621535/answer/3552095571
 
 ## Digital Signal Processing
+
+| University  | Course No. | Year / WebSite                                               | Name                      | Teacher           | Video   | Slide | Lab  | Others |
+| ----------- | ---------- | ------------------------------------------------------------ | ------------------------- | ----------------- | ------- | ----- | ---- | ------ |
+| MIT         | RES.6-008  | [1987](https://ocw.mit.edu/courses/res-6-008-digital-signal-processing-spring-2011/) | Digital Signal Processing | Alan V. Oppenheim | YouTube |       |      |        |
+| UC Berkeley | EE 123     | [2020](https://sites.google.com/berkeley.edu/ee123-sp20/home) | Digital Signal Processing | Michael Lustig    | YouTube | y     | y    |        |
 
 ## Communication Systems / Digital Communication
 
