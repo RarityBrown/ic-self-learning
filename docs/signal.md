@@ -17,7 +17,7 @@ ref: https://www.zhihu.com/question/489621535/answer/3552095571
 | University  | Course No. | Year / WebSite                                               | Name                      | Teacher           | Video   | Slide | Lab  | Others |
 | ----------- | ---------- | ------------------------------------------------------------ | ------------------------- | ----------------- | ------- | ----- | ---- | ------ |
 | MIT         | RES.6-008  | [1987](https://ocw.mit.edu/courses/res-6-008-digital-signal-processing-spring-2011/) | Digital Signal Processing | Alan V. Oppenheim | YouTube |       |      |        |
-| UC Berkeley | EE 123     | [2020](https://sites.google.com/berkeley.edu/ee123-sp20/home) | Digital Signal Processing | Michael Lustig    | YouTube | y     | y    |        |
+| UC Berkeley | EE 123     | [2020](https://sites.google.com/berkeley.edu/ee123-sp20/home) | Digital Signal Processing | Michael Lustig    | n    | y     | y    |        |
 
 ## Communication Systems / Digital Communication
 
