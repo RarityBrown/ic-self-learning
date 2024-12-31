@@ -26,13 +26,14 @@
 
 - book & solution: CMOS only
   - 中文版翻译质量极高（甚至纠正了一些原版的错误），适合初学者（模电基础还是需要的） ⭐⭐⭐⭐⭐
-  - 网上的作业答案有五个版本：Razavi?手写版、chegg?电子版、潘剑华中文版、知乎网友版（不全）、icdesign.com（付费） 版，手写版和电子版作为最广泛流传的版本都存在着不少错误（特别是噪声那一章，而且可能一道题两份答案两种错法） ⭐⭐
+  - 网上的作业答案有五个版本：Razavi?手写版、潘剑华中文翻译版、chegg?电子版、知乎网友版（不全）、icdesign.com（付费） 版，手写版和电子版作为最广泛流传的版本都存在着不少错误（特别是噪声那一章，而且可能一道题两份答案两种错法） ⭐⭐
 - courseware
   - 课题组[网站](https://www.seas.ucla.edu/brweb/teaching/)上提供了 courseware、配套作业和考试的题目和解析
 - video
-  - 广为流传的视频 Electronic Circuits 1 是 Razavi 的模电授课，而不是模集，内容偏基础
-  - 本书的中文译者之一张鸿老师网课可参考（遗憾的是部分视频电流声大） ⭐⭐⭐
-  - Razavi Electronic Circuits 2 是高等模拟设计
+  - 广为流传的视频 Electronic Circuits 1 (@YouTube, Bilibili) 是 Razavi 的模电授课，而不是模集，内容偏基础
+  - 本书的中文译者之一张鸿老师网课 (@Bilibili) 可参考（遗憾的是部分视频电流声大） ⭐⭐⭐
+  - Razavi Electronic Circuits 2 (@YouTube, Bilibili) 是高等模拟设计
+  - [noise](https://resourcecenter.sscs.ieee.org/tags/noise) (@IEEE SSCS Resource Center) 可以参考
 - IEEE Solid-State Circuits Magazine
   - 如果你对 IC 设计有一定了解，JSSC 肯定知道，从类似的名字可以推断出 SSC-M 是 SSCS 旗下的一个 Magazine。Razavi 在上面发了不少教学性质的[小文章](https://ieeexplore.ieee.org/author/37275476000?history=no&highlight=true&returnType=SEARCH&sortType=paper-citations&refinements=PublicationTitle%3AIEEE+Solid-State+Circuits+Magazine&searchWithin="Author+Ids"%3A37275476000&returnFacets=ALL)，可以视作是书本的一种补充
   - 第 12 章：[The Bandgap Reference](https://ieeexplore.ieee.org/document/7559954), [The Design of a Low-Voltage Bandgap Reference](https://ieeexplore.ieee.org/document/9523469), [The Low Dropout Regulator](https://ieeexplore.ieee.org/document/8741287), [The Design of An LDO Regulator](https://ieeexplore.ieee.org/document/9805648)
