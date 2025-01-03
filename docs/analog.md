@@ -36,10 +36,10 @@
   - [noise](https://resourcecenter.sscs.ieee.org/tags/noise) (@IEEE SSCS Resource Center) 可以参考
 - IEEE Solid-State Circuits Magazine
   - 如果你对 IC 设计有一定了解，JSSC 肯定知道，从类似的名字可以推断出 SSC-M 是 SSCS 旗下的一个 Magazine。Razavi 在上面发了不少教学性质的[小文章](https://ieeexplore.ieee.org/author/37275476000?history=no&highlight=true&returnType=SEARCH&sortType=paper-citations&refinements=PublicationTitle%3AIEEE+Solid-State+Circuits+Magazine&searchWithin="Author+Ids"%3A37275476000&returnFacets=ALL)，可以视作是书本的一种补充
-  - 第 12 章：[The Bandgap Reference](https://ieeexplore.ieee.org/document/7559954), [The Design of a Low-Voltage Bandgap Reference](https://ieeexplore.ieee.org/document/9523469), [The Low Dropout Regulator](https://ieeexplore.ieee.org/document/8741287), [The Design of An LDO Regulator](https://ieeexplore.ieee.org/document/9805648)
-  - 第 13 章：[The Switched-Capacitor Integrator](https://ieeexplore.ieee.org/document/7829485)
-  - 第 15 章：[The Crystal Oscillator](https://ieeexplore.ieee.org/document/7954123), [The Ring Oscillator](https://ieeexplore.ieee.org/document/8901474)
-  - 第 16 章：[The Delay-Locked Loop](https://ieeexplore.ieee.org/document/8447468)
+  - 第 12 章 Reference：[The Bandgap Reference](https://ieeexplore.ieee.org/document/7559954), [The Design of a Low-Voltage Bandgap Reference](https://ieeexplore.ieee.org/document/9523469), [The Low Dropout Regulator](https://ieeexplore.ieee.org/document/8741287), [The Design of An LDO Regulator](https://ieeexplore.ieee.org/document/9805648)
+  - 第 13 章 Switched-Capacitor：[The Switched-Capacitor Integrator](https://ieeexplore.ieee.org/document/7829485)
+  - 第 15 章 Oscillator：[The Crystal Oscillator](https://ieeexplore.ieee.org/document/7954123), [The Ring Oscillator](https://ieeexplore.ieee.org/document/8901474), [The Cross-Coupled Pair - Part I](https://ieeexplore.ieee.org/document/6882880), [Part II](https://ieeexplore.ieee.org/document/6951438), [Part III](https://ieeexplore.ieee.org/document/7036175)
+  - 第 16 章 PLL：[The Delay-Locked Loop](https://ieeexplore.ieee.org/document/8447468)
 
 
 ### Phillip E. Allen @ Georgia Tech
@@ -125,23 +125,25 @@ Murmann 2023 年从 Stanford 跳槽到夏威夷大学去养老了。在夏威夷
 
 UCB 的 EE140/240 相对好一些，大概 2010 年左右的视频。（不过画质看上去像是 2000 年的）
 
+### 孙楠 @ THU
+
+- book: CMOS only
+  - 《现代模拟集成电路设计》很新的书，也是基于 gm/id 设计方法的
+  - 众说纷纭，待我细细阅读后再写
+    - 有消息说小错不少
+    - 有消息说不建议初学者入门使用，这本书和国内教材的普遍情况一样，更像是一本高度浓缩的参考册，而不是适合零基础学生自学的厚书；有消息说非常通俗易懂
+  - 电子版在 eetop 上被原作者要求下架
+- courseware
+  - 暂无公开资源
+
 ### Fudan
 
 两级运放、唐长文差分运放
 
-### 孙楠 @ THU
-
-- book: CMOS
-  - 《现代模拟集成电路设计》挺新的书，也是基于 gm/id 设计方法的，目前找不到电子版（虽然说支持正版，但是电子版主要是为了便于快速搜索书中内容）和电子版购买渠道。有消息说小错不少，待我细细阅读后再写
-  - 不建议初学者入门使用，这本书和国内教材的普遍情况一样，更像是一本高度浓缩的参考册，而不是适合零基础学生自学的厚书
-- courseware
-  - 暂无公开资源
-
-
 ###  Ali Sheikholeslami @ University of Toronto
 
 - IEEE Solid-State Circuits Magazine
-  - 和 Razavi 一样，也发了相当多的[文章](#https://ieeexplore.ieee.org/author/37274725900?searchWithin=%22Author+Ids%22%3A37274725900&history=no&highlight=true&returnFacets=ALL&returnType=SEARCH&sortType=newest&refinements=PublicationTitle%3AIEEE+Solid-State+Circuits+Magazine)，选出几篇有代表性的
+  - 和 Razavi 一样，也发了相当多的[文章](https://ieeexplore.ieee.org/author/37274725900?searchWithin=%22Author+Ids%22%3A37274725900&history=no&highlight=true&returnFacets=ALL&returnType=SEARCH&sortType=newest&refinements=PublicationTitle%3AIEEE+Solid-State+Circuits+Magazine)，选出几篇有代表性的
   - [The Signal Journey](https://ieeexplore.ieee.org/document/8901499)
   - [Looking into a Node](https://ieeexplore.ieee.org/document/6841782), [Correction to "Looking into a Node"](https://ieeexplore.ieee.org/document/6882860)
   - [Looking Into Two Nodes](https://ieeexplore.ieee.org/document/9467047)
