@@ -8,8 +8,15 @@
 
 [Keeping Things Quiet: A New Methodology for Dynamic Comparator Noise Analysis, Art Schaldenbrand, 2016](https://www.cadence.com/content/dam/cadence-www/global/en_US/videos/tools/custom-_ic_analog_rf_design/NoiseAnalyisposting201612Chalk%20Talk.pdf)
 
-### ΣΔ Modulation
+#### StrongARM
 
+- 知乎
+  - [再世孟子](https://zhuanlan.zhihu.com/p/598924151)
+  - [王小桃](https://zhuanlan.zhihu.com/p/16672774067)
+
+
+
+### ΣΔ Modulation
 
 
 ### Introduction
