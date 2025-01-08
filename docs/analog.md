@@ -170,11 +170,24 @@ UCB 的 EE140/240 相对好一些，大概 2010 年左右的视频。（不过�
   - 需要 SSCS Member
 - ISSCCx (2015 only) & ISSCCedu (2018, 2019, 2020) & ISSCC Circuit Insights (2022, 2023, 2024, 2025)
   - 类似于公开课，但是 ISSCC 的委员会也不是很靠谱，几年一变名字。其中最靠谱的就是 2022 年，请来了一堆大佬（见下图）
-  - VLSI 和 CICC 有类似的，但是也一样不靠谱
+  - 其他会议有类似的，但是也一样还不稳定，名字时常变化 [playlists](https://www.youtube.com/@IEEESolidStateCircuitsSociety/playlists)
     - VLSIx (VLSI Circuit Insights) 2016, VLSIedu (2019)
     - CICCx 2017, CICCedu (2019, 2020), CICC Educational Sessions
+    - ESSERC Circuit Insights (2023, 2024)
+    - ASSCC Circuit Insights (2024)
 
 ![image](https://github.com/user-attachments/assets/f13a2ac0-3435-45b9-a681-0cc53726c695)
+
+
+|      | ISSCC                                                        | ESSERC | ASSCC |
+| ---- | ------------------------------------------------------------ | ------ | ----- |
+| 2025 | ![image](https://github.com/user-attachments/assets/d896dbb6-4ee7-44b7-bfb2-46ad9cfd5e37) |        |       |
+| 2024 | ![image](https://github.com/user-attachments/assets/72dd7e55-d579-43c7-91d6-92734f54b6e6) |        |       |
+| 2023 | ![image](https://github.com/user-attachments/assets/e184857f-699d-4402-a690-f0031094d8b3) |        |       |
+
+
+
+
 
 下面是一些基础的 Tutorial 和 Short Course，适合高年级本科生观看：
 
