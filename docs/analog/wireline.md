@@ -10,3 +10,4 @@
 对于（没那么有钱/connection）高校来说可能不是一个很好的方向，非常吃先进工艺。但是确实是近年来信号链比较火的方向。
 
 https://www.zhihu.com/question/656963771
+https://www.zhihu.com/question/622726217
