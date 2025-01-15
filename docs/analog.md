@@ -103,7 +103,7 @@ Murmann 2023 年从 Stanford 跳槽到夏威夷大学去养老了。在夏威夷
 - book & solution?: CMOS only
   - Baker 总体的研究领域以及一本比较新的书 *CMOS Circuit: Design, Layout, and Simulation* 都算是全定制 CMOS 设计，有数字/混合信号的部分，不过 ADPLL 之类的章节倒是在“初等”模拟设计中比较少见的，可以在看完 Razavi CMOS 中关于传统 PLL 介绍后，作为一个入门性质的补充。其 ADDA 相关章节也可供入门参考。
 - courseware/video
-  - [R. Jacob Baker's courses](https://cmosedu.com/jbaker/courses/courses.htm) 可参考，目前公开的最新资源是 [2020 模集](https://www.cmosedu.com/jbaker/courses/ee420_ecg620/s20/lec_ee420_ecg620.htm) 和 [2016 高等模集](https://www.cmosedu.com/jbaker/courses/ecg720/s16/lec_ecg720.htm)
+  - [R. Jacob Baker's courses](https://cmosedu.com/jbaker/courses/courses.htm) 可参考，目前公开的最新资源是 [2020 模集 EE420](https://www.cmosedu.com/jbaker/courses/ee420_ecg620/s20/lec_ee420_ecg620.htm) 和 [2016 高等模集](https://www.cmosedu.com/jbaker/courses/ecg720/s16/lec_ecg720.htm)，BiliBili 上有转载
 
 ### Gray
 
@@ -186,7 +186,9 @@ UCB 的 EE140/240 相对好一些，大概 2010 年左右的视频。（不过�
 | 2023 | ![image](https://github.com/user-attachments/assets/e184857f-699d-4402-a690-f0031094d8b3) |        |       |
 
 
+![A2024](https://github.com/user-attachments/assets/b20af13e-69ce-459b-aeb5-14e0c55f771b)
 
+![E2024](https://github.com/user-attachments/assets/23f15d87-ab41-4afd-a803-243469272110)
 
 
 下面是一些基础的 Tutorial 和 Short Course，适合高年级本科生观看：
