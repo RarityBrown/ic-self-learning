@@ -140,14 +140,23 @@ UCB 的 EE140/240 相对好一些，大概 2010 年左右的视频。（不过�
 
 两级运放、唐长文差分运放
 
-###  Ali Sheikholeslami @ University of Toronto
+### Ali Sheikholeslami @ University of Toronto
 
 - IEEE Solid-State Circuits Magazine
-  - 和 Razavi 一样，也发了相当多的[文章](https://ieeexplore.ieee.org/author/37274725900?searchWithin=%22Author+Ids%22%3A37274725900&history=no&highlight=true&returnFacets=ALL&returnType=SEARCH&sortType=newest&refinements=PublicationTitle%3AIEEE+Solid-State+Circuits+Magazine)，选出几篇有代表性的
+  - 和 Razavi 一样，也发了挺多的 [Magazine](https://ieeexplore.ieee.org/author/37274725900?searchWithin=%22Author+Ids%22%3A37274725900&history=no&highlight=true&returnFacets=ALL&returnType=SEARCH&sortType=newest&refinements=PublicationTitle%3AIEEE+Solid-State+Circuits+Magazine)，选出几篇有代表性的
   - [The Signal Journey](https://ieeexplore.ieee.org/document/8901499)
   - [Looking into a Node](https://ieeexplore.ieee.org/document/6841782), [Correction to "Looking into a Node"](https://ieeexplore.ieee.org/document/6882860)
   - [Looking Into Two Nodes](https://ieeexplore.ieee.org/document/9467047)
   - [Source Degeneration](https://ieeexplore.ieee.org/document/6882877)
+- SSCS Tutorial, Short Course & Circuit Insights
+  - todo
+
+
+### Asad A. Abidi
+
+- Journals
+  - Oscillator: [The Quadrature LC Oscillator](https://ieeexplore.ieee.org/document/4295200), [Phase Noise and Jitter in CMOS Ring Oscillators](https://ieeexplore.ieee.org/document/1661757), [Phase Noise in LC Oscillators](https://ieeexplore.ieee.org/document/5356206)
+  - Regenerative Comparator: [Understanding the regenerative comparator circuit](https://ieeexplore.ieee.org/document/6946003), [Analysis and Design of Regenerative Comparators for Low Offset and Noise](https://ieeexplore.ieee.org/document/8699092)
 
 
 ### Johan Huijsing @ TU Delft
