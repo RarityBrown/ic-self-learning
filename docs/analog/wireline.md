@@ -1,4 +1,4 @@
-# Wireline & SerDes
+# Wireline > SerDes > CDR
 
 - Behzad Razavi @ UCLA
   - 2015 Qualcomm 内部授课: [Low-Power SERDES Design](https://bbs.eetop.cn/thread-580435-1-1.html)
