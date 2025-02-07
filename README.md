@@ -50,6 +50,12 @@ MIT: [Electrical Engineering with Computing (Course 6-5) | MIT Course Catalog](h
 
 ## EE
 
+### Course Map
+
 - [EECS | 学科自学指南](https://mugglewei.github.io/learning_compass/posts/major/eecs/)
   - [Eta Kappa Nu (HKN), Mu Chapter](https://hkn.eecs.berkeley.edu/courseguides)
 - [清华大学微电子培养方案及相应参考课程视频BV链接（V1.4） - 哔哩哔哩](https://www.bilibili.com/opus/508995032359647547)
+
+### Personal
+
+- [751K/EIE-Knowledge-Base](https://github.com/751K/EIE-Knowledge-Base)
