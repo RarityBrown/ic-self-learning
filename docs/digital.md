@@ -5,7 +5,10 @@
 - 建议的 prerequisite 和 EECS 151 一致：数电、计组，也非常建议考虑用 AI 辅助学一学 Verilog 基础的语法和其对应的电路实现
 - 本文目前主要关注数字前端，如果有空可能会放一些数字后端的东西，不过这个似乎也是 EDA perspective 的东西，没有什么“知识”，偏向于“技术”
 
-to ref: https://github.com/abdelazeem201/ASIC-Design-Roadmap
+to ref: 
+
+> https://github.com/abdelazeem201/ASIC-Design-Roadmap
+> https://github.com/LeiWang1999/FPGA
 
 ## HDL Language
 
@@ -18,6 +21,7 @@ to ref: https://github.com/abdelazeem201/ASIC-Design-Roadmap
 
 ## Courses
 
+
 | University          | Course No.                                                   | Year / WebSite                                               | Name                                                   | Teacher        | Video                                                        | Slide     | Lab                                             | Others                                                       |
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------ | -------------- | ------------------------------------------------------------ | --------- | ----------------------------------------------- | ------------------------------------------------------------ |
 | UC Berkeley         | EECS 151/251A ([EE141+CS150](https://www.reddit.com/r/berkeley/comments/g6mog0/)) | [2024](https://www.eecs151.org/)                             | Introduction to Digital Design and Integrated Circuits | John Wawrzynek | YouTuve / BiliBili                                           | available | ASIC Lab (EECS 151LA) and FPGA Lab (EECS 151LB) |                                                              |
@@ -27,10 +31,9 @@ to ref: https://github.com/abdelazeem201/ASIC-Design-Roadmap
 | Cornell             | ECE 5745                                                     |                                                              | Complex Digital ASIC Design                            |                |                                                              |           |                                                 |                                                              |
 | Cornell             | ECE 5760                                                     |                                                              | Advanced Microcontroller Design and system-on-chip     |                |                                                              |           |                                                 |                                                              |
 | MIT                 | 6.111                                                        |                                                              | Introductory Digital Systems Laboratory                |                |                                                              |           |                                                 |                                                              |
-| Bar-Ilan University | 83-612                                                       | [2018](https://www.eng.biu.ac.il/temanad/digital-vlsi-design/) | Digital VLSI Design                                    | Adam Teman     | YouTube                                                      | available |                                                 | [知乎讲解](https://www.zhihu.com/column/c_1763939142348886016) |
+| Bar-Ilan University | 83-612                                                       | [2018](https://www.eng.biu.ac.il/temanad/digital-vlsi-design/) | Digital VLSI Design                                    | Adam Teman     | YouTube, BiliBili                                            | available |                                                 | [知乎讲解](https://www.zhihu.com/column/c_1763939142348886016) |
+| Bar-Ilan University | SoC 101                                                      | [2023](https://www.eng.biu.ac.il/temanad/soc-101/)           | SoC 101                                                | Adam Teman     | YouTube, BiliBili                                            | available |                                                 | [知乎讲解](https://www.zhihu.com/column/c_1746233246805774337) |
 | UC San Diego        | ECE 111                                                      |                                                              | Advanced Digital Design Project                        |                |                                                              |           |                                                 | [知乎讲解](https://www.zhihu.com/column/c_1660699121831890944) SystemVerilog |
-
-
 
 
 \*顺带一提，Google 联想 Tim Cook 是校友，这学校感觉很不出名啊，也是因为 Google 到 slides 后一看内容感觉很好才发现的
