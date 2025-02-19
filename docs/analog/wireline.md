@@ -1,6 +1,7 @@
 # Wireline > SerDes > CDR
 
 - Behzad Razavi @ UCLA
+  - 2012 Book: Design of Integrated Circuits for Optical Communications, Second Edition
   - 2015 Qualcomm 内部授课: [Low-Power SERDES Design](https://bbs.eetop.cn/thread-580435-1-1.html)
   - 2022 OJ-SSCS: [Design Techniques for High-Speed Wireline Transmitters](https://resourcecenter.sscs.ieee.org/education/webinars/sscsweb4060)
 - 李志毅 @ NTU
