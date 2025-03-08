@@ -280,9 +280,7 @@ gantt
 - [The Designer’s Guide to Spice and Spectre®](https://link.springer.com/book/10.1007/b101824) 有许建超（西安交通大学）的电子译本
 - [The Designer’s Guide to Verilog-AMS](https://link.springer.com/book/10.1007/b117108)
 - [Introduction to RF simulation and its application](https://ieeexplore.ieee.org/document/782091)
-
-
-
+- [Striving for small-signal stability](https://ieeexplore.ieee.org/document/900125)
 
 ### Keysight ADS
 
@@ -291,6 +289,13 @@ ChannelSim (SerDes 方向)
 
 ### Ansys HFSS
 
+### MATLAB & Simulink
+
+- Mathworks 官方课程
+  - 免费
+    - [Simulink Onramp](https://matlabacademy.mathworks.com/details/simulink-onramp/simulink)
+  - 付费
+    - [Simulink for Analog Mixed-Signal Design](https://www.mathworks.com/learn/training/simulink-for-analog-mixed-signal-design.html) 
 
 ## Other Basic Topics
 
