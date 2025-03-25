@@ -2,7 +2,7 @@
 
 ## 前言
 
-不同于 CS 的 Open Source 精神， EE，尤其是 IC，由于涉及国家战略、企业竞争和行业文化等原因，一直保持较高的封闭性。你很难找到像 CS 那样系统、完整的开源课程体系，很多时候需要在碎片化的信息中摸索前进。公开资料往往过时，许多高质量的学习资源需要特定的高校学生账户才能访问，slides、视频和 PDK 等材料不对外公开。此外，市面上的付费资料质量也参差不齐，更是增加了自学的难度。
+不同于 CS 的 Open Source 精神， EE，尤其是 IC，由于涉及企业竞争、行业文化和国家战略等原因，一直保持较高的封闭性。你很难找到像 CS 那样系统、完整的开源课程体系，很多时候需要在碎片化的信息中摸索前进。公开资料往往过时，许多高质量的学习资源需要特定的高校学生账户才能访问，slides、视频和 PDK 等材料不对外公开。此外，市面上的付费资料质量也参差不齐，更是增加了自学的难度。
 
 幸运的是，2010s MOOC 热潮和 2020s COVID 疫情客观上推动了一批教师和工程师分享在线资源，不少老师和工程师或主动或被动地为广大学子提供了宝贵的在线学习资源。其中 YouTube Razavi 老师网课和 BiliBili 张鸿老师网课分别超过了 1million 和 0.5million 的总播放量。作为中国学生可以享受到几乎全世界的在线资源，如果你觉得中文课都不合你胃口，国外名师的英语课你也可以享受，但是如果老外在 YouTube 上找不到喜欢的课，就不可能找到 BiliBili 去听中文课了。另外，受益于国内广泛的学生和工程师群体，eetop 这类连老外都羡慕的网站也得好好珍惜，可以说是 IC 届的 GitHub 了，从 slides 到 PDK，只要胆子大，无奇不有。
 
@@ -37,6 +37,24 @@ Other references: [1](https://archived-bulletin.stanford.mobi/soe-ug-majors/ee/e
 Caltech: [Undergraduate Programs - Electrical Engineering](https://www.ee.caltech.edu/academics/ugrad)
 
 MIT: [Electrical Engineering with Computing (Course 6-5) | MIT Course Catalog](https://catalog.mit.edu/degree-charts/electrical-engineering-computing-6-5/) & [EECS Tracks | MIT Course Catalog](https://catalog.mit.edu/degree-charts/electrical-engineering-computer-science-tracks/#electricalengineeringtext)
+
+# 后记
+
+<!--
+
+## 一些感慨
+
+如果让我们在中外大学本科教育的不同方面进行差距排序，那么实验课一定是差距最大的一部分。如果给中外教育分别打分，大致可以认为是
+
+- 实验课(0.2 / 0.7) ≫ 无意义课(? / ?) > 专业课(0.6 / 0.8) > 通识课(0.65 / ?) ≈ 高校行政(0.65 / ?) ≈ 第二课堂(0.65 / ?) > (本科)科研(0.7 / ?) > 高校后勤(0.8 / 0.5)
+
+专业课的差距，对于老师可以考虑直接照抄教学方法与教纲，对于学生可以直接在线学习，都尚可用高质量网课完成较好地弥补。但国内的实验课不仅没有成熟现代的培养体系，全靠同学间口耳相传，实验文档与教材更是几乎没有。如果你经常在 Google 上搜索例如一些 EDA 用法类的基础内容，就会发现国内完全靠同学们之间互相询问，自行搜索。而 Google 上有大量 url 以 .edu 结尾的 pdf 详细或简略地介绍了 Cadence, ModelSim 等软件非常基础的操作。国内几乎没有教师会在这方面积累任何的文档，反而是有意筑起了壁垒。反倒是很多计算机专业同学不屑一顾的 csdn 上的实验基础指导都比陈旧脱节的实验教案来的实用而详细。
+
+-->
+
+## 关于本项目
+
+IC 是一个很大的方向，笔者只对其中甚少的方向有些极为粗浅的了解。所以您如果对相关领域有任何见解，非常欢迎您在 issue 进行留言与讨论。如果您对该项目有其他任何建议也欢迎在 issue 中提出。
 
 # Credit
 
