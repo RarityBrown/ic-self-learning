@@ -269,6 +269,8 @@ gantt
 
 ## Analog/Mixed-Signal/RF EDA
 
+
+
 ### SPICE & BSIM
 
 
@@ -282,13 +284,6 @@ gantt
 - [Introduction to RF simulation and its application](https://ieeexplore.ieee.org/document/782091)
 - [Striving for small-signal stability](https://ieeexplore.ieee.org/document/900125)
 
-### Keysight ADS
-
-RFPro = FEM + Momentum
-ChannelSim (SerDes 方向)
-
-### Ansys HFSS
-
 ### MATLAB & Simulink
 
 - Mathworks 官方课程
@@ -296,6 +291,28 @@ ChannelSim (SerDes 方向)
     - [Simulink Onramp](https://matlabacademy.mathworks.com/details/simulink-onramp/simulink)
   - 付费
     - [Simulink for Analog Mixed-Signal Design](https://www.mathworks.com/learn/training/simulink-for-analog-mixed-signal-design.html) 
+
+
+
+### EDA List
+
+| Full Custom (Analog)      | Cadence                                         | Synopsys                            | [Siemens](https://www.sw.siemens.com/en-US/technology/electronic-design-automation-eda/) (Mentor) | Keysight                         | Empyrean 华大九天 |
+| ------------------------- | ----------------------------------------------- | ----------------------------------- | ------------------------------------------------------------ | -------------------------------- | ----------------- |
+| Solution                  | **Virtuoso Studio**                             | Custom Compiler                     | Tanner                                                       | Advanced Design System (ADS)     | Aether            |
+| Platform (Environment)    | **Virtuoso Analog Design Environment (ADE)**    | PrimeWave Design Environment        | Solido Design Environment                                    |                                  |                   |
+|                           |                                                 |                                     |                                                              |                                  |                   |
+| SPICE                     | **Spectre**                                     | **PrimeSim HSPICE**, PrimeSim SPICE | Eldo, Solido SPICE                                           |                                  | ALPS              |
+| 1st Gen FastSPICE         | **Spectre APS**                                 |                                     | Analog FastSPICE (AFS)                                       |                                  |                   |
+| 2nd Gen FastSPICE         | **Spectre X**                                   | PrimeSim Pro                        | AFS eXTreme (AFS XT), Solido FastSPICE                       |                                  | **ALPS GT**       |
+| RF SPICE (RF FastSPICE)   | **Spectre RF, Spectre FX**                      | PrimeSim SPICE                      | AFS RF                                                       | RFPro\*, **ChannelSim (SerDes)** | ALPS RF           |
+| EM Simulation             | EMX                                             | Ansys HFSS                          |                                                              | EMPro                            |                   |
+| AMS Simulation            | **Spectre AMS + Xcelium**                       | VCS AMS                             | Symphony, Questa ADMS                                        |                                  |                   |
+|                           |                                                 |                                     |                                                              |                                  |                   |
+| Schematic / Layout Editor | Virtuoso Schematic Editor XL / Layout Suite GXL |                                     | Tanner S-Edit / L-Edit                                       |                                  | Aether SE / LE    |
+| Viewer                    | Virtuoso Visualization & Analysis (ViVA) XL     | Custom WaveView                     | Swave                                                        |                                  | iWave             |
+| Cell                      | Spectre Characterization Simulator              | PrimeLib                            | Solido Variation Designer                                    |                                  |                   |
+
+> \* FEM + Momentum 方法
 
 ## Other Basic Topics
 
