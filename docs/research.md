@@ -1,5 +1,15 @@
 # Research Communication: Academic Writing and Presentation
 
+## Basic
+
+- *How to Do Research in IC Design?*，胡诣哲
+  - [Slides](https://bbs.eetop.cn/thread-962980-1-1.html)
+
+## Schematic & Diagramming
+
+- *通过 Visio, Excel 和 Powerpoint 绘制电路图和仿真图*, 胡诣哲
+  - [Slides & Samples](https://bbs.eetop.cn/thread-983425-5-1.html)
+
 ## Presentation
 
 - *Giving Great Technical Talks*, Kofi Makinwa
@@ -32,7 +42,6 @@
 - *Writing a good ISSCC paper, June 2024: Tips on how to increase the chances of paper acceptance*, Jan Van der Spiegel
   - [Slides](https://submissions.mirasmart.com/ISSCC2025/PDF/ISSCC2025_WritingGoodISSCCPaper.pdf)
 - todo: 论文图表设计的色彩搭配理论，并结合色彩纠正和配色方案的定量分析
-
 
 
 # Journals, Conferences and Symposiums List
