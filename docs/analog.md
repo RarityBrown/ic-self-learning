@@ -296,23 +296,33 @@ gantt
 
 ### EDA List
 
-| Full Custom (Analog)      | Cadence                                         | Synopsys                            | [Siemens](https://www.sw.siemens.com/en-US/technology/electronic-design-automation-eda/) (Mentor) | Keysight                         | Empyrean 华大九天 |
-| ------------------------- | ----------------------------------------------- | ----------------------------------- | ------------------------------------------------------------ | -------------------------------- | ----------------- |
-| Solution                  | **Virtuoso Studio**                             | Custom Compiler                     | Tanner                                                       | Advanced Design System (ADS)     | Aether            |
-| Platform (Environment)    | **Virtuoso Analog Design Environment (ADE)**    | PrimeWave Design Environment        | Solido Design Environment                                    |                                  |                   |
-|                           |                                                 |                                     |                                                              |                                  |                   |
-| SPICE                     | **Spectre**                                     | **PrimeSim HSPICE**, PrimeSim SPICE | Eldo, Solido SPICE                                           |                                  | ALPS              |
-| 1st Gen FastSPICE         | **Spectre APS**                                 |                                     | Analog FastSPICE (AFS)                                       |                                  |                   |
-| 2nd Gen FastSPICE         | **Spectre X**                                   | PrimeSim Pro                        | AFS eXTreme (AFS XT), Solido FastSPICE                       |                                  | **ALPS GT**       |
-| RF SPICE (RF FastSPICE)   | **Spectre RF, Spectre FX**                      | PrimeSim SPICE                      | AFS RF                                                       | RFPro\*, **ChannelSim (SerDes)** | ALPS RF           |
-| EM Simulation             | EMX                                             | Ansys HFSS                          |                                                              | EMPro                            |                   |
-| AMS Simulation            | **Spectre AMS + Xcelium**                       | VCS AMS                             | Symphony, Questa ADMS                                        |                                  |                   |
-|                           |                                                 |                                     |                                                              |                                  |                   |
-| Schematic / Layout Editor | Virtuoso Schematic Editor XL / Layout Suite GXL |                                     | Tanner S-Edit / L-Edit                                       |                                  | Aether SE / LE    |
-| Viewer                    | Virtuoso Visualization & Analysis (ViVA) XL     | Custom WaveView                     | Swave                                                        |                                  | iWave             |
-| Cell                      | Spectre Characterization Simulator              | PrimeLib                            | Solido Variation Designer                                    |                                  |                   |
+| Full Custom (Analog)                  | Cadence                                         | Synopsys                            | [Siemens](https://www.sw.siemens.com/en-US/technology/electronic-design-automation-eda/) (Mentor) | Keysight                         | Empyrean 华大九天 |
+| ------------------------------------- | ----------------------------------------------- | ----------------------------------- | ------------------------------------------------------------ | -------------------------------- | ----------------- |
+| Solution                              | **Virtuoso Studio**                             | Custom Compiler                     | Tanner                                                       | Advanced Design System (ADS)     | Aether            |
+| Platform (Environment)                | **Virtuoso Analog Design Environment (ADE)**    | PrimeWave Design Environment        | Solido Design Environment                                    |                                  |                   |
+|                                       |                                                 |                                     |                                                              |                                  |                   |
+| SPICE                                 | **Spectre** (Classic)                           | **PrimeSim HSPICE**, PrimeSim SPICE | Eldo, Solido SPICE                                           |                                  | ALPS              |
+| 1st Gen FastSPICE                     | **Spectre APS**                                 |                                     | Analog FastSPICE (AFS)                                       |                                  |                   |
+| 2nd Gen FastSPICE                     | **Spectre X**                                   | PrimeSim Pro                        | AFS eXTreme (AFS XT), Solido FastSPICE                       |                                  | **ALPS GT**       |
+| RF SPICE (RF FastSPICE)               | **Spectre RF, Spectre FX**                      | PrimeSim SPICE                      | AFS RF                                                       |                                  | ALPS RF           |
+| RC Extraction (2D EM Simulation)      | Quantus                                         | StarRC                              | Calibre xRC                                                  |                                  |                   |
+| 2.5D EM Simulation (Planar 3D)        | **EMX**                                         | Ansys RaptorH (RaptorX)             | Calibre xACT 3D                                              | RFPro\*, **ChannelSim (SerDes)** |                   |
+| 3D EM Simulation (Full-Wave 3D)       | Clarity (for packaging)                         | **Ansys HFSS**                      | HLAS (for packaging)                                         | **EMPro**                        |                   |
+| AMS Simulation                        | Spectre AMS + Xcelium                           | VCS AMS                             | Symphony, Questa ADMS                                        |                                  |                   |
+|                                       |                                                 |                                     |                                                              |                                  |                   |
+| Schematic / Layout Editor             | Virtuoso Schematic Editor XL / Layout Suite GXL |                                     | Tanner S-Edit / L-Edit                                       |                                  | Aether SE / LE    |
+| Viewer                                | Virtuoso Visualization & Analysis (ViVA) XL     | Custom WaveView                     | Swave                                                        |                                  | iWave             |
+| Cell                                  | Spectre Characterization Simulator              | PrimeLib                            | Solido Variation Designer                                    |                                  |                   |
+|                                       |                                                 |                                     |                                                              |                                  |                   |
+| Physical Verification (DRC, ERC, LVS) | Assura / Pegasus                                | IC Validator                        | **Calibre**                                                  |                                  |                   |
 
 > \* FEM + Momentum 方法
+>
+> Planar 3D: 矩量法 (MoM - Method of Moments)
+>
+> Full-Wave 3D: 有限元法 (FEM - Finite Element Method) + 时域有限差分法 (FDTD - Finite Difference Time Domain)
+
+
 
 ## Other Basic Topics
 
@@ -347,4 +357,4 @@ gantt
 
 对于研究生层次的方向，因为行业内竞争和保密等原因，公开的教学资源更加稀少。详见 analog 文件夹。
 
-
+todo: 迁移计划。将本科与研究生独立
