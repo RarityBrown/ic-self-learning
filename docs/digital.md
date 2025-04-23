@@ -16,7 +16,7 @@ to ref:
 - Verilog 而不是 Chisel 等 HLS：不要被做体系结构的人拐跑了（说的就是一生一芯）。digital design 和 computer architecture 本质上是两个专业，数字 ICer 用 Chisel 就像嵌入式工程师用 MicroPython 一样奇怪。你也可以看看一些[其他观点](https://www.zhihu.com/question/58584770)
 - 初学时使用 Verilog 而不是 SystemVerilog：面向初学者的 SystemVerilog 的优质课程或教材较少，往往假设读者有 Verilog 背景；而且面向验证的内容多，面向设计的内容少
   - [RTL Modeling with SystemVerilog for Simulation and Synthesis by Stuart Sutherland](https://www.sutherland-hdl.com/books_and_guides.html) 作者去世
-  - Synthesizing SystemVerilog Busting the Myth that SystemVerilog is only for Verification
+  - [Synthesizing SystemVerilog Busting the Myth that SystemVerilog is only for Verification](https://sutherland-hdl.com/papers/2013-SNUG-SV_Synthesizable-SystemVerilog_paper.pdf#:~:text=This%20paper%20examines%20in%20detail%20the%20synthesizable%20subset,advantages%20of%20using%20these%20constructs%20over%20traditional%20Verilog.)
   - 如果准备在数字方向上深造的话近年来还是 SystemVerilog 为主了，当然，这只是我一个数字外行人的浅薄想法罢了
 
 ## Courses
