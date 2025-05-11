@@ -167,16 +167,10 @@ UCB 的 EE140/240 相对好一些，大概 2010 年左右的视频。（不过�
   - *Operational Ampliers: Theory and Design (Third Edition)* 这老头好像研究了一辈子运放，所以这本书可以从题目中看出，就不是一本 Analog IC 的书，而是一本 OPAMP 的书
   - 书中的内容也涉及一些 chopper 之类的东西，没看过也看不懂
 
-### IEEE & SSCS & ISSCC
-
-> IEEE 电气电子工程师学会是全球最大的技术专业组织，涵盖电气、电子、计算机等众多工程领域。SSCS 固态电路学会是 IEEE 旗下的一个专业学会，专注于固态电路和系统（其实简而言之就是 IC）。ISSCC 是 SSCS 主办的年度会议，被公认是 IC 设计领域的最顶级学术会议。
-
-> SSCS 的 Student Member 中国区一年 $14+$5.5（IEEE + [SSCS](https://www.ieee.org/membership-catalog/productdetail/showProductDetailPage.html?product=MEMSSC037) Student Member 打包购买），支持支付宝、微信付款，非常建议购买，因为 SSCS Student Member 可以免费观看所有的 ISSCC Tutorials 和 ISSCC Short Course 视频，这些视频是非常好的学习资源。当然也有一些省钱的操作，比如在[三月后](https://cn.ieee.org/membership_join/)购买 Student Member 好像只收半年的钱。
-
-> 然后话说回来，ieeetv.ieee.org 上的视频链接是直接走 IEEE 网站的流量，不做鉴权的。比如说 [ISSCC 2016](https://ieeetv.ieee.org/ondemand/2016-isscc-tutorials/1702/basics-of-sar-adcs-circuits-architectures-video) 显示需要会员才能播放，但是买会员后 F12 一看发现直接就是 .mp4 公开的链接。而 sscs.ieee.org 的[视频](https://resourcecenter.sscs.ieee.org/education/short-courses/sscstut20160090)则走的是 Amazon 的 CDN，至少不是一个 F12 就可以无权限访问的。不过有权限了以后还是随便下载，改天搞个爬虫，，，
+### ISSCC
 
 - ISSCC Tutorials, Short Course
-  - 需要 SSCS Member
+  - 需要 SSCS Member，即需要付一点点费用，但是笔者认为物有所值，详见[SSCS](research.md#SSCS)
 - ISSCCx (2015 only) & ISSCCedu (2018, 2019, 2020) & ISSCC Circuit Insights (2022, 2023, 2024, 2025)
   - 类似于公开课，但是 ISSCC 的委员会也不是很靠谱，几年一变名字。其中最靠谱的就是 2022 年，请来了一堆大佬（见下图）
   - 其他会议有类似的，但是也一样还不稳定，名字时常变化 [playlists](https://www.youtube.com/@IEEESolidStateCircuitsSociety/playlists)
@@ -310,7 +304,7 @@ gantt
 | 3D EM Simulation (Full-Wave 3D)       | Clarity (for packaging)                         | **Ansys HFSS**                      | HLAS (for packaging)                                         | **EMPro**                        |                   |
 | AMS Simulation                        | Spectre AMS + Xcelium                           | VCS AMS                             | Symphony, Questa ADMS                                        |                                  |                   |
 |                                       |                                                 |                                     |                                                              |                                  |                   |
-| Schematic / Layout Editor             | Virtuoso Schematic Editor XL / Layout Suite GXL |                                     | Tanner S-Edit / L-Edit                                       |                                  | Aether SE / LE    |
+| Schematic / Layout Editor             | Virtuoso Schematic Editor XL / Layout Suite MXL |                                     | Tanner S-Edit / L-Edit                                       |                                  | Aether SE / LE    |
 | Viewer                                | Virtuoso Visualization & Analysis (ViVA) XL     | Custom WaveView                     | Swave                                                        |                                  | iWave             |
 | Cell                                  | Spectre Characterization Simulator              | PrimeLib                            | Solido Variation Designer                                    |                                  |                   |
 |                                       |                                                 |                                     |                                                              |                                  |                   |
@@ -321,6 +315,8 @@ gantt
 > Planar 3D: 矩量法 (MoM - Method of Moments)
 >
 > Full-Wave 3D: 有限元法 (FEM - Finite Element Method) + 时域有限差分法 (FDTD - Finite Difference Time Domain)
+>
+> https://zhuanlan.zhihu.com/p/28550045
 
 
 
