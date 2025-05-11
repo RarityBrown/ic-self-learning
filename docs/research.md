@@ -46,7 +46,25 @@
 
 # Journals, Conferences and Symposiums List
 
-### VLSI
+## IEEE: Institute of Electrical and Electronics Engineers
+
+> IEEE 电气电子工程师学会是全球最大的技术专业组织，涵盖电气、电子、计算机等众多工程领域。
+
+### SSCS: Solid-State Circuits Society
+
+> SSCS 固态电路学会是 IEEE 旗下的一个专业学会，专注于固态电路和系统（其实简而言之就是 IC）。ISSCC 是 SSCS 主办的年度会议，被公认是 IC 设计领域的最顶级学术会议。
+
+SSCS 的 Student Member 中国区一年 $14+$5.5（IEEE + [SSCS](https://www.ieee.org/membership-catalog/productdetail/showProductDetailPage.html?product=MEMSSC037) Student Member 打包购买），支持支付宝、微信付款，非常建议购买，因为 SSCS Student Member 可以免费观看所有的 ISSCC Tutorials 和 ISSCC Short Course 视频，这些视频是非常好的学习资源。当然也有一些省钱的操作，比如在[三月后](https://cn.ieee.org/membership_join/)购买 Student Member 只收半年的钱。
+
+然后话说回来，ieeetv.ieee.org 上的视频链接是直接走 IEEE 网站的流量，不做鉴权的。比如说 [ISSCC 2016](https://ieeetv.ieee.org/ondemand/2016-isscc-tutorials/1702/basics-of-sar-adcs-circuits-architectures-video) 显示需要会员才能播放，但是买会员后 F12 一看发现直接就是 .mp4 公开的链接。而 sscs.ieee.org 的[视频](https://resourcecenter.sscs.ieee.org/education/short-courses/sscstut20160090)则走的是 Amazon 的 CDN，至少不是一个 F12 就可以无权限访问的。不过有权限了以后还是随便下载，改天搞个爬虫，，，
+
+注册会员后记得到[邮件设置](https://www.ieee.org/ieee-privacyportal/app/ibp)去关闭不需要的邮件，不然 IEEE 三天两头你发邮件，整个邮箱像 IEEE 的垃圾堆一样。
+
+期刊：JSSC, SSC-L
+
+会议：ISSCC
+
+#### VLSI
 
 VLSI often refers to the following two:
 
@@ -58,3 +76,16 @@ VLSI often refers to the following two:
   - TVLSI ≲ TCASII
 
 NOT *International Conference on VLSI Design* (VLSID) or *Computer Society Annual Symposium on VLSI* (ISVLSI)
+
+### CAS: Circuits and Systems Society
+
+期刊：TCAS-I, TCAS-II
+
+会议：ISCAS
+
+### MTT-S: Microwave Theory and Techniques Society
+
+期刊：TMTT
+
+会议：RFIC Symposium
+
