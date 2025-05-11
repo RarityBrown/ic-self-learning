@@ -79,9 +79,9 @@ NOT *International Conference on VLSI Design* (VLSID) or *Computer Society Annua
 
 ### CAS: Circuits and Systems Society
 
-期刊：TCAS-I, TCAS-II
+期刊：TCAS-I, TCAS-II; TBioCAS
 
-会议：ISCAS
+会议：ISCAS; BioCAS
 
 ### MTT-S: Microwave Theory and Techniques Society
 
