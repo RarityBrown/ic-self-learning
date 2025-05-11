@@ -14,17 +14,17 @@ to ref:
 
 - Verilog 而不是 VHDL：ref: *Language Wars in the 21st Century: Verilog versus VHDL*. 早年间欧洲用 VHDL 多，但是因为 IC 产业在美国比较发达，而美国用 Verilog 多，所以近年来 Verilog 和 SystemVerilog 更主流了。
 - Verilog 而不是 Chisel 等 HLS：不要被做体系结构的人拐跑了（说的就是一生一芯）。digital design 和 computer architecture 本质上是两个专业，数字 ICer 用 Chisel 就像嵌入式工程师用 MicroPython 一样奇怪。你也可以看看一些[其他观点](https://www.zhihu.com/question/58584770)
-- 初学时使用 Verilog 而不是 SystemVerilog：面向初学者的 SystemVerilog 的优质课程或教材较少，往往假设读者有 Verilog 背景；而且面向验证的内容多，面向设计的内容少
-  - [RTL Modeling with SystemVerilog for Simulation and Synthesis by Stuart Sutherland](https://www.sutherland-hdl.com/books_and_guides.html) 作者去世
-  - [Synthesizing SystemVerilog Busting the Myth that SystemVerilog is only for Verification](https://sutherland-hdl.com/papers/2013-SNUG-SV_Synthesizable-SystemVerilog_paper.pdf#:~:text=This%20paper%20examines%20in%20detail%20the%20synthesizable%20subset,advantages%20of%20using%20these%20constructs%20over%20traditional%20Verilog.)
-  - 如果准备在数字方向上深造的话近年来还是 SystemVerilog 为主了，当然，这只是我一个数字外行人的浅薄想法罢了
+- 初学时使用 Verilog 而不是 SystemVerilog：面向初学者的 SystemVerilog 的优质课程或教材较少，往往假设读者有 Verilog 背景；而且面向验证的内容多，面向设计的内容少，主要参考有 Stuart Sutherland 和 SNUG 会议
+  - Stuart Sutherland，去世
+    - [RTL Modeling with SystemVerilog for Simulation and Synthesis by Stuart Sutherland](https://www.sutherland-hdl.com/books_and_guides.html)
+    - [Synthesizing SystemVerilog Busting the Myth that SystemVerilog is only for Verification](https://sutherland-hdl.com/papers/2013-SNUG-SV_Synthesizable-SystemVerilog_paper.pdf)
+  - 如果准备在数字方向上深造的话，近年来工业界还是 SystemVerilog 为主了，当然，这只是我一个数字外行人道听途说的浅薄想法罢了
 
 ## Courses
 
-
 | University          | Course No.                                                   | Year / WebSite                                               | Name                                                   | Teacher        | Video                                                        | Slide     | Lab                                             | Others                                                       |
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------ | -------------- | ------------------------------------------------------------ | --------- | ----------------------------------------------- | ------------------------------------------------------------ |
-| UC Berkeley         | EECS 151/251A ([EE141+CS150](https://www.reddit.com/r/berkeley/comments/g6mog0/)) | [2024](https://www.eecs151.org/)                             | Introduction to Digital Design and Integrated Circuits | John Wawrzynek | YouTuve / BiliBili                                           | available | ASIC Lab (EECS 151LA) and FPGA Lab (EECS 151LB) |                                                              |
+| UC Berkeley         | EECS 151/251A ([EE141+CS150](https://www.reddit.com/r/berkeley/comments/g6mog0/)) |                                                              | Introduction to Digital Design and Integrated Circuits | John Wawrzynek | YouTuve / BiliBili                                           | available | ASIC Lab (EECS 151LA) and FPGA Lab (EECS 151LB) |                                                              |
 | UC Berkeley         | EECS 251B (EE 214B/W214B)                                    |                                                              | Advanced Digital Integrated Circuits and Systems       |                | [EECS 251B Sp22 - YouTube](https://www.youtube.com/playlist?list=PLXu4ygwFR79yQLujYP3HVYwzhMlQh1lNP) |           |                                                 |                                                              |
 |                     |                                                              |                                                              |                                                        |                |                                                              |           |                                                 |                                                              |
 | Auburn University\* | ELEC 4200                                                    |                                                              |                                                        | Ujjwal Guin    |                                                              | available |                                                 |                                                              |
@@ -34,7 +34,7 @@ to ref:
 | Bar-Ilan University | 83-612                                                       | [2018](https://www.eng.biu.ac.il/temanad/digital-vlsi-design/) | Digital VLSI Design                                    | Adam Teman     | YouTube, BiliBili                                            | available |                                                 | [知乎讲解](https://www.zhihu.com/column/c_1763939142348886016) |
 | Bar-Ilan University | SoC 101                                                      | [2023](https://www.eng.biu.ac.il/temanad/soc-101/)           | SoC 101                                                | Adam Teman     | YouTube, BiliBili                                            | available |                                                 | [知乎讲解](https://www.zhihu.com/column/c_1746233246805774337) |
 | UC San Diego        | ECE 111                                                      |                                                              | Advanced Digital Design Project                        |                |                                                              |           |                                                 | [知乎讲解](https://www.zhihu.com/column/c_1660699121831890944) SystemVerilog |
-
+| *CMU*               |                                                              | [2025](https://www.neoscholar.com/#/allcourseview/1839496816750288897?courseCategory=0) | Introduction to Open-Source FPGA and ASIC Chip Design  | William Nace   | [BiliBili](https://www.bilibili.com/video/BV1NSLqzzEmf)      |           |                                                 | SystemVerilog                                                |
 
 \*顺带一提，Google 联想 Tim Cook 是校友，这学校感觉很不出名啊，也是因为 Google 到 slides 后一看内容感觉很好才发现的
 
