@@ -280,11 +280,15 @@ gantt
 
 ### MATLAB & Simulink
 
-- Mathworks 官方课程
+- Mathworks 官方课程 / 功能介绍视频
   - 免费
     - [Simulink Onramp](https://matlabacademy.mathworks.com/details/simulink-onramp/simulink)
+    - [Mixed-Signal Blockset](https://www.mathworks.com/products/mixed-signal.html)
+      - [Mixed-Signal Data Analysis with MATLAB](https://www.mathworks.com/videos/series/mixed-signal-data-analysis-with-matlab.html)
+      - [Understanding Phase Locked Loop with Mixed-Signal Blockset](https://www.mathworks.com/videos/pll-loop-parameter-estimation-68728.html)
+      - ...
   - 付费
-    - [Simulink for Analog Mixed-Signal Design](https://www.mathworks.com/learn/training/simulink-for-analog-mixed-signal-design.html) 
+    - [Simulink for Analog Mixed-Signal Design](https://www.mathworks.com/learn/training/simulink-for-analog-mixed-signal-design.html)
 
 
 
