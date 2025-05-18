@@ -4,6 +4,13 @@
 
 ### Switch-Capacitor
 
+### Introduction
+
+- A Brief History of Data Conversion: A Tale of Nozzles, Relays, Tubes, Transistors, and CMOS
+- FUNDAMENTALS OF SAMPLED DATA SYSTEMS, ADI
+- Pieter Harpe @ TU/e
+  - ISSCC 2016 [T05](https://resourcecenter.sscs.ieee.org/education/short-courses/sscstut20160090) - Basics of SAR ADCs Circuits & Architectures
+
 ### Comparator
 
 [Keeping Things Quiet: A New Methodology for Dynamic Comparator Noise Analysis, Art Schaldenbrand, 2016](https://www.cadence.com/content/dam/cadence-www/global/en_US/videos/tools/custom-_ic_analog_rf_design/NoiseAnalyisposting201612Chalk%20Talk.pdf)
@@ -14,15 +21,8 @@
   - [再世孟子](https://zhuanlan.zhihu.com/p/598924151)
   - [王小桃](https://zhuanlan.zhihu.com/p/16672774067)
 
-
-
 ### ΣΔ Modulation
 
-
-### Introduction
-
-- A Brief History of Data Conversion: A Tale of Nozzles, Relays, Tubes, Transistors, and CMOS
-- FUNDAMENTALS OF SAMPLED DATA SYSTEMS, ADI
 
 ## Classic ADDA
 
@@ -35,7 +35,7 @@ ADDA 方向南京大学是有本科生选修课的？
   - 2022 ISSCC Short Course: Introduction to ADCs/DACs: Metrics, Topologies, Trade Space, and Applications
   - https://github.com/bmurmann/ADC-survey
 - Pieter Harpe (SAR-ADC) @ TU/e
-  - 2016 ISSCC Tutorials: [Basics of SAR ADCs: Circuits & Architectures](https://resourcecenter.sscs.ieee.org/education/short-courses/sscstut20160090)
+  - 2016 ISSCC [T05](https://resourcecenter.sscs.ieee.org/education/short-courses/sscstut20160090) - Basics of SAR ADCs Circuits & Architectures
   - 2016 SSC-M: [Successive Approximation Analog-to-Digital Converters: Improving Power Efficiency and Conversion Speed](https://ieeexplore.ieee.org/document/7743043)
   - 2019 ESSCIRC: [Low-power SAR ADCs: trends, examples and future](https://ieeexplore.ieee.org/document/8902871) & [Low-Power SAR ADCs: Basic Techniques and Trends](https://ieeexplore.ieee.org/document/9908164)
   - 2024 CICC: [Energy Efficient ADC Design Techniques](https://ieeexplore.ieee.org/document/10529035)
