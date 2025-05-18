@@ -8,9 +8,8 @@
   - [BiliBili](https://space.bilibili.com/1629031600)
 - Samuel Palermo @ Texas A&M University
   - 2025 [ECEN720](https://people.engr.tamu.edu/spalermo/ecen720.html): High-Speed Links Circuits and Systems
+  - 2025 [ECEN689](https://people.engr.tamu.edu/spalermo/ecen689_oi.html): Optical Interconnects Circuits and Systems
   - 2018 ISSCC [T10](https://resourcecenter.sscs.ieee.org/education/short-courses/sscstut201827) - ADC-Based Serial Links Design and Analysis
-
-
 
 
 对于（没那么有钱/connection）高校来说可能不是一个很好的方向，非常吃先进工艺。但是确实是近年来信号链比较火的方向。
