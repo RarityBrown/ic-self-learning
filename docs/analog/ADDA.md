@@ -11,6 +11,20 @@
 - Pieter Harpe @ TU/e
   - ISSCC 2016 [T05](https://resourcecenter.sscs.ieee.org/education/short-courses/sscstut20160090) - Basics of SAR ADCs Circuits & Architectures
 
+
+```mermaid
+graph LR
+
+  SAR["2016 T5: Basics of SAR ADCs: Circuits & Architectures"] --> FoM
+  %% Fundamentals["2023 T3: Fundamentals of Data Converters"] --> FoM
+  FoM["2022 SC3: Introduction to ADCs/DACs: Metrics, Topologies, Trade Space, and Applications"]
+  
+  FoM --> NS["2019 T5: **Noise-Shaping** in Data Converters"]
+  FoM --> TI["2020 T5: Fundamentals of **Time-Interleaved** ADCs"]
+  FoM --> CT["2024 T7: Fundamentals of **Continuous-Time** ADCs"]
+```
+
+
 ### Comparator
 
 [Keeping Things Quiet: A New Methodology for Dynamic Comparator Noise Analysis, Art Schaldenbrand, 2016](https://www.cadence.com/content/dam/cadence-www/global/en_US/videos/tools/custom-_ic_analog_rf_design/NoiseAnalyisposting201612Chalk%20Talk.pdf)
@@ -25,6 +39,25 @@
 
 
 ## Classic ADDA
+
+### 做一个 10bit SAR 上手
+
+#### 系统建模
+
+https://www.mathworks.com/help/msblks/examples.html?category=data-converters&exampleproduct=all
+https://www.mathworks.com/help/msblks/ug/adc-tutorial.html
+
+
+https://www.mathworks.com/help/msblks/ug/successive-approximation-adc.html
+https://www.mathworks.com/help/msblks/gs/DesignAndEvaluateSARADC.html
+
+
+- Mixed-Signal Blockset (msblks)
+  - [data-converters.html](https://www.mathworks.com/help/msblks/data-converters.html)
+    - [saradc.html](https://www.mathworks.com/help/msblks/ref/)
+
+#### 子模块
+
 
 ###  学习资源
 
