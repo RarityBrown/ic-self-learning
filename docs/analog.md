@@ -2,15 +2,12 @@
 
 ## Undergraduate-level device & Graduate-level, design perspective device
 
-
 - [Analog circuits in ultra-deep-submicron CMOS](https://ieeexplore.ieee.org/document/1374997)
 - [Analog Circuit Design in Nanoscale CMOS Technologies](https://ieeexplore.ieee.org/document/5247174)
 
 ## General EE Analog
 
-
 [kennethkuhn.com/students/](https://www.kennethkuhn.com/students/)
-
 
 ### ADI
 
@@ -40,25 +37,6 @@
   - 第 13 章 Switched-Capacitor：[The Bootstrapped Switch](https://ieeexplore.ieee.org/document/7258484), [The Design of a Bootstrapped Sampling Circuit](https://ieeexplore.ieee.org/document/9330720), [The Switched-Capacitor Integrator](https://ieeexplore.ieee.org/document/7829485)
   - 第 15 章 Oscillator：[The Crystal Oscillator](https://ieeexplore.ieee.org/document/7954123), [The Ring Oscillator](https://ieeexplore.ieee.org/document/8901474), [The Cross-Coupled Pair - Part I](https://ieeexplore.ieee.org/document/6882880), [Part II](https://ieeexplore.ieee.org/document/6951438), [Part III](https://ieeexplore.ieee.org/document/7036175)
   - 第 16 章 PLL：[The Delay-Locked Loop](https://ieeexplore.ieee.org/document/8447468)
-
-
-### Phillip E. Allen @ Georgia Tech
-
-- book & solution?: CMOS only
-  - 他的书不适合初学者使用，目前最新的中文第三版翻译仍有一些机翻痕迹，但也不至于像网上说的有很多错误（意思就是还是有一些错误的）。~~另外就是我个人而言，看这类把 $V_{TH}$ 记作 $V_T$ 的书不是很舒服~~
-  - 第三版删去了 ADDA 部分的内容，可能的原因是第三版书前言中提到的“内容过时”
-- courseware (免费部分)：
-  - 他个人网站上的，新一点：[2016 Short Course Notes – AICDESIGN.ORG](https://aicdesign.org/2016-short-course-notes-2/)
-  - 他大学网站上的，多一点：[Phillip Allen--Professor (gatech.edu)](https://pallen.ece.gatech.edu/00courses.html)
-- video：
-  - 个人网站上有[售](https://aicdesign.org/product-category/academic-courses/)他亲自讲解的书每章的 course，$45 一章，不便宜，网上找不到相关资源。也有更面向[产业界](https://aicdesign.org/product/design-procedures-for-analog-integrated-circuits/)一点的课，更贵
-  - Bilibili 上东南大学吴金老师的网课（有两个版本，老版本更深更全）可以参考，网课不像书本往往直接给出一个电路图，来进行“逆向”分析，网课会讲述电路的“正向”设计思路，即这个电路是怎么思考产生的。在 eetop 上有配套 slide 可以下载。所以说看书和上课都很重要，不可能看完四本书就无师自通的 ⭐⭐⭐⭐
-
-### EE 4430 @ Georgia Tech
-
-- courseware
-- video：
-  - https://www.youtube.com/playlist?list=PLk40zdAGNVqUttWK35gJoa-Smg_xHQHk2
 
 ### Ali Hajimiri @ Caltech
 
@@ -104,6 +82,25 @@ Murmann 2023 年从 Stanford 跳槽到夏威夷大学去养老了。在夏威夷
   - Baker 总体的研究领域以及一本比较新的书 *CMOS Circuit: Design, Layout, and Simulation* 都算是全定制 CMOS 设计，有数字/混合信号的部分，不过 ADPLL 之类的章节倒是在“初等”模拟设计中比较少见的，可以在看完 Razavi CMOS 中关于传统 PLL 介绍后，作为一个入门性质的补充。其 ADDA 相关章节也可供入门参考。
 - courseware/video
   - [R. Jacob Baker's courses](https://cmosedu.com/jbaker/courses/courses.htm) 可参考，目前公开的最新资源是 [2020 模集 EE420](https://www.cmosedu.com/jbaker/courses/ee420_ecg620/s20/lec_ee420_ecg620.htm) 和 [2016 高等模集](https://www.cmosedu.com/jbaker/courses/ecg720/s16/lec_ecg720.htm)，BiliBili 上有转载
+
+### Phillip E. Allen @ Georgia Tech
+
+- book & solution?: CMOS only
+  - 他的书不适合初学者使用，目前最新的中文第三版翻译仍有一些机翻痕迹，但也不至于像网上说的有很多错误（意思就是还是有一些错误的）。~~另外就是我个人而言，看这类把 $V_{TH}$ 记作 $V_T$ 的书不是很舒服~~
+  - 第三版删去了 ADDA 部分的内容，可能的原因是第三版书前言中提到的“内容过时”
+  - 比较器部分的内容也略微过时
+- courseware (免费部分)：
+  - 他个人网站上的，新一点：[2016 Short Course Notes – AICDESIGN.ORG](https://aicdesign.org/2016-short-course-notes-2/)
+  - 他大学网站上的，多一点：[Phillip Allen--Professor (gatech.edu)](https://pallen.ece.gatech.edu/00courses.html)
+- video：
+  - 个人网站上有[售](https://aicdesign.org/product-category/academic-courses/)他亲自讲解的书每章的 course，$45 一章，不便宜，网上找不到相关资源。也有更面向[产业界](https://aicdesign.org/product/design-procedures-for-analog-integrated-circuits/)一点的课，更贵
+  - Bilibili 上东南大学吴金老师的网课（有两个版本，老版本更深更全）可以参考，网课不像书本往往直接给出一个电路图，来进行“逆向”分析，网课会讲述电路的“正向”设计思路，即这个电路是怎么思考产生的。在 eetop 上有配套 slide 可以下载。所以说看书和上课都很重要，不可能看完四本书就无师自通的 ⭐⭐⭐⭐
+
+### EE 4430 @ Georgia Tech
+
+- courseware
+- video：
+  - https://www.youtube.com/playlist?list=PLk40zdAGNVqUttWK35gJoa-Smg_xHQHk2
 
 ### Gray
 
@@ -159,59 +156,6 @@ UCB 的 EE140/240 相对好一些，大概 2010 年左右的视频。（不过�
   - Regenerative Comparator: [Understanding the regenerative comparator circuit](https://ieeexplore.ieee.org/document/6946003), [Analysis and Design of Regenerative Comparators for Low Offset and Noise](https://ieeexplore.ieee.org/document/8699092)
 
 
-### Johan Huijsing @ TU Delft
-
-好像是 Kofi 的导师
-
-- book
-  - *Operational Ampliers: Theory and Design (Third Edition)* 这老头好像研究了一辈子运放，所以这本书可以从题目中看出，就不是一本 Analog IC 的书，而是一本 OPAMP 的书
-  - 书中的内容也涉及一些 chopper 之类的东西，没看过也看不懂
-
-### ISSCC
-
-- ISSCC Tutorials, Short Course
-  - 需要 SSCS Member，即需要付一点点费用，但是笔者认为物有所值，详见[SSCS](research.md#SSCS)
-- ISSCCx (2015 only) & ISSCCedu (2018, 2019, 2020) & ISSCC Circuit Insights (2022, 2023, 2024, 2025)
-  - 类似于公开课，但是 ISSCC 的委员会也不是很靠谱，几年一变名字。其中最靠谱的就是 2022 年，请来了一堆大佬（见下图）
-  - 其他会议有类似的，但是也一样还不稳定，名字时常变化 [playlists](https://www.youtube.com/@IEEESolidStateCircuitsSociety/playlists)
-    - VLSIx (VLSI Circuit Insights) 2016, VLSIedu (2019)
-    - CICCx 2017, CICCedu (2019, 2020), CICC Educational Sessions
-    - ESSERC Circuit Insights (2023, 2024)
-    - ASSCC Circuit Insights (2024)
-
-![image](https://github.com/user-attachments/assets/f13a2ac0-3435-45b9-a681-0cc53726c695)
-
-
-|      | ISSCC                                                        | ESSERC | ASSCC |
-| ---- | ------------------------------------------------------------ | ------ | ----- |
-| 2025 | ![image](https://github.com/user-attachments/assets/d896dbb6-4ee7-44b7-bfb2-46ad9cfd5e37) |        |       |
-| 2024 | ![image](https://github.com/user-attachments/assets/72dd7e55-d579-43c7-91d6-92734f54b6e6) |        |       |
-| 2023 | ![image](https://github.com/user-attachments/assets/e184857f-699d-4402-a690-f0031094d8b3) |        |       |
-
-
-![A2024](https://github.com/user-attachments/assets/b20af13e-69ce-459b-aeb5-14e0c55f771b)
-
-![E2024](https://github.com/user-attachments/assets/23f15d87-ab41-4afd-a803-243469272110)
-
-
-下面是一些基础的 Tutorial 和 Short Course，适合高年级本科生观看：
-
-
-| Title                              | Year | Instructor     | Type     |
-| ---------------------------------- | ---- | -------------- | -------- |
-| Design of Voltage References       | 2013 | Wing-Hung Ki   | Tutorial |
-| Designing Amplifiers for Stability | 2021 | Viola Schäffer | Tutorial |
-
-
-- https://github.com/nishanchettri/ISSCC-Courses
-
-
-
-### Paper Worth Reading
-
-- [Current Reference Circuits: A Tutorial](https://ieeexplore.ieee.org/document/9314894) TCAS2
-- [A Systematic Review of Voltage Reference Circuits: Spanning Room Temperature to Cryogenic Applications](https://ieeexplore.ieee.org/document/10786235) TCAS1
-
 ### Overview & Roadmap
 
 对于天资不特别出众的学生而言，总体建议的学习路径如下（横轴为一年的时间 365 天，可视情况自由放缩时间）：
@@ -259,102 +203,6 @@ gantt
 
 定性的 insight & intuition 是非常重要的。几乎所有老师都有特别强调过，即使没有强调，也会潜移默化的提到。
 
+## 后记
 
-
-## Analog/Mixed-Signal/RF EDA
-
-
-
-### SPICE & BSIM
-
-
-### Spectre by Cadence: Kenneth S. Kundert @ UC Berkeley → Cadence 
-
-- [Life After SPICE](https://ieeexplore.ieee.org/document/6051611)
-- [Simulation of Nonlinear Circuits in the Frequency Domain](https://ieeexplore.ieee.org/document/1270223)
-- [Steady-State Methods for Simulating Analog and Microwave Circuits](https://link.springer.com/book/10.1007/978-1-4757-2081-5)
-- [The Designer’s Guide to Spice and Spectre®](https://link.springer.com/book/10.1007/b101824) 有许建超（西安交通大学）的电子译本
-- [The Designer’s Guide to Verilog-AMS](https://link.springer.com/book/10.1007/b117108)
-- [Introduction to RF simulation and its application](https://ieeexplore.ieee.org/document/782091)
-- [Striving for small-signal stability](https://ieeexplore.ieee.org/document/900125)
-
-### MATLAB & Simulink
-
-- Mathworks 官方课程 / 功能介绍视频
-  - 免费
-    - [Simulink Onramp](https://matlabacademy.mathworks.com/details/simulink-onramp/simulink)
-    - [Mixed-Signal Blockset](https://www.mathworks.com/products/mixed-signal.html)
-      - [Mixed-Signal Data Analysis with MATLAB](https://www.mathworks.com/videos/series/mixed-signal-data-analysis-with-matlab.html)
-      - [Understanding Phase Locked Loop with Mixed-Signal Blockset](https://www.mathworks.com/videos/pll-loop-parameter-estimation-68728.html)
-      - ...
-  - 付费
-    - [Simulink for Analog Mixed-Signal Design](https://www.mathworks.com/learn/training/simulink-for-analog-mixed-signal-design.html)
-
-
-
-### EDA List
-
-| Full Custom (Analog)                  | Cadence                                         | Synopsys                            | [Siemens](https://www.sw.siemens.com/en-US/technology/electronic-design-automation-eda/) (Mentor) | Keysight                         | Empyrean 华大九天 |
-| ------------------------------------- | ----------------------------------------------- | ----------------------------------- | ------------------------------------------------------------ | -------------------------------- | ----------------- |
-| Solution                              | **Virtuoso Studio**                             | Custom Compiler                     | Tanner                                                       | Advanced Design System (ADS)     | Aether            |
-| Platform (Environment)                | **Virtuoso Analog Design Environment (ADE)**    | PrimeWave Design Environment        | Solido Design Environment                                    |                                  |                   |
-|                                       |                                                 |                                     |                                                              |                                  |                   |
-| SPICE                                 | **Spectre** (Classic)                           | **PrimeSim HSPICE**, PrimeSim SPICE | Eldo, Solido SPICE                                           |                                  | ALPS              |
-| 1st Gen FastSPICE                     | **Spectre APS**                                 |                                     | Analog FastSPICE (AFS)                                       |                                  |                   |
-| 2nd Gen FastSPICE                     | **Spectre X**                                   | PrimeSim Pro                        | AFS eXTreme (AFS XT), Solido FastSPICE                       |                                  | **ALPS GT**       |
-| RF SPICE (RF FastSPICE)               | **Spectre RF, Spectre FX**                      | PrimeSim SPICE                      | AFS RF                                                       |                                  | ALPS RF           |
-| RC Extraction (2D EM Simulation)      | Quantus                                         | StarRC                              | Calibre xRC                                                  |                                  |                   |
-| 2.5D EM Simulation (Planar 3D)        | **EMX**                                         | Ansys RaptorH (RaptorX)             | Calibre xACT 3D                                              | RFPro\*, **ChannelSim (SerDes)** |                   |
-| 3D EM Simulation (Full-Wave 3D)       | Clarity (for packaging)                         | **Ansys HFSS**                      | HLAS (for packaging)                                         | **EMPro**                        |                   |
-| AMS Simulation                        | Spectre AMS + Xcelium                           | VCS AMS                             | Symphony, Questa ADMS                                        |                                  |                   |
-|                                       |                                                 |                                     |                                                              |                                  |                   |
-| Schematic / Layout Editor             | Virtuoso Schematic Editor XL / Layout Suite MXL |                                     | Tanner S-Edit / L-Edit                                       |                                  | Aether SE / LE    |
-| Viewer                                | Virtuoso Visualization & Analysis (ViVA) XL     | Custom WaveView                     | Swave                                                        |                                  | iWave             |
-| Cell                                  | Spectre Characterization Simulator              | PrimeLib                            | Solido Variation Designer                                    |                                  |                   |
-|                                       |                                                 |                                     |                                                              |                                  |                   |
-| Physical Verification (DRC, ERC, LVS) | Assura / Pegasus                                | IC Validator                        | **Calibre**                                                  |                                  |                   |
-
-> \* FEM + Momentum 方法
->
-> Planar 3D: 矩量法 (MoM - Method of Moments)
->
-> Full-Wave 3D: 有限元法 (FEM - Finite Element Method) + 时域有限差分法 (FDTD - Finite Difference Time Domain)
->
-> https://zhuanlan.zhihu.com/p/28550045
-
-
-
-## Other Basic Topics
-
-- translinear loop
-- bootstrap
-- chopper
-
-
-
-### (Ultra) Low-Voltage Design
-
-一些（超）低压和亚阈值的书，改天再整理。主要是想看一下 sub-1V / 0.7V 左右的模拟电路设计（不是射频电路）
-
-- Sub-threshold Design for Ultra Low-Power Systems
-- Analog Building Blocks for Low Voltage Applications
-- Extreme Low-Power Mixed Signal IC Design: Subthreshold Source-Coupled Circuits
-- Design of CMOS Analog Integrated Circuits and Systems
-- Low-Power Analog Techniques, Sensors for Mobile Devices, and Energy Efficient Amplifiers
-- Low-Power CMOS VLSI Circuit Design
-- CMOS Analog Design Using All-Region MOSFET Modeling
-- Low-Voltage CMOS Log Companding Analog Design
-- Low-Voltage CMOS Operational Amplifiers: Theory, Design and Implementation
-- Ultra-Low Power Application-Specific Integrated Circuits for Sensing
-- Ultra-Low Power Integrated Circuit Design
-- https://www.scribd.com/document/43005861/10-1-1-112
-- https://www.scribd.com/document/40733019/Low-Voltage-LowPower-AnalogComs-Course
-
-
-[A 60-dB Gain OTA Operating at 0.25-V Power Supply in 130-nm Digital CMOS Process](https://ieeexplore.ieee.org/document/6695792)
-
-## Advanced Analog/RF/Mixed-Signal Topic for Graduate Student
-
-对于研究生层次的方向，因为行业内竞争和保密等原因，公开的教学资源更加稀少。详见 analog 文件夹。
-
-todo: 迁移计划。将本科与研究生独立
+如果你不满足于此，可以去看看 [Analog Plus](#./analog/analogplus.md)
