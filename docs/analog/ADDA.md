@@ -73,6 +73,9 @@ ADDA 方向南京大学是有本科生选修课的？
   - 2019 ESSCIRC: [Low-power SAR ADCs: trends, examples and future](https://ieeexplore.ieee.org/document/8902871) & [Low-Power SAR ADCs: Basic Techniques and Trends](https://ieeexplore.ieee.org/document/9908164)
   - 2024 CICC: [Energy Efficient ADC Design Techniques](https://ieeexplore.ieee.org/document/10529035)
 - 孙楠 & 李福乐 @ THU
+  - https://bbs.eetop.cn/thread-953294-1-23.html
+  - https://bbs.eetop.cn/thread-954969-2-90.html
+  - https://bbs.eetop.cn/thread-943698-8-29.html
 - 唐希源 @ PKU
   - 2022 TCASI: [Low-Power SAR ADC Design: Overview and Survey of State-of-the-Art Techniques](https://ieeexplore.ieee.org/document/9761973)
 - UCB EE 247 (old), EE 240C (new)
