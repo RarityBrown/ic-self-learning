@@ -58,7 +58,7 @@ SSCS 的 Student Member 中国区一年 $14+$5.5（IEEE + [SSCS](https://www.iee
 
 然后话说回来，ieeetv.ieee.org 上的视频链接是直接走 IEEE 网站的流量，不做鉴权的。比如说 [ISSCC 2016](https://ieeetv.ieee.org/ondemand/2016-isscc-tutorials/1702/basics-of-sar-adcs-circuits-architectures-video) 显示需要会员才能播放，但是买会员后 F12 一看发现直接就是 .mp4 公开的链接。而 sscs.ieee.org 的[视频](https://resourcecenter.sscs.ieee.org/education/short-courses/sscstut20160090)则走的是 Amazon 的 CDN，至少不是一个 F12 就可以无权限访问的。不过有权限了以后还是随便下载，改天搞个爬虫，，，
 
-注册会员后记得到[邮件设置](https://www.ieee.org/ieee-privacyportal/app/ibp)去关闭不需要的邮件，不然 IEEE 三天两头你发邮件，整个邮箱像 IEEE 的垃圾堆一样。
+注册会员后记得到邮件设置去[关闭](https://github.com/RarityBrown/ieee-unsubscribe)所有不需要的邮件，不然 IEEE 三天两头你发邮件，整个邮箱像 IEEE 的垃圾堆一样。
 
 期刊：JSSC, SSC-L
 
