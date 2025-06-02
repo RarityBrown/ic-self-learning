@@ -10,7 +10,30 @@
 
 Move to ADDA
 
-#### Chopper
+#### Dealing with Offset
+
+##### Overview
+
+- Kofi A. A. Makinwa @ TU Delft
+  - ISSCC 2010 T6: Designing Smart Sensors
+- Axel Thomsen @ Silicon Laboratories
+  - ISSCC 2012 T8: Managing Offset and Flicker Noise
+
+##### Chopper
+
+- Kofi A. A. Makinwa @ TU Delft
+  - Chopper Amplifiers Demystified 
+    - [SSCS](https://resourcecenter.sscs.ieee.org/tags/chopper-amplifiers-demystified)
+    - [中文讲解](https://zhuanlan.zhihu.com/p/20596750997)
+
+##### Auto-Zero
+
+- Ali Sheikholeslami @ University of Toronto
+  - [SSC-M](https://ieeexplore.ieee.org/document/7387869)
+  - [中文讲解](https://zhuanlan.zhihu.com/p/24215780090)
+
+##### DEM & correlated double sampling, etc.
+
 
 #### Translinear loop
 
@@ -58,14 +81,8 @@ Johan Huijsing @ TU Delft
 |      | ISSCC                                                        | ESSERC | ASSCC |
 | ---- | ------------------------------------------------------------ | ------ | ----- |
 | 2025 | ![image](https://github.com/user-attachments/assets/d896dbb6-4ee7-44b7-bfb2-46ad9cfd5e37) |        |       |
-| 2024 | ![image](https://github.com/user-attachments/assets/72dd7e55-d579-43c7-91d6-92734f54b6e6) |        |       |
+| 2024 | ![image](https://github.com/user-attachments/assets/72dd7e55-d579-43c7-91d6-92734f54b6e6) | ![E2024](https://github.com/user-attachments/assets/23f15d87-ab41-4afd-a803-243469272110)  | ![A2024](https://github.com/user-attachments/assets/b20af13e-69ce-459b-aeb5-14e0c55f771b) |
 | 2023 | ![image](https://github.com/user-attachments/assets/e184857f-699d-4402-a690-f0031094d8b3) |        |       |
-
-
-![A2024](https://github.com/user-attachments/assets/b20af13e-69ce-459b-aeb5-14e0c55f771b)
-
-![E2024](https://github.com/user-attachments/assets/23f15d87-ab41-4afd-a803-243469272110)
-
 
 - https://github.com/nishanchettri/ISSCC-Courses
 
