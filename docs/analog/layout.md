@@ -13,6 +13,10 @@ PCB 直角走线和 IC 直角走线？不考虑可制造性的问题，仅仅从
 - https://murata.eetrend.com/article/2019-06/1002845.html OP:https://blog.csdn.net/liuxp_008/article/details/1780852
 - https://www.mr-wu.cn/pcb-zou-xian-jiao-du-xuan-zhe-pcb-layout-tiao-keng-zhi-nan/
 
+## DeCap
+
+> 没有任何电路是集总的，只是有些电路更集总罢了
+
 
 
 ## IC Layout
