@@ -105,12 +105,13 @@ Murmann 2023 年从 Stanford 跳槽到夏威夷大学去养老了。在夏威夷
 ### Gray
 
 - book & solution?: CMOS + BJT
-  - 这本书已经到第六版了，我个人感觉是可以初学使用的，只不过因为翻译质量和翻译更新的问题，国内还是使用 Razavi 作为教学为主
+  - 这本书已经到第六版了，我个人感觉是可以初学使用的，只不过因为[翻译质量](https://www.bilibili.com/video/BV19m72zmEV1)和版本更新的问题，国内还是使用 Razavi 作为教学为主
 
 ### Sansen
 
 - book: CMOS + BJT
   - 不同的人对于这本书有不同的评价：“工程师参考手册”“一本书足够几乎全部的模拟设计”“不适合初学者”等等
+  - 本书中文版翻译质量[比较一般](https://www.bilibili.com/video/BV1Nr7pzvEtv/)
 
 ### Kenneth Martin
 
