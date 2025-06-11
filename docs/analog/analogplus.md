@@ -25,6 +25,8 @@ Move to ADDA
   - Chopper Amplifiers Demystified 
     - [SSCS](https://resourcecenter.sscs.ieee.org/tags/chopper-amplifiers-demystified)
     - [中文讲解](https://zhuanlan.zhihu.com/p/20596750997)
+- Qinwen Fan @ TU Delft
+  - [Capacitively-Coupled Chopper Amplifiers](https://link.springer.com/book/10.1007/978-3-319-47391-8)
 
 ##### Auto-Zero
 
@@ -126,15 +128,16 @@ Johan Huijsing @ TU Delft
 | Platform (Environment)                | **Virtuoso Analog Design Environment (ADE)**    | PrimeWave Design Environment        | Solido Design Environment                                    |                                  |                   |
 |                                       |                                                 |                                     |                                                              |                                  |                   |
 | SPICE                                 | **Spectre** (Classic)                           | **PrimeSim HSPICE**, PrimeSim SPICE | Eldo, Solido SPICE                                           |                                  | ALPS              |
-| 1st Gen FastSPICE                     | **Spectre APS**                                 |                                     | Analog FastSPICE (AFS)                                       |                                  |                   |
+| 1st Gen FastSPICE                     | **Spectre APS**                                 |                                     | Analog FastSPICE (AFS) (*Berkeley Design Automation*)        |                                  |                   |
 | 2nd Gen FastSPICE                     | **Spectre X**                                   | PrimeSim Pro                        | AFS eXTreme (AFS XT), Solido FastSPICE                       |                                  | **ALPS GT**       |
 | RF SPICE (RF FastSPICE)               | **Spectre RF, Spectre FX**                      | PrimeSim SPICE                      | AFS RF                                                       |                                  | ALPS RF           |
 | RC Extraction (2D EM Simulation)      | Quantus                                         | StarRC                              | Calibre xRC                                                  |                                  |                   |
-| 2.5D EM Simulation (Planar 3D)        | **EMX**                                         | Ansys RaptorH (RaptorX)             | Calibre xACT 3D                                              | RFPro\*, **ChannelSim (SerDes)** |                   |
-| 3D EM Simulation (Full-Wave 3D)       | Clarity (for packaging)                         | **Ansys HFSS**                      | HLAS (for packaging)                                         | **EMPro**                        |                   |
+| 2.5D EM Simulation (Planar 3D)        | **EMX** (*Integrand*)                           | RaptorH (RaptorX) (*Ansys*)         | Calibre xACT 3D                                              | RFPro\*, **ChannelSim (SerDes)** |                   |
+| 3D EM Simulation (Full-Wave 3D)       | Clarity (for packaging)                         | **HFSS** (*Ansys*)                  | HLAS (for packaging)                                         | **EMPro**                        |                   |
 | AMS Simulation                        | Spectre AMS + Xcelium                           | VCS AMS                             | Symphony, Questa ADMS                                        |                                  |                   |
 |                                       |                                                 |                                     |                                                              |                                  |                   |
 | Schematic / Layout Editor             | Virtuoso Schematic Editor XL / Layout Suite MXL |                                     | Tanner S-Edit / L-Edit                                       |                                  | Aether SE / LE    |
+| Layout Automation                     | **Animate** (*Pulsic*)                          |                                     |                                                              |                                  |                   |
 | Viewer                                | Virtuoso Visualization & Analysis (ViVA) XL     | Custom WaveView                     | Swave                                                        |                                  | iWave             |
 | Cell                                  | Spectre Characterization Simulator              | PrimeLib                            | Solido Variation Designer                                    |                                  |                   |
 |                                       |                                                 |                                     |                                                              |                                  |                   |
