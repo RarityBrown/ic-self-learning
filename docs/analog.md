@@ -113,6 +113,11 @@ Murmann 2023 年从 Stanford 跳槽到夏威夷大学去养老了。在夏威夷
   - 不同的人对于这本书有不同的评价：“工程师参考手册”“一本书足够几乎全部的模拟设计”“不适合初学者”等等
   - 本书中文版翻译质量[比较一般](https://www.bilibili.com/video/BV1Nr7pzvEtv/)
 
+### EE 124 @ SJSU
+
+- video：
+  - https://www.youtube.com/playlist?list=PLnK6MrIqGXsLL_IYksrx2ErnCucYRqXjF
+
 ### Kenneth Martin
 
 - book: CMOS
