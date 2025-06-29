@@ -91,6 +91,7 @@ Johan Huijsing @ TU Delft
 ### 其他
 
 - https://store.hoomanreyhani.com/
+- https://mead.ch/mead/
 
 ## Analog/Mixed-Signal/RF EDA
 
