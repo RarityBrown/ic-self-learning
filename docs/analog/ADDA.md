@@ -64,18 +64,32 @@ https://www.mathworks.com/help/msblks/gs/DesignAndEvaluateSARADC.html
 ADDA 方向南京大学是有本科生选修课的？
 
 - Boris Murmann @ Stanford → UH Mānoa
-  - Stanford EE315A, EE315B
-  - 2022 ISSCC Short Course: Introduction to ADCs/DACs: Metrics, Topologies, Trade Space, and Applications
+  - courseware
+    - Stanford EE315A, EE315B
+  - video
+    - 2022 ISSCC Short Course: Introduction to ADCs/DACs: Metrics, Topologies, Trade Space, and Applications ⭐
   - https://github.com/bmurmann/ADC-survey
 - Pieter Harpe (SAR-ADC) @ TU/e
-  - 2016 ISSCC [T05](https://resourcecenter.sscs.ieee.org/education/short-courses/sscstut20160090) - Basics of SAR ADCs Circuits & Architectures
+  - 2016 ISSCC [T05](https://resourcecenter.sscs.ieee.org/education/short-courses/sscstut20160090) - Basics of SAR ADCs Circuits & Architectures ⭐⭐
   - 2016 SSC-M: [Successive Approximation Analog-to-Digital Converters: Improving Power Efficiency and Conversion Speed](https://ieeexplore.ieee.org/document/7743043)
-  - 2019 ESSCIRC: [Low-power SAR ADCs: trends, examples and future](https://ieeexplore.ieee.org/document/8902871) & [Low-Power SAR ADCs: Basic Techniques and Trends](https://ieeexplore.ieee.org/document/9908164)
+  - Low-power SAR ADCs
+    - 2019 ESSCIRC Paper: [Low-power SAR ADCs: trends, examples and future](https://ieeexplore.ieee.org/document/8902871)
+    - 2019 ESSCIRC Video: [Low-Power SAR ADCs Presented by Pieter Harpe - YouTube](https://www.youtube.com/watch?v=BE9onmrGZhY)
+    - 2019 OJSSCS Paper: [Low-Power SAR ADCs: Basic Techniques and Trends](https://ieeexplore.ieee.org/document/9908164)
+  - 2022 ISSCC SC3: High Precision and Low Power ADCs
   - 2024 CICC: [Energy Efficient ADC Design Techniques](https://ieeexplore.ieee.org/document/10529035)
+- Marcel J.M. Pelgrom @ NXP → Retired
+  - book
+    - 2022 Springer: Analog-to Digital Conversion, Fourth Edition ⭐⭐
+    - 2023 Springer: Multi-Gigahertz Nyquist Analog-to-Digital Converters
+- Ahmed M. A. Ali (Speed) @ ADI → Apple
+  - book
+    - 2016 IET: High Speed Data Converters (高速数据转换器设计)
 - 孙楠 & 李福乐 @ THU
-  - https://bbs.eetop.cn/thread-953294-1-23.html
-  - https://bbs.eetop.cn/thread-954969-2-90.html
-  - https://bbs.eetop.cn/thread-943698-8-29.html
+  - courseware / slides
+    - https://bbs.eetop.cn/thread-953294-1-23.html
+    - https://bbs.eetop.cn/thread-954969-2-90.html
+    - https://bbs.eetop.cn/thread-943698-8-29.html
 - 唐希源 @ PKU
   - 2022 TCASI: [Low-Power SAR ADC Design: Overview and Survey of State-of-the-Art Techniques](https://ieeexplore.ieee.org/document/9761973)
 - UCB EE 247 (old), EE 240C (new)
@@ -97,7 +111,7 @@ ADDA 方向南京大学是有本科生选修课的？
 ### 参考
 
 - https://www.zhihu.com/question/429625678
-- https://www.zhihu.com/question/553117936
+- https://www.zhihu.com/question/553117936 ⭐
 - https://www.zhihu.com/question/502632221
 - https://www.zhihu.com/question/478487601
 - https://www.zhihu.com/question/590222455
