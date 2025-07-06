@@ -26,6 +26,10 @@ PCB 直角走线和 IC 直角走线？不考虑可制造性的问题，仅仅从
 - ISSCC
   - ISSCC 2011 Tutorial: Layout: The other half of Nanometer CMOS Analog Design
 
+### DRC & DFM
+
+DFM: https://zhuanlan.zhihu.com/p/1924235105657942639
+
 ## Pad & ESD 
 
 - Allen: Analog Design Viewpoint of ESD
