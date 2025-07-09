@@ -61,7 +61,7 @@ https://www.mathworks.com/help/msblks/gs/DesignAndEvaluateSARADC.html
 
 ###  学习资源
 
-ADDA 方向南京大学是有本科生选修课的？
+ADDA 方向部分大学是有本科生选修课的
 
 - Boris Murmann @ Stanford → UH Mānoa
   - courseware
@@ -82,6 +82,11 @@ ADDA 方向南京大学是有本科生选修课的？
   - book
     - 2022 Springer: Analog-to Digital Conversion, Fourth Edition ⭐⭐
     - 2023 Springer: Multi-Gigahertz Nyquist Analog-to-Digital Converters
+- Behzad Razavi @ UCLA
+  - book
+    - 2025 Cambridge: Analysis and Design of Data Converters
+  - courseware (not recommended)
+    - 2012 EE215D: https://www.seas.ucla.edu/brweb/teaching/215D_S2012/
 - Ahmed M. A. Ali (Speed) @ ADI → Apple
   - book
     - 2016 IET: High Speed Data Converters (高速数据转换器设计)
