@@ -34,6 +34,19 @@
 - *You Stink at Design Reviews!*, Chris Mangelsdorf
   - [SSC-M](https://ieeexplore.ieee.org/document/10752736)
 
+
+Put in slides (for analog): 
+
+- Results
+  - Waveform screenshot
+  - Average power, peak current
+  - Schematic (testbench & DUT) / Layout screenshot
+- Testbench settings
+  - Path to testbench
+  - `config` screenshot
+  - `maestro` screenshot
+  - `lock` and rename the final `history` simulation data
+
 ## Paper & Conference
 
 - *Do's and Don'ts of Writing a Good Paper Recommendations from a Former Editor in Chief*, Bram Nauta, SSCS Webinars For Young Excellence
