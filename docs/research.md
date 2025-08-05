@@ -3,7 +3,7 @@
 ## Basic
 
 - *How to Do Research in IC Design?*，胡诣哲
-  - [Slides](https://bbs.eetop.cn/thread-962980-1-1.html)
+  - [Slides2024](https://bbs.eetop.cn/thread-962980-1-1.html) [Slides2025](https://bbs.eetop.cn/thread-962980-1-1.html) 
 
 ## Schematic & Diagramming
 
@@ -17,7 +17,7 @@
 - *Effective Technical Presentations: The How-To Guide*, Danielle Griffith, SSCS Webinars For Young Excellence
   - [YouTube Video](https://youtu.be/TW6m4jZd4yk?t=314)
 - *ISSCC Regular Presentations (Template & Guide)* & *VLSI PowerPoint Guidelines and Template*
-  - [2024 VLSI](https://archive.vlsisymposium.org/24web/author-instructions/)
+  - [2024 VLSI](https://archive.vlsisymposium.org/24web/author-instructions/) [2025 VLSI](https://www.vlsisymposium.org/authors/)
 - *Giving a good ISSCC presentation, November 2007: Tips on how to prepare and give a good ISSCC talk*, Jan Van der Spiegel
 
 做学术 slide 后的检查：
