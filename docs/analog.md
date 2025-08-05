@@ -75,6 +75,14 @@ Murmann 2023 年从 Stanford 跳槽到夏威夷大学去养老了。在夏威夷
   - [Understanding Metastability in SAR ADCs: Part I: Synchronous](https://ieeexplore.ieee.org/document/8741286)
   - [Understanding Metastability in SAR ADCs: Part II: Asynchronous](https://ieeexplore.ieee.org/document/8811772)
 
+### 李致毅 Jri Lee @ NTU
+
+Razavi 的学生
+
+- video
+  - [微电子学](https://space.bilibili.com/1629031600/lists/1343668)
+  - [模集 (类比积体电路)](https://space.bilibili.com/1629031600/lists/1283467) ⭐⭐⭐⭐⭐
+  - 都没有 courseware，因为是纯板书
 
 ### R. Jacob Baker @ UNLV
 
@@ -83,7 +91,7 @@ Murmann 2023 年从 Stanford 跳槽到夏威夷大学去养老了。在夏威夷
 - courseware/video
   - [R. Jacob Baker's courses](https://cmosedu.com/jbaker/courses/courses.htm) 可参考，目前公开的最新资源是 [2020 模集 EE420](https://www.cmosedu.com/jbaker/courses/ee420_ecg620/s20/lec_ee420_ecg620.htm) 和 [2016 高等模集](https://www.cmosedu.com/jbaker/courses/ecg720/s16/lec_ecg720.htm)，BiliBili 上有转载
 
-### Phillip E. Allen @ Georgia Tech
+### Phillip E. Allen @ Georgia Tech; 吴金 @ SEU
 
 - book & solution?: CMOS only
   - 他的书不适合初学者使用，目前最新的中文第三版翻译仍有一些机翻痕迹，但也不至于像网上说的有很多错误（意思就是还是有一些错误的）。~~另外就是我个人而言，看这类把 $V_{TH}$ 记作 $V_T$ 的书不是很舒服~~
@@ -95,6 +103,7 @@ Murmann 2023 年从 Stanford 跳槽到夏威夷大学去养老了。在夏威夷
 - video：
   - 个人网站上有[售](https://aicdesign.org/product-category/academic-courses/)他亲自讲解的书每章的 course，$45 一章，不便宜，网上找不到相关资源。也有更面向[产业界](https://aicdesign.org/product/design-procedures-for-analog-integrated-circuits/)一点的课，更贵
   - Bilibili 上东南大学吴金老师的网课（有两个版本，老版本更深更全）可以参考，网课不像书本往往直接给出一个电路图，来进行“逆向”分析，网课会讲述电路的“正向”设计思路，即这个电路是怎么思考产生的。在 eetop 上有配套 slide 可以下载。所以说看书和上课都很重要，不可能看完四本书就无师自通的 ⭐⭐⭐⭐
+    - 吴老师 2025 年开设官方 BiliBili [账号](https://space.bilibili.com/628171881)
 
 ### EE 4430 @ Georgia Tech
 
@@ -128,15 +137,14 @@ Murmann 2023 年从 Stanford 跳槽到夏威夷大学去养老了。在夏威夷
 
 UCB 的 EE140/240 相对好一些，大概 2010 年左右的视频。（不过画质看上去像是 2000 年的）
 
-### 孙楠 @ THU
+### 孙楠,揭路 @ THU
 
 - book: CMOS only
-  - 《现代模拟集成电路设计》很新的书，也是基于 gm/id 设计方法的
+  - 《现代模拟集成电路设计》2025 年的书，也是基于 gm/id 设计方法的
   - 众说纷纭，待我细细阅读后再写
-    - 有消息说小错不少
-    - 有消息说不建议初学者入门使用，这本书和国内教材的普遍情况一样，更像是一本高度浓缩的参考册，而不是适合零基础学生自学的厚书；有消息说非常通俗易懂
-  - 电子版在 eetop 上被原作者要求下架
-- courseware
+    - 有消息说非常通俗易懂；有消息说不建议初学者入门使用，这本书和国内教材的普遍情况一样，更像是一本高度浓缩的参考册，而不是适合零基础学生自学的厚书
+    - 有消息说有一定的小错
+- courseware & video
   - 暂无公开资源
 
 ### Fudan
@@ -154,13 +162,13 @@ UCB 的 EE140/240 相对好一些，大概 2010 年左右的视频。（不过�
 - SSCS Tutorial, Short Course & Circuit Insights
   - todo
 
-
+<!--  
 ### Asad A. Abidi
 
 - Journals
   - Oscillator: [The Quadrature LC Oscillator](https://ieeexplore.ieee.org/document/4295200), [Phase Noise and Jitter in CMOS Ring Oscillators](https://ieeexplore.ieee.org/document/1661757), [Phase Noise in LC Oscillators](https://ieeexplore.ieee.org/document/5356206)
   - Regenerative Comparator: [Understanding the regenerative comparator circuit](https://ieeexplore.ieee.org/document/6946003), [Analysis and Design of Regenerative Comparators for Low Offset and Noise](https://ieeexplore.ieee.org/document/8699092)
-
+-->
 
 ### Overview & Roadmap
 
@@ -174,7 +182,7 @@ gantt
     
     section Basic
     Razavi 书 + 张鸿网课                              :done,    des1, 0, 50
-    Razavi 书 + Hajimiri/李志毅网课 (T-model)         :done,    des2, 50, 80
+    Razavi 书 + Hajimiri/李致毅网课 (T-model)         :done,    des2, 50, 80
     Allen(+Gray) 书 + 吴金网课                        :done,    des3, 75, 100
     
     视情况可以翻翻 Baker 的书                          :active,   Baker, 150, 300
@@ -195,7 +203,7 @@ gantt
 - 整体学习计划前期偏理论
 - 不建议第一遍就看 Hajimiri 的网课有两个原因
   - 英语专有名词跟不上（抛开专有名词其实是很简单的英语），思路易打断，张鸿的网课使用英文 PPT 先熟悉一遍
-  - Hajimiri 对于 source 不接地的电路采用 T-model 分析，而不是更主流的 π-model。虽然很难说哪种更好，但是第一遍入门还是和 Razavi/Gray/Allen 书保持一致，均使用更主流的 π-model 比较好。李志毅老师的网课也是 T-model，不过我没怎么看过
+  - Hajimiri 对于 source 不接地的电路采用 T-model 分析，而不是更主流的 π-model。虽然很难说哪种更好，但是第一遍入门还是和 Razavi/Gray/Allen 书保持一致，均使用更主流的 π-model 比较好。李致毅老师的网课也是 T-model，不过我没怎么看过
   - Hajimiri 因为 RF 出身，频响的内容大约占了 1/4 的课时，对于初学者来说有难度
   - Hajimiri 在频响章节使用独创的 Time- and Transfer-Constant 分析方法，而不是更主流的 KCL KVL 硬算。频响算是比较难的部分，第一遍接触太多新方法对于普通人不合适
 - 可以考虑把仿真的部分挪到第一遍 Razavi 后，即看 Hajimiri 的网课的同时仿真，不过不建议仿真和第一遍 Razavi 同时进行
