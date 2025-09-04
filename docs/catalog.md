@@ -5,7 +5,7 @@
   - （复变函数/工程数学/数学物理方法）
     - *Advanced Engineering Mathematics*
     - *Mathematical Methods in the Physical Sciences*
-  - 大学物理、电磁场、固体物理
+  - 大学物理、固体物理
 - 编程入门 & 计算机背景：详见 [CS 自学指南](https://github.com/pkuflyingpig/cs-self-learning/)，本文略
   - C、C++、Python、MATLAB
   - 计组/体系结构、数据结构与算法、机器学习导论/人工智能导论
@@ -16,20 +16,24 @@
   - 信号与系统 Signal and System
   - 通信原理 Communication Systems
   - 数字信号处理 Digital Signal Processing
-- [Analog](analog.md)
+- [Analog](analog.md): Every idiot can count to one.
   - 模拟电路 Analog Circuits
     - 模拟电路实验 Analog Circuits Lab
   - 模拟集成电路 Analog IC
     - 模拟集成电路实验 Analog IC Lab
   - 高等模拟集成电路 Advanced Analog IC
-  - 射频集成电路 RFIC
-- [Digital](digital.md)
+- [Digital](digital.md): Analog is dead.
   - 数字逻辑 Digital Logic
     - 数字逻辑实验 Digital Logic Lab
   - 数字集成电路 Digital IC
     - 数字集成电路实验 Digital IC Lab
       - Verilog
       - FPGA
+- RF: 
+  - 电磁场 Engineering Electromagnetics
+  - 微波工程 Microwave Engineering
+  - 射频集成电路 RFIC
+    - 射频集成电路实验 RFIC Lab
 - [Device](device.md)
   - 半导体物理 Semiconductor Physics
   - 半导体器件 Device
