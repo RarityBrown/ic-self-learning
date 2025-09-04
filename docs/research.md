@@ -3,7 +3,7 @@
 ## Basic
 
 - *How to Do Research in IC Design?*，胡诣哲
-  - [Slides2024](https://bbs.eetop.cn/thread-962980-1-1.html) [Slides2025](https://bbs.eetop.cn/thread-962980-1-1.html) 
+  - [Slides2024](https://bbs.eetop.cn/thread-962980-1-1.html) [Slides2025](https://bbs.eetop.cn/thread-992963-1-1.html) 
 
 ## Schematic & Diagramming
 
@@ -28,6 +28,8 @@
 - [ ] 纯图片版 pptx
   - 自动工具？
 - [ ] pdf 版
+- https://www.zhihu.com/question/6408584014/answer/1944745698500273497
+
 
 ## Design Review
 
@@ -90,15 +92,15 @@ VLSI often refers to the following two:
 
 NOT *International Conference on VLSI Design* (VLSID) or *Computer Society Annual Symposium on VLSI* (ISVLSI)
 
-### CAS: Circuits and Systems Society
+### 总结
 
-期刊：TCAS-I, TCAS-II; TBioCAS
+对IC领域而言：
 
-会议：ISCAS; BioCAS
-
-### MTT-S: Microwave Theory and Techniques Society
-
-期刊：TMTT
-
-会议：RFIC Symposium
+| 学会 (Society)                                     | 顶刊   | 次顶刊           | 顶会           | 次顶会 |
+| :------------------------------------------------- | :----- | ---------------- | :------------- | ------ |
+| **SSCS** (Solid-State Circuits Society)            | JSSC   | SSC-L            | ISSCC          | VLSI   |
+| **CAS** (Circuits and Systems Society)             | TCAS-I | TCAS-II, TBioCAS | ISCAS          | BioCAS |
+| **MTT-S** (Microwave Theory & Techniques Society)  | TMTT   |                  | RFIC Symposium |        |
+| **PELS** (Power Electronics Society)               | TPEL   |                  | APEC           |        |
+| **CEDA** (Council on Electronic Design Automation) | TCAD   |                  | DAC            | ICCAD  |
 
