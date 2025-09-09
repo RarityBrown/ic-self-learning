@@ -25,10 +25,10 @@
 - [Digital](digital.md): Analog is dead.
   - 数字逻辑 Digital Logic
     - 数字逻辑实验 Digital Logic Lab
-  - 数字集成电路 Digital IC
-    - 数字集成电路实验 Digital IC Lab
-      - Verilog
-      - FPGA
+  - 数字集成电路 Digital VLSI Design
+    - Full-custom
+    - Verilog: FPGA & ASIC
+    - 可参考: ETHZ VLSI1 - VLSI5
 - RF: 
   - 电磁场 Engineering Electromagnetics
   - 微波工程 Microwave Engineering
@@ -43,3 +43,10 @@
 - PCB
   - 信号完整性
 - EDA
+
+
+
+其他
+
+[VLSI Design at University Level: Comparing USA with Switzerland](https://nsf-ic-education.com/oct_slides/14-studer.pdf), by Prof. Christoph Studer iip.ethz.ch): 大部分国内高校的培养体系其实更接近美系了；反倒是南科大、西湖大学等等“对标美系”的高校有欧系的所谓的“专职教学岗”。
+
