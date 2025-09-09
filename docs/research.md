@@ -12,6 +12,8 @@
 
 ## Presentation
 
+### multipage
+
 - *Giving Great Technical Talks*, Kofi Makinwa
   - [Slides](https://ei.et.tudelft.nl/docs/Makinwa_-_Giving_Great_Talks_2023.pdf)
 - *Effective Technical Presentations: The How-To Guide*, Danielle Griffith, SSCS Webinars For Young Excellence
@@ -29,6 +31,9 @@
   - 自动工具？
 - [ ] pdf 版
 - https://www.zhihu.com/question/6408584014/answer/1944745698500273497
+
+### single page
+
 
 
 ## Design Review
@@ -94,13 +99,16 @@ NOT *International Conference on VLSI Design* (VLSID) or *Computer Society Annua
 
 ### 总结
 
-对IC领域而言：
+对于 IC 设计领域而言：
 
-| 学会 (Society)                                     | 顶刊   | 次顶刊           | 顶会           | 次顶会 |
-| :------------------------------------------------- | :----- | ---------------- | :------------- | ------ |
-| **SSCS** (Solid-State Circuits Society)            | JSSC   | SSC-L            | ISSCC          | VLSI   |
-| **CAS** (Circuits and Systems Society)             | TCAS-I | TCAS-II, TBioCAS | ISCAS          | BioCAS |
-| **MTT-S** (Microwave Theory & Techniques Society)  | TMTT   |                  | RFIC Symposium |        |
-| **PELS** (Power Electronics Society)               | TPEL   |                  | APEC           |        |
-| **CEDA** (Council on Electronic Design Automation) | TCAD   |                  | DAC            | ICCAD  |
+| 学会 (Society)                                     | 顶刊   | 次顶刊           | 其他刊               | 顶会                                                        | 次顶会                                                       |
+| :------------------------------------------------- | :----- | ---------------- | -------------------- | :---------------------------------------------------------- | ------------------------------------------------------------ |
+| **SSCS** (Solid-State Circuits Society)            | JSSC   | SSC-L            | OJ-SSCS              | ISSCC (9月初截稿, 2月开会), <br />VLSI (2月初截稿, 6月开会) | ESSERC (4月截稿, 9月开会), <br />CICC (11月截稿, 4月开会), <br />ASSCC (6月截稿, 11月开会) |
+| **CAS** (Circuits and Systems Society)             | TCAS-I | TCAS-II, TBioCAS | TVLSI, OJCAS, TCASAI | ISCAS                                                       | [ISICAS](https://www.zhihu.com/question/559252881/answer/2716642993), BioCAS |
+| **MTT-S** (Microwave Theory & Techniques Society)  | TMTT   |                  |                      | RFIC Symposium (1月中截稿, 6月开会)                         |                                                              |
+| **PELS** (Power Electronics Society)               | TPEL   |                  |                      | APEC                                                        |                                                              |
+| **CEDA** (Council on Electronic Design Automation) | TCAD   |                  |                      | DAC                                                         | ICCAD                                                        |
 
+对于 IC 器件和工艺领域而言：
+
+todo
