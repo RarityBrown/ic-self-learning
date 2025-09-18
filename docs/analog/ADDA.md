@@ -45,26 +45,7 @@ graph LR
 
 ## Classic ADDA
 
-### 做一个 10bit SAR 上手
-
-#### 系统建模
-
-https://www.mathworks.com/help/msblks/examples.html?category=data-converters&exampleproduct=all
-https://www.mathworks.com/help/msblks/ug/adc-tutorial.html
-
-
-https://www.mathworks.com/help/msblks/ug/successive-approximation-adc.html
-https://www.mathworks.com/help/msblks/gs/DesignAndEvaluateSARADC.html
-
-
-- Mixed-Signal Blockset (msblks)
-  - [data-converters.html](https://www.mathworks.com/help/msblks/data-converters.html)
-    - [saradc.html](https://www.mathworks.com/help/msblks/ref/)
-
-#### 子模块
-
-
-###  学习资源
+### 学习资源
 
 ADDA 方向部分大学是有本科生选修课的
 
@@ -107,15 +88,47 @@ ADDA 方向部分大学是有本科生选修课的
   - 《低功耗 CMOS 逐次逼近型模数转换器》
 - Allen
   - 第二版
+ 
+
+### MATLAB
+
+https://www.mathworks.com/help/msblks/examples.html?category=data-converters&exampleproduct=all
+https://www.mathworks.com/help/msblks/ug/adc-tutorial.html
 
 
+https://www.mathworks.com/help/msblks/ug/successive-approximation-adc.html
+https://www.mathworks.com/help/msblks/gs/DesignAndEvaluateSARADC.html
 
 
-### 经典文献
+- Mixed-Signal Blockset (msblks)
+  - [data-converters.html](https://www.mathworks.com/help/msblks/data-converters.html)
+    - [saradc.html](https://www.mathworks.com/help/msblks/ref/)
+   
+
+### Nyquist ADC
+
+#### Flash ADC
+
+#### SAR ADC
 
 | Title                                                        | Author                 | Year | IEEE/Google Scholar |
 | ------------------------------------------------------------ | ---------------------- | ---- | ------------------- |
 | [A 10-bit 50-MS/s SAR ADC With a Monotonic Capacitor Switching Procedure](https://ieeexplore.ieee.org/document/5437496) | Chun-Cheng (Jason) Liu | 2010 | 1000/1500           |
+
+
+#### Pipeline ADC
+
+##### Amp
+
+###### Ring Amp by [Benjamin Hershberg](https://ieeexplore.ieee.org/author/37399879200)
+
+- Benjamin Hershberg @ Intel
+  - CICC 2020: Ringamp - The Scalable Amplifier We’ve All Been Waiting For?
+    - video: [Ring Amplifier (Ringamp) Tutorial - YouTube](https://www.youtube.com/watch?v=uPFCcgjS5Zk)
+    - slides: [PowerPoint Presentation](https://www.benjamin.hershberg.com/wp-content/papercite-data/slides/2020-cicc-invited-talk.pdf)
+    - (the very first) paper: [Ring Amplifiers for Switched Capacitor Circuits, 2012, JSSC](https://ieeexplore.ieee.org/document/6373760)
+  - Personal website: https://www.benjamin.hershberg.com/
+
 
 
 ### 参考
