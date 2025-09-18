@@ -127,6 +127,11 @@ Razavi 的学生
 - video：
   - https://www.youtube.com/playlist?list=PLnK6MrIqGXsLL_IYksrx2ErnCucYRqXjF
 
+### ECEN 474 @ Texas A&M, Sam Palermo
+
+- slides
+  - https://people.engr.tamu.edu/spalermo/ecen474.html
+
 ### Kenneth Martin
 
 - book: CMOS
