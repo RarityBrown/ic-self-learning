@@ -105,7 +105,7 @@ NOT *International Conference on VLSI Design* (VLSID) or *Computer Society Annua
 | :------------------------------------------------- | :----- | ---------------- | -------------------- | :---------------------------------------------------------- | ------------------------------------------------------------ |
 | **SSCS** (Solid-State Circuits Society)            | JSSC   | SSC-L            | OJ-SSCS              | ISSCC (9月初截稿, 2月开会), <br />VLSI (2月初截稿, 6月开会) | ESSERC (4月截稿, 9月开会), <br />CICC (11月截稿, 4月开会), <br />ASSCC (6月截稿, 11月开会) |
 | **CAS** (Circuits and Systems Society)             | TCAS-I | TCAS-II, TBioCAS | TVLSI, OJCAS, TCASAI | ISCAS                                                       | [ISICAS](https://www.zhihu.com/question/559252881/answer/2716642993), BioCAS |
-| **MTT-S** (Microwave Theory & Techniques Society)  | TMTT   |                  |                      | RFIC Symposium (1月中截稿, 6月开会)                         |                                                              |
+| **MTT-S** (Microwave Theory & Techniques Society)  | TMTT   |                  |                      | RFIC Symposium (1月中截稿, 6月开会), <br /> IMS          |                                                              |
 | **PELS** (Power Electronics Society)               | TPEL   |                  |                      | APEC                                                        |                                                              |
 | **CEDA** (Council on Electronic Design Automation) | TCAD   |                  |                      | DAC                                                         | ICCAD                                                        |
 
