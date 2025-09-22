@@ -12,6 +12,8 @@
 
 ## Presentation
 
+- Use Phrases, Not Sentences
+
 ### multipage
 
 - *Giving Great Technical Talks*, Kofi Makinwa
@@ -30,11 +32,16 @@
 - [ ] 纯图片版 pptx
   - 自动工具？
 - [ ] pdf 版
+- [ ] `[Name, 2017, Boardcom, JSSC]`
 - https://www.zhihu.com/question/6408584014/answer/1944745698500273497
 
 ### single page
 
+#### One-Pager
 
+#### Plan
+
+Gantt Diagram
 
 ## Design Review
 
