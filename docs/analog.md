@@ -222,6 +222,8 @@ gantt
 
 定性的 insight & intuition 是非常重要的。几乎所有老师都有特别强调过，即使没有强调，也会潜移默化的提到。
 
+## 
+
 ## 后记
 
 如果你不满足于此，可以去看看 [Analog Plus](#./analog/analogplus.md)
