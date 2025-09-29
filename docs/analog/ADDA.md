@@ -43,19 +43,32 @@ graph LR
 ### ΣΔ Modulation
 
 
-## Classic ADDA
-
-### 学习资源
+## 学习资源
 
 ADDA 方向部分大学是有本科生选修课的
 
-- Boris Murmann @ Stanford → UH Mānoa
-  - courseware
-    - Stanford EE315A, EE315B
-  - video
-    - 2022 ISSCC Short Course: Introduction to ADCs/DACs: Metrics, Topologies, Trade Space, and Applications ⭐
-  - https://github.com/bmurmann/ADC-survey
-- Pieter Harpe (SAR-ADC) @ TU/e
+### Boris Murmann @ Stanford → UH Mānoa
+
+- courseware
+  - Stanford EE315A, EE315B
+- video
+  - 2022 ISSCC Short Course: Introduction to ADCs/DACs: Metrics, Topologies, Trade Space, and Applications ⭐
+- https://github.com/bmurmann/ADC-survey
+
+### Manar El-Chammas @ TI
+
+- conference
+  - ICECS 2011 T: Time-Interleaved ADCs Theory and Design
+  - NEWCAS 2012 T: The World of Time-Interleaved ADCs from theory to design
+  - ISSCC 2017 F6: Design Techniques for Multi-GSs and High Performance Pipelined ADCs
+  - AUB Talks Semantic Communications 2024: The hardware behind the algorithms: A look at energy-efficient transievers and accelerators
+- book
+  - 2024 High-Performance and High-Speed Pipelined ADCs
+
+ 
+### Pieter Harpe (SAR-ADC) @ TU/e
+
+- Talks
   - 2016 ISSCC [T05](https://resourcecenter.sscs.ieee.org/education/short-courses/sscstut20160090) - Basics of SAR ADCs Circuits & Architectures ⭐⭐
   - 2016 SSC-M: [Successive Approximation Analog-to-Digital Converters: Improving Power Efficiency and Conversion Speed](https://ieeexplore.ieee.org/document/7743043)
   - Low-power SAR ADCs
@@ -64,26 +77,51 @@ ADDA 方向部分大学是有本科生选修课的
     - 2019 OJSSCS Paper: [Low-Power SAR ADCs: Basic Techniques and Trends](https://ieeexplore.ieee.org/document/9908164)
   - 2022 ISSCC SC3: High Precision and Low Power ADCs
   - 2024 CICC: [Energy Efficient ADC Design Techniques](https://ieeexplore.ieee.org/document/10529035)
-- Marcel J.M. Pelgrom @ NXP → Retired
-  - book
-    - 2022 Springer: Analog-to Digital Conversion, Fourth Edition ⭐⭐
-    - 2023 Springer: Multi-Gigahertz Nyquist Analog-to-Digital Converters
-- Behzad Razavi @ UCLA
-  - book
-    - 2025 Cambridge: Analysis and Design of Data Converters
-  - courseware (not recommended)
-    - 2012 EE215D: https://www.seas.ucla.edu/brweb/teaching/215D_S2012/
-- Ahmed M. A. Ali (Speed) @ ADI → Apple
-  - book
-    - 2016 IET: High Speed Data Converters (高速数据转换器设计)
-- 孙楠 & 李福乐 @ THU
-  - courseware / slides
-    - https://bbs.eetop.cn/thread-953294-1-23.html
-    - https://bbs.eetop.cn/thread-954969-2-90.html
-    - https://bbs.eetop.cn/thread-943698-8-29.html
-- 唐希源 @ PKU
-  - 2022 TCASI: [Low-Power SAR ADC Design: Overview and Survey of State-of-the-Art Techniques](https://ieeexplore.ieee.org/document/9761973)
+ 
+### Marcel J.M. Pelgrom @ NXP → Retired
+
+- book
+  - 2022 Springer: Analog-to Digital Conversion, Fourth Edition ⭐⭐
+  - 2023 Springer: Multi-Gigahertz Nyquist Analog-to-Digital Converters
+   
+### Behzad Razavi @ UCLA
+    
+- book
+  - 2025 Cambridge: Analysis and Design of Data Converters ⭐⭐
+- courseware (not recommended)
+  - 2012 EE215D: https://www.seas.ucla.edu/brweb/teaching/215D_S2012/
+
+### Yun Chiu @ UT Dallas
+
+- courseware
+  - 2025 EECT 7327: https://personal.utdallas.edu/~yxc101000/courses/7327/handout.html
+- conference
+  - mwscas 2012: Recent Advances in Multistep Nyquist ADC’s
+  - ISSCC 2023 T3: Fundamentals of Data Converters
+
+### Ahmed M. A. Ali @ ADI → Apple
+    
+- book
+  - 2016 IET: High Speed Data Converters (高速数据转换器设计)
+   
+### 孙楠 & 李福乐 @ THU
+
+- courseware / slides
+  - https://bbs.eetop.cn/thread-953294-1-23.html
+  - https://bbs.eetop.cn/thread-954969-2-90.html
+  - https://bbs.eetop.cn/thread-943698-8-29.html
+
+    
+### 唐希源 @ PKU
+
+- 2022 TCASI: [Low-Power SAR ADC Design: Overview and Survey of State-of-the-Art Techniques](https://ieeexplore.ieee.org/document/9761973)
+
+### UC Berkeley
+  
 - UCB EE 247 (old), EE 240C (new)
+
+### Others
+
 - 朱樟明 @ XIDIAN
   - 《低功耗 CMOS 逐次逼近型模数转换器》
 - Allen
