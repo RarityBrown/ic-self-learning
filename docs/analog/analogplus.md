@@ -2,6 +2,12 @@
 
 为低年级研究生和学有余力的高年级本科生开始准备的高级主题，不过仍然是非科研性质，偏向于学习性质的内容。对于研究生层次的方向，因为行业内竞争和保密等原因，公开的教学资源更加稀少。除了本文，可以参考 analog 文件夹中分模块的介绍。
 
+## 课程
+
+| University             | Course No. | Year / WebSite                                               | Name                      | Teacher       | Slide     | Op-Amps             | ADC                                            |
+| ---------------------- | ---------- | ------------------------------------------------------------ | ------------------------- | ------------- | --------- | ------------------- | ---------------------------------------------- |
+| Boise State University | ECE614     | [2014](https://www.eecis.udel.edu/~vsaxena/courses/ece614/f14/Lectures.htm) | Advanced Analog IC Design | Vishal Saxena | available | CMFB + Differential | Switched-Capacitor, Comparators, Architectures |
+
 ## 常见模块
 
 ### 模拟/混合信号
@@ -46,11 +52,11 @@ Move to ADDA
 
 #### (Advanced) OpAmp
 
-Johan Huijsing @ TU Delft
 
-- book
-  - *Operational Ampliers: Theory and Design (Third Edition)* 这老头好像研究了一辈子运放，所以这本书可以从题目中看出，就不是一本 Analog IC 的书，而是一本 OPAMP 的书
-  - 书中的内容也涉及一些 chopper 之类的东西，没看过也看不懂
+- Johan Huijsing @ TU Delft
+  - book
+    - *Operational Ampliers: Theory and Design (Third Edition)* 这老头好像研究了一辈子运放，所以这本书可以从题目中看出，就不是一本 Analog IC 的书，而是一本 OPAMP 的书
+    - 书中的内容也涉及一些 chopper 之类的东西，没看过也看不懂
 
 #### (Ultra) Low-Voltage Design / Sub-threshold Design
 
