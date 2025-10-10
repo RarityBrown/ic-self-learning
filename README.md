@@ -60,25 +60,22 @@ IC 是一个很大的方向，笔者只对其中甚少的方向有些极为粗�
 
 ## STEM
 
-- [CS 自学指南](https://github.com/pkuflyingpig/cs-self-learning/)
+- [CS 自学指南](https://github.com/pkuflyingpig/cs-self-learning/) ⭐
 - [统计学自学指南](https://xuankaiwang.github.io/)
 - [各种学科自学指南](https://github.com/MuggleWei/learning_compass) 
-- [《上海交通大学生存手册》](https://github.com/SurviveSJTU/SurviveSJTUManual)
+- [《上海交通大学生存手册》](https://github.com/SurviveSJTU/SurviveSJTUManual) ⭐
 
-## EE
+## EE & IC
 
 ### Course Map
 
-- [EECS | 学科自学指南](https://mugglewei.github.io/learning_compass/posts/major/eecs/)
+- [EECS | 学科自学指南](https://mugglewei.github.io/learning_compass/posts/major/eecs/) ⭐
   - [Eta Kappa Nu (HKN), Mu Chapter](https://hkn.eecs.berkeley.edu/courseguides)
+- [清华大学微电子培养方案及相应参考课程视频](https://www.bilibili.com/opus/508995032359647547)
 
 ### Personal
 
+- [muhammadaldacher](https://github.com/muhammadaldacher/muhammadaldacher) ⭐
 - [751K/EIE-Knowledge-Base](https://github.com/751K/EIE-Knowledge-Base)
 - [YiDingg/LatexNotes](https://github.com/YiDingg/LatexNotes)
 
-## IC
-
-### Course Map
-
-- [清华大学微电子培养方案及相应参考课程视频BV链接（V1.4） - 哔哩哔哩](https://www.bilibili.com/opus/508995032359647547)
