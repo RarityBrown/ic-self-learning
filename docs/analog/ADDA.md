@@ -65,10 +65,9 @@ ADDA 方向部分大学是有本科生选修课的
 - book
   - 2024 High-Performance and High-Speed Pipelined ADCs
 
- 
 ### Pieter Harpe (SAR-ADC) @ TU/e
 
-- Talks
+- conference
   - 2016 ISSCC [T05](https://resourcecenter.sscs.ieee.org/education/short-courses/sscstut20160090) - Basics of SAR ADCs Circuits & Architectures ⭐⭐
   - 2016 SSC-M: [Successive Approximation Analog-to-Digital Converters: Improving Power Efficiency and Conversion Speed](https://ieeexplore.ieee.org/document/7743043)
   - Low-power SAR ADCs
@@ -85,13 +84,13 @@ ADDA 方向部分大学是有本科生选修课的
   - 2023 Springer: Multi-Gigahertz Nyquist Analog-to-Digital Converters
    
 ### Behzad Razavi @ UCLA
-    
+
 - book
   - 2025 Cambridge: Analysis and Design of Data Converters ⭐⭐
 - courseware (not recommended)
   - 2012 EE215D: https://www.seas.ucla.edu/brweb/teaching/215D_S2012/
 
-### Yun Chiu @ UT Dallas
+### 邱云 Yun Chiu @ UT Dallas
 
 - courseware
   - 2025 EECT 7327: https://personal.utdallas.edu/~yxc101000/courses/7327/handout.html
@@ -103,7 +102,10 @@ ADDA 方向部分大学是有本科生选修课的
     
 - book
   - 2016 IET: High Speed Data Converters (高速数据转换器设计)
-   
+- conference
+  - CICC 2018 T: High Speed Pipelined ADCs: Fundamentals and Variants
+  - ISSCC 2021 T05: Calibration Techniques in ADCs
+
 ### 孙楠 & 李福乐 @ THU
 
 - courseware / slides
@@ -111,22 +113,17 @@ ADDA 方向部分大学是有本科生选修课的
   - https://bbs.eetop.cn/thread-954969-2-90.html
   - https://bbs.eetop.cn/thread-943698-8-29.html
 
-    
-### 唐希源 @ PKU
-
-- 2022 TCASI: [Low-Power SAR ADC Design: Overview and Survey of State-of-the-Art Techniques](https://ieeexplore.ieee.org/document/9761973)
-
-### UC Berkeley
-  
-- UCB EE 247 (old), EE 240C (new)
-
 ### Others
 
+- UC Berkeley
+  - UCB EE 247 (old), EE 240C (new)
 - 朱樟明 @ XIDIAN
   - 《低功耗 CMOS 逐次逼近型模数转换器》
+- 唐希源 @ PKU
+  - [Low-Power SAR ADC Design: Overview and Survey of State-of-the-Art Techniques](https://ieeexplore.ieee.org/document/9761973)
 - Allen
   - 第二版
- 
+
 
 ### MATLAB
 
