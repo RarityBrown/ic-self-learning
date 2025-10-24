@@ -17,14 +17,14 @@ PCB 直角走线和 IC 直角走线？不考虑可制造性的问题，仅仅从
 
 > 没有任何电路是集总的，只是有些电路更集总罢了
 
-
-
 ## IC Layout
 
 - NTUST
   - [類比積體電路佈局 - EETOP](https://bbs.eetop.cn/thread-906651-1-19.html)
 - ISSCC
   - ISSCC 2011 Tutorial: Layout: The other half of Nanometer CMOS Analog Design
+  - [slides](https://bbs.eetop.cn/thread-476386-1-1.html), [video](https://resourcecenter.sscs.ieee.org/education/short-courses/sscstut20110110)
+- The Art of Analog Layout, 3rd edition
 
 ### DRC & DFM
 
