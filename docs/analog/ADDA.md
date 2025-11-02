@@ -29,6 +29,8 @@ graph LR
 
 [Keeping Things Quiet: A New Methodology for Dynamic Comparator Noise Analysis, Art Schaldenbrand, 2016](https://www.cadence.com/content/dam/cadence-www/global/en_US/videos/tools/custom-_ic_analog_rf_design/NoiseAnalyisposting201612Chalk%20Talk.pdf)
 
+[TCAS-I 2008: Noise Analysis of Regenerative Comparators for Reconfigurable ADC Architectures](https://ieeexplore.ieee.org/document/4446769)
+
 #### StrongARM
 
 - 知乎
@@ -98,13 +100,20 @@ ADDA 方向部分大学是有本科生选修课的
   - mwscas 2012: Recent Advances in Multistep Nyquist ADC’s
   - ISSCC 2023 T3: Fundamentals of Data Converters
 
-### Ahmed M. A. Ali @ ADI → Apple
+### Ahmed M. A. Ali @ ADI → Apple (High Speed)
     
 - book
-  - 2016 IET: High Speed Data Converters (高速数据转换器设计)
+  - 2016 IET: High Speed Data Converters 《高速数据转换器设计》
 - conference
   - CICC 2018 T: High Speed Pipelined ADCs: Fundamentals and Variants
   - ISSCC 2021 T05: Calibration Techniques in ADCs
+
+### Walt Kester @ ADI
+
+- book
+  - 2005 ADI: Data Conversion Handbook
+- MT series ADI
+  - MT-001 to MT-031
 
 ### 孙楠 & 李福乐 @ THU
 
@@ -112,6 +121,11 @@ ADDA 方向部分大学是有本科生选修课的
   - https://bbs.eetop.cn/thread-953294-1-23.html
   - https://bbs.eetop.cn/thread-954969-2-90.html
   - https://bbs.eetop.cn/thread-943698-8-29.html
+
+### 陈知行 @ University of Macau
+
+- conference
+  - CICC 2024: The Race for the Extra Pico Second without Losing the Decibel: A Partial-Review of Single-Channel Energy-Efficient High-Speed Nyquist ADCs
 
 ### Others
 
