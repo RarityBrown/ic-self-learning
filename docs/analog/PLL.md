@@ -4,7 +4,6 @@ ref: https://zhuanlan.zhihu.com/p/9576555642
 
 ### 课程资源
 
-- isscc short course
 - Razavi @ UCLA
   - ISSCC 2021 Short Course: Introduction to PLLs: Phase Noise, Modeling, and Key Wireless Design Considerations
   - 2020 book: *Design of CMOS Phase-Locked Loops*
@@ -13,7 +12,8 @@ ref: https://zhuanlan.zhihu.com/p/9576555642
   - [BiliBili](https://space.bilibili.com/1629031600)
 - Ali Sheikholeslami @ University of Toronto
   - Understanding Jitter and Phase Noise: A Circuits and Systems Perspective
-
+- Salvatore Levantino @ PoliMi
+  - ISSCC 2024 Tutorial: Calibration Techniques in PLLs
 
 
 #### Phase Noise
