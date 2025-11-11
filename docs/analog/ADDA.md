@@ -65,7 +65,7 @@ ADDA 方向部分大学是有本科生选修课的
   - ISSCC 2017 F6: Design Techniques for Multi-GSs and High Performance Pipelined ADCs
   - AUB Talks Semantic Communications 2024: The hardware behind the algorithms: A look at energy-efficient transievers and accelerators
 - book
-  - 2024 High-Performance and High-Speed Pipelined ADCs
+  - 2024 High-Performance and High-Speed Pipelined ADCs (z-lib + tor)
 
 ### Pieter Harpe (SAR-ADC) @ TU/e
 
@@ -126,6 +126,17 @@ ADDA 方向部分大学是有本科生选修课的
 
 - conference
   - CICC 2024: The Race for the Extra Pico Second without Losing the Decibel: A Partial-Review of Single-Channel Energy-Efficient High-Speed Nyquist ADCs
+
+### Paid
+
+- eeeknow.com 移知
+  - 高速异步 SAR ADC 设计实战 ⭐
+  - 30 天学会 Sigma-Delta(Σ-Δ) ADC 设计
+  - Current Steering DAC 的 Matlab 建模与电路设计
+- icdesign.com
+  - 比较器
+  - SAR ADC
+  - Current Steering DAC
 
 ### Others
 
