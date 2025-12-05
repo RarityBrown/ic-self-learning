@@ -30,6 +30,7 @@ graph LR
 [Keeping Things Quiet: A New Methodology for Dynamic Comparator Noise Analysis, Art Schaldenbrand, 2016](https://www.cadence.com/content/dam/cadence-www/global/en_US/videos/tools/custom-_ic_analog_rf_design/NoiseAnalyisposting201612Chalk%20Talk.pdf)
 
 [TCAS-I 2008: Noise Analysis of Regenerative Comparators for Reconfigurable ADC Architectures](https://ieeexplore.ieee.org/document/4446769)
+[TCAS-I 2009: Simulation and Analysis of Random Decision Errors in Clocked Comparators]
 
 #### StrongARM
 
@@ -78,6 +79,7 @@ ADDA 方向部分大学是有本科生选修课的
     - 2019 OJSSCS Paper: [Low-Power SAR ADCs: Basic Techniques and Trends](https://ieeexplore.ieee.org/document/9908164)
   - 2022 ISSCC SC3: High Precision and Low Power ADCs
   - 2024 CICC: [Energy Efficient ADC Design Techniques](https://ieeexplore.ieee.org/document/10529035)
+  - 2025 ASSCC: [Circuits for Data Conversion](https://www.youtube.com/watch?v=dDKxcVIHDjg&list=PLvYonHCKSWainhipdNmCATbT_zvK1rlnB&index=2)
  
 ### Marcel J.M. Pelgrom @ NXP → Retired
 
@@ -115,12 +117,15 @@ ADDA 方向部分大学是有本科生选修课的
 - MT series ADI
   - MT-001 to MT-031
 
-### 孙楠 & 李福乐 @ THU
+### 孙楠, 李福乐, 揭路 @ THU
 
 - courseware / slides
   - https://bbs.eetop.cn/thread-953294-1-23.html
   - https://bbs.eetop.cn/thread-954969-2-90.html
   - https://bbs.eetop.cn/thread-943698-8-29.html
+- conference
+  - ASSCC 2025 T1: Noise-Shaping SAR ADC: Design, Development, and Deployment
+
 
 ### 陈知行 @ University of Macau
 
