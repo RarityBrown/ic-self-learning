@@ -7,6 +7,7 @@
 - 李志毅 @ NTU
   - [BiliBili](https://space.bilibili.com/1629031600)
 - Samuel Palermo @ Texas A&M University
+  - 2025 hoomanreyhani: High-Performance SERDES Design
   - 2025 [ECEN720](https://people.engr.tamu.edu/spalermo/ecen720.html): High-Speed Links Circuits and Systems
   - 2025 [ECEN689](https://people.engr.tamu.edu/spalermo/ecen689_oi.html): Optical Interconnects Circuits and Systems
   - 2018 ISSCC [T10](https://resourcecenter.sscs.ieee.org/education/short-courses/sscstut201827) - ADC-Based Serial Links Design and Analysis
