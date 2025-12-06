@@ -1,16 +1,8 @@
 # ADDA
 
-## Prerequisite
+## Modules
 
 ### Switch-Capacitor
-
-### Introduction
-
-- A Brief History of Data Conversion: A Tale of Nozzles, Relays, Tubes, Transistors, and CMOS
-- FUNDAMENTALS OF SAMPLED DATA SYSTEMS, ADI
-- Pieter Harpe @ TU/e
-  - ISSCC 2016 [T05](https://resourcecenter.sscs.ieee.org/education/short-courses/sscstut20160090) - Basics of SAR ADCs Circuits & Architectures
-
 
 ```mermaid
 graph LR
@@ -40,15 +32,16 @@ graph LR
 
 ### Bootstrap
 
-
-
-
-### ΣΔ Modulation
-
-
-## 学习资源
+## 通用学习资源
 
 ADDA 方向部分大学是有本科生选修课的
+
+### Introduction
+
+- A Brief History of Data Conversion: A Tale of Nozzles, Relays, Tubes, Transistors, and CMOS
+- FUNDAMENTALS OF SAMPLED DATA SYSTEMS, ADI
+- Pieter Harpe @ TU/e
+  - ISSCC 2016 [T05](https://resourcecenter.sscs.ieee.org/education/short-courses/sscstut20160090) - Basics of SAR ADCs Circuits & Architectures
 
 ### Boris Murmann @ Stanford → UH Mānoa
 
@@ -81,7 +74,7 @@ ADDA 方向部分大学是有本科生选修课的
   - 2024 CICC: [Energy Efficient ADC Design Techniques](https://ieeexplore.ieee.org/document/10529035)
   - 2025 ASSCC: [Circuits for Data Conversion](https://www.youtube.com/watch?v=dDKxcVIHDjg&list=PLvYonHCKSWainhipdNmCATbT_zvK1rlnB&index=2)
  
-### Marcel J.M. Pelgrom @ NXP → Retired
+### Marcel J.M. Pelgrom @ NXP → Retired ⭐
 
 - book
   - 2022 Springer: Analog-to Digital Conversion, Fourth Edition ⭐⭐
@@ -91,6 +84,8 @@ ADDA 方向部分大学是有本科生选修课的
 
 - book
   - 2025 Cambridge: Analysis and Design of Data Converters ⭐⭐
+- journal
+  - 2013 JSSC: Design considerations for interleaved ADCs
 - courseware (not recommended)
   - 2012 EE215D: https://www.seas.ucla.edu/brweb/teaching/215D_S2012/
 
@@ -110,6 +105,30 @@ ADDA 方向部分大学是有本科生选修课的
   - CICC 2018 T: High Speed Pipelined ADCs: Fundamentals and Variants
   - ISSCC 2021 T05: Calibration Techniques in ADCs
 
+### 陳碩偉 Mike Shuo-Wei Chen @ USC
+
+- 一句话介绍: 现代异步 SAR-ADC (比较器 Valid 信号作为自驱动时钟) 的提出者; ISSCC, JSSC 2006
+- conference
+  - CICC 2018 T: Evolutions of SAR ADC: From high resolution to high speed regime
+- paid
+  - hoomanreyhani 2021: Advanced Data Converters
+
+### Michael P. Flynn @ UMich 
+
+- conference
+  - CICC 2015: ADC Trends and Impact on SAR ADC Architecture and Analysis
+  - ASSCC 2017 T1: ADC hybrids and ADC morphing
+  - ISSCC 2018 edu: Evolutional of the SAR ADC
+
+### Aaron Buchwald @ Entropic → Inphi → Aeonsemi
+
+- conference
+  - ISSCC 2010 T3: Specifying and Testing ADCs
+  - CICC 2015: Practical considerations for application specific time interleaved ADCs
+  - VLSI 2016 SC3: ADCs for PAM-X / QAM-X Backplane and Optical Data Links
+  - CICC 2017 S2-1: A Supposedly Clever Thing I’ll Never Do Again
+  - CICC 2018 T2: Time Interleaved ADCs Requirements vs. Application
+
 ### Walt Kester @ ADI
 
 - book
@@ -117,7 +136,7 @@ ADDA 方向部分大学是有本科生选修课的
 - MT series ADI
   - MT-001 to MT-031
 
-### 孙楠, 李福乐, 揭路 @ THU
+### 孙楠, 李福乐, 揭路 @ THU ⭐
 
 - courseware / slides
   - https://bbs.eetop.cn/thread-953294-1-23.html
@@ -126,11 +145,12 @@ ADDA 方向部分大学是有本科生选修课的
 - conference
   - ASSCC 2025 T1: Noise-Shaping SAR ADC: Design, Development, and Deployment
 
-
 ### 陈知行 @ University of Macau
 
 - conference
   - CICC 2024: The Race for the Extra Pico Second without Losing the Decibel: A Partial-Review of Single-Channel Energy-Efficient High-Speed Nyquist ADCs
+- paid
+  - hoomanreyhani 2024: Extreme SAR ADCs
 
 ### Paid
 
@@ -170,22 +190,22 @@ https://www.mathworks.com/help/msblks/gs/DesignAndEvaluateSARADC.html
     - [saradc.html](https://www.mathworks.com/help/msblks/ref/)
    
 
-### Nyquist ADC
+## Nyquist ADC (高速)
 
-#### Flash ADC
+### Flash ADC
 
-#### SAR ADC
+### SAR ADC
 
 | Title                                                        | Author                 | Year | IEEE/Google Scholar |
 | ------------------------------------------------------------ | ---------------------- | ---- | ------------------- |
 | [A 10-bit 50-MS/s SAR ADC With a Monotonic Capacitor Switching Procedure](https://ieeexplore.ieee.org/document/5437496) | Chun-Cheng (Jason) Liu | 2010 | 1000/1500           |
 
 
-#### Pipeline ADC
+### Pipeline ADC
 
-##### Amp
+#### Amp
 
-###### Ring Amp by [Benjamin Hershberg](https://ieeexplore.ieee.org/author/37399879200)
+##### Ring Amp by [Benjamin Hershberg](https://ieeexplore.ieee.org/author/37399879200)
 
 - Benjamin Hershberg @ Intel
   - CICC 2020: Ringamp - The Scalable Amplifier We’ve All Been Waiting For?
@@ -194,18 +214,13 @@ https://www.mathworks.com/help/msblks/gs/DesignAndEvaluateSARADC.html
     - (the very first) paper: [Ring Amplifiers for Switched Capacitor Circuits, 2012, JSSC](https://ieeexplore.ieee.org/document/6373760)
   - Personal website: https://www.benjamin.hershberg.com/
 
+### Clocking
 
+The Speed–Power Trade-Off in the Design of CMOS True-Single-Phase-Clock Divider
 
-### 参考
+## Oversampling ADC (高精度)
 
-- https://www.zhihu.com/question/429625678
-- https://www.zhihu.com/question/553117936 ⭐
-- https://www.zhihu.com/question/502632221
-- https://www.zhihu.com/question/478487601
-- https://www.zhihu.com/question/590222455
-- https://www.zhihu.com/question/433785533
-
-
+### ΣΔ Modulation
 
 
 ## Sensor Interface & Biomedical IC
@@ -240,4 +255,15 @@ https://www.mathworks.com/help/msblks/gs/DesignAndEvaluateSARADC.html
 [Chopping Amp in Cadence Virtuoso](https://www.youtube.com/watch?v=gF8sOlK7TM8)
 
 
+## 参考
 
+- https://www.zhihu.com/question/429625678
+- https://www.zhihu.com/question/553117936 ⭐
+- https://www.zhihu.com/question/502632221
+- https://www.zhihu.com/question/478487601
+- https://www.zhihu.com/question/590222455
+- https://www.zhihu.com/question/433785533
+
+资料收集原则：尽量只收集 2010 年及以后的资料，理由：
+
+1. 再经典的资料也会过时的
