@@ -14,7 +14,8 @@ ref: https://zhuanlan.zhihu.com/p/9576555642
   - Understanding Jitter and Phase Noise: A Circuits and Systems Perspective
 - Salvatore Levantino @ PoliMi
   - ISSCC 2024 Tutorial: Calibration Techniques in PLLs
-
+- Woogeun Rhee @ THU
+  - hoomanreyhani 2024: Phase-Locked Loops
 
 #### Phase Noise
 
