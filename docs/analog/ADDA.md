@@ -2,7 +2,21 @@
 
 ## Modules
 
-### Switch-Capacitor
+### Bootstrap
+
+todo
+
+### Switch-Capacitor & Comparator
+
+Move to [Mixed Signal](mixedsignal.md)
+
+## 通用学习资源
+
+ADDA 方向部分大学是有本科生选修课的
+
+后文中 `⚡` 代表高速 (Nyquist) ADDA, `🎯` 代表高精度 (Oversampling) ADDA
+
+### Introduction
 
 ```mermaid
 graph LR
@@ -16,28 +30,6 @@ graph LR
   FoM --> CT["2024 T7: Fundamentals of **Continuous-Time** ADCs"]
 ```
 
-
-### Comparator
-
-[Keeping Things Quiet: A New Methodology for Dynamic Comparator Noise Analysis, Art Schaldenbrand, 2016](https://www.cadence.com/content/dam/cadence-www/global/en_US/videos/tools/custom-_ic_analog_rf_design/NoiseAnalyisposting201612Chalk%20Talk.pdf)
-
-[TCAS-I 2008: Noise Analysis of Regenerative Comparators for Reconfigurable ADC Architectures](https://ieeexplore.ieee.org/document/4446769)
-[TCAS-I 2009: Simulation and Analysis of Random Decision Errors in Clocked Comparators]
-
-#### StrongARM
-
-- 知乎
-  - [再世孟子](https://zhuanlan.zhihu.com/p/598924151)
-  - [王小桃](https://zhuanlan.zhihu.com/p/16672774067)
-
-### Bootstrap
-
-## 通用学习资源
-
-ADDA 方向部分大学是有本科生选修课的
-
-### Introduction
-
 - A Brief History of Data Conversion: A Tale of Nozzles, Relays, Tubes, Transistors, and CMOS
 - FUNDAMENTALS OF SAMPLED DATA SYSTEMS, ADI
 - Pieter Harpe @ TU/e
@@ -45,13 +37,15 @@ ADDA 方向部分大学是有本科生选修课的
 
 ### Boris Murmann @ Stanford → UH Mānoa
 
+- 一句话介绍: ADC FoM 表格的经典 maintainer
 - courseware
   - Stanford EE315A, EE315B
-- video
-  - 2022 ISSCC Short Course: Introduction to ADCs/DACs: Metrics, Topologies, Trade Space, and Applications ⭐
+- conference
+  - 2013 CICC T: A/D Converter Circuit and Architecture Design for High-Speed Data Communication
+  - 2022 ISSCC SC: Introduction to ADCs/DACs: Metrics, Topologies, Trade Space, and Applications ⭐
 - https://github.com/bmurmann/ADC-survey
 
-### Manar El-Chammas @ TI
+### Manar El-Chammas ⚡ @ TI
 
 - conference
   - ICECS 2011 T: Time-Interleaved ADCs Theory and Design
@@ -61,7 +55,7 @@ ADDA 方向部分大学是有本科生选修课的
 - book
   - 2024 High-Performance and High-Speed Pipelined ADCs (z-lib + tor)
 
-### Pieter Harpe (SAR-ADC) @ TU/e
+### Pieter Harpe @ TU/e
 
 - conference
   - 2016 ISSCC [T05](https://resourcecenter.sscs.ieee.org/education/short-courses/sscstut20160090) - Basics of SAR ADCs Circuits & Architectures ⭐⭐
@@ -76,6 +70,7 @@ ADDA 方向部分大学是有本科生选修课的
  
 ### Marcel J.M. Pelgrom @ NXP → Retired ⭐
 
+- 一句话介绍: ADC 领域的真正专家
 - book
   - 2022 Springer: Analog-to Digital Conversion, Fourth Edition ⭐⭐
   - 2023 Springer: Multi-Gigahertz Nyquist Analog-to-Digital Converters
@@ -97,7 +92,7 @@ ADDA 方向部分大学是有本科生选修课的
   - mwscas 2012: Recent Advances in Multistep Nyquist ADC’s
   - ISSCC 2023 T3: Fundamentals of Data Converters
 
-### Ahmed M. A. Ali @ ADI → Apple (High Speed)
+### Ahmed M. A. Ali ⚡ @ ADI → Apple (High Speed)
     
 - book
   - 2016 IET: High Speed Data Converters 《高速数据转换器设计》
@@ -120,7 +115,7 @@ ADDA 方向部分大学是有本科生选修课的
   - ASSCC 2017 T1: ADC hybrids and ADC morphing
   - ISSCC 2018 edu: Evolutional of the SAR ADC
 
-### Aaron Buchwald @ Entropic → Inphi → Aeonsemi
+### Aaron Buchwald ⚡ @ Entropic → Inphi → Aeonsemi
 
 - conference
   - ISSCC 2010 T3: Specifying and Testing ADCs
@@ -128,6 +123,22 @@ ADDA 方向部分大学是有本科生选修课的
   - VLSI 2016 SC3: ADCs for PAM-X / QAM-X Backplane and Optical Data Links
   - CICC 2017 S2-1: A Supposedly Clever Thing I’ll Never Do Again
   - CICC 2018 T2: Time Interleaved ADCs Requirements vs. Application
+- journal
+  - 2016: High-speed time interleaved ADCs
+
+### Keysight ⚡
+
+John P. Keane
+
+- conference
+  - ISSCC 2020 T5: Fundamentals of Time-Interleaved ADCs ⭐
+
+Kenneth C. Dyer
+
+- conference
+  - 2016 ISSCC F2: Calibration and Dynamic Matching in Data Converters
+- journal
+  - 2018 SSC-M: Calibration and Dynamic Matching in Data Converters: Part 1, Part 2
 
 ### Walt Kester @ ADI
 
@@ -145,7 +156,7 @@ ADDA 方向部分大学是有本科生选修课的
 - conference
   - ASSCC 2025 T1: Noise-Shaping SAR ADC: Design, Development, and Deployment
 
-### 陈知行 @ University of Macau
+### 陈知行⚡ @ University of Macau
 
 - conference
   - CICC 2024: The Race for the Extra Pico Second without Losing the Decibel: A Partial-Review of Single-Channel Energy-Efficient High-Speed Nyquist ADCs
@@ -174,6 +185,10 @@ ADDA 方向部分大学是有本科生选修课的
 - Allen
   - 第二版
 
+### Cadence
+
+- ADC Verification Rapid Adoption Kit [eetop download](https://bbs.eetop.cn/thread-964432-1-1.html)
+- Analog IP Verification Seminar, SAR ADC design and verification [eetop download](https://bbs.eetop.cn/thread-969302-1-1.html) [link2](https://pan.baidu.com/s/1TNBDKtl22S0xxORziXMdsg?pwd=sjxj)
 
 ### MATLAB
 
@@ -190,7 +205,7 @@ https://www.mathworks.com/help/msblks/gs/DesignAndEvaluateSARADC.html
     - [saradc.html](https://www.mathworks.com/help/msblks/ref/)
    
 
-## Nyquist ADC (高速)
+## Nyquist ADC (⚡高速)
 
 ### Flash ADC
 
@@ -218,7 +233,7 @@ https://www.mathworks.com/help/msblks/gs/DesignAndEvaluateSARADC.html
 
 The Speed–Power Trade-Off in the Design of CMOS True-Single-Phase-Clock Divider
 
-## Oversampling ADC (高精度)
+## Oversampling ADC (🎯高精度)
 
 ### ΣΔ Modulation
 
