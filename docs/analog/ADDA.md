@@ -45,7 +45,7 @@ graph LR
   - 2022 ISSCC SC: Introduction to ADCs/DACs: Metrics, Topologies, Trade Space, and Applications ⭐
 - https://github.com/bmurmann/ADC-survey
 
-### Manar El-Chammas ⚡ @ TI
+### Manar El-Chammas ⚡ @ TI → Omni Design
 
 - conference
   - ICECS 2011 T: Time-Interleaved ADCs Theory and Design
