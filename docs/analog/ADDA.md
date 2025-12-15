@@ -14,7 +14,7 @@ Move to [Mixed Signal](mixedsignal.md)
 
 ADDA 方向部分大学是有本科生选修课的
 
-后文中 `⚡` 代表高速 (Nyquist) ADDA, `🎯` 代表高精度 (Oversampling) ADDA
+后文中 `⚡` 代表高速 (Nyquist) ADDA, `🎯` 代表高精度 (Oversampling) ADDA, `⭐` 代表精选/推荐/必读资源
 
 ### Introduction
 
@@ -147,7 +147,7 @@ Kenneth C. Dyer
 - MT series ADI
   - MT-001 to MT-031
 
-### 孙楠, 李福乐, 揭路 @ THU ⭐
+### 孙楠, 李福乐, 揭路, 唐希源 @ THU, PKU ⭐
 
 - courseware / slides
   - https://bbs.eetop.cn/thread-953294-1-23.html
@@ -155,6 +155,8 @@ Kenneth C. Dyer
   - https://bbs.eetop.cn/thread-943698-8-29.html
 - conference
   - ASSCC 2025 T1: Noise-Shaping SAR ADC: Design, Development, and Deployment
+- journal
+  - [Low-Power SAR ADC Design: Overview and Survey of State-of-the-Art Techniques](https://ieeexplore.ieee.org/document/9761973)
 
 ### 陈知行⚡ @ University of Macau
 
@@ -180,8 +182,6 @@ Kenneth C. Dyer
   - UCB EE 247 (old), EE 240C (new)
 - 朱樟明 @ XIDIAN
   - 《低功耗 CMOS 逐次逼近型模数转换器》
-- 唐希源 @ PKU
-  - [Low-Power SAR ADC Design: Overview and Survey of State-of-the-Art Techniques](https://ieeexplore.ieee.org/document/9761973)
 - Allen
   - 第二版
 
