@@ -4,9 +4,14 @@ used in
 
 > ADC, DAC, TDC, DTC, VTC, TVC; DPLL, DLL, CDR; SerDes; DPA...
 
-### Switch-Capacitor
+### Switched-Capacitor
 
-todo
+
+- Ken Kundert
+  - Simulating Switched-Capacitor Filters with SpectreRF
+- Boris Murmann
+  - ISSCC 2011 T8: Noise Analysis in Switched-Capacitor Circuits
+  - SSC-M 2013: Thermal Noise in Track-and-Hold Circuits
 
 ### Comparator
 
