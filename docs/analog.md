@@ -121,7 +121,12 @@ Razavi 的学生
 - book: CMOS + BJT
   - 不同的人对于这本书有不同的评价：“工程师参考手册”“一本书足够几乎全部的模拟设计”“不适合初学者”等等
   - 本书中文版翻译质量[比较一般](https://www.bilibili.com/video/BV1Nr7pzvEtv/)
-
+  - 三级运放的内容在现代模拟和混合信号电路中比较少见了
+- video
+  - ISSCC 2015: [Analog CMOS from 5 Micrometer to 5 Nanometer](https://www.youtube.com/watch?v=z88mC6HlBmA) 
+- journal
+  - Biasing for Zero Distortion
+ 
 ### EE 124 @ SJSU
 
 - video：
