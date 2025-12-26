@@ -68,13 +68,15 @@ graph LR
   - 2024 CICC: [Energy Efficient ADC Design Techniques](https://ieeexplore.ieee.org/document/10529035)
   - 2025 ASSCC: [Circuits for Data Conversion](https://www.youtube.com/watch?v=dDKxcVIHDjg&list=PLvYonHCKSWainhipdNmCATbT_zvK1rlnB&index=2)
  
-### Marcel J.M. Pelgrom @ NXP → Retired ⭐
+### Marcel J.M. Pelgrom @ TU Delft / NXP → Retired ⭐
 
 - 一句话介绍: ADC 领域的真正专家
 - book
   - 2022 Springer: Analog-to Digital Conversion, Fourth Edition ⭐⭐
   - 2023 Springer: Multi-Gigahertz Nyquist Analog-to-Digital Converters
-   
+- conference
+  - 2020 SSCS-EDS South Brazil Distinguished Talk: [ADC Performance Limits - The Fundamentals](https://www.youtube.com/watch?v=doTHd0W9QhA)
+
 ### Behzad Razavi @ UCLA
 
 - book
@@ -187,7 +189,7 @@ Kenneth C. Dyer
 
 ### Cadence
 
-- ADC Verification Rapid Adoption Kit [eetop download](https://bbs.eetop.cn/thread-964432-1-1.html)
+- ADC Verification Rapid Adoption Kit [eetop download](https://bbs.eetop.cn/thread-964432-1-1.html) ⭐
 - Analog IP Verification Seminar, SAR ADC design and verification [eetop download](https://bbs.eetop.cn/thread-969302-1-1.html) [link2](https://pan.baidu.com/s/1TNBDKtl22S0xxORziXMdsg?pwd=sjxj)
 
 ### MATLAB
