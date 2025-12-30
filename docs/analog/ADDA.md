@@ -107,6 +107,7 @@ graph LR
 - 一句话介绍: 现代异步 SAR-ADC (比较器 Valid 信号作为自驱动时钟) 的提出者; ISSCC, JSSC 2006
 - conference
   - CICC 2018 T: Evolutions of SAR ADC: From high resolution to high speed regime
+  - ISSCC 2025 F4: High-Speed DAC Architectures and Techniques Towards High Dynamic Range, Bandwidth and Output Power
 - paid
   - hoomanreyhani 2021: Advanced Data Converters
 
@@ -149,23 +150,31 @@ Kenneth C. Dyer
 - MT series ADI
   - MT-001 to MT-031
 
-### 孙楠, 李福乐, 揭路, 唐希源 @ THU, PKU ⭐
+### 孙楠, 李福乐, 揭路 @ THU ⭐
 
 - courseware / slides
-  - https://bbs.eetop.cn/thread-953294-1-23.html
-  - https://bbs.eetop.cn/thread-954969-2-90.html
-  - https://bbs.eetop.cn/thread-943698-8-29.html
+  - 孙楠 ADC intro @THU: https://bbs.eetop.cn/thread-953294-1-23.html
+  - 孙楠 2014 @UT Austin: https://bbs.eetop.cn/thread-954969-1-90.html
+  - 孙楠 2021 @THU: https://bbs.eetop.cn/thread-943698-1-29.html
+  - 李福乐 SAR 2019 @THU: https://bbs.eetop.cn/thread-959512-1-1.html
 - conference
-  - ASSCC 2025 T1: Noise-Shaping SAR ADC: Design, Development, and Deployment
+  - 揭路 ASSCC 2025 T1: Noise-Shaping SAR ADC: Design, Development, and Deployment
+
+### 唐希源, 沈林晓 @ PKU
+
+- conference
+  - 沈林晓 ISSCC 2025 F4：High-Performance Discrete-Time Amplifiers Utilizing Time-Varying Settling Processes
 - journal
-  - [Low-Power SAR ADC Design: Overview and Survey of State-of-the-Art Techniques](https://ieeexplore.ieee.org/document/9761973)
+  - 唐希源 [Low-Power SAR ADC Design: Overview and Survey of State-of-the-Art Techniques](https://ieeexplore.ieee.org/document/9761973)
 
-### 陈知行⚡ @ University of Macau
+
+### 陈知行, 张明磊⚡ @ University of Macau
 
 - conference
-  - CICC 2024: The Race for the Extra Pico Second without Losing the Decibel: A Partial-Review of Single-Channel Energy-Efficient High-Speed Nyquist ADCs
+  - 陈知行 CICC 2024: The Race for the Extra Pico Second without Losing the Decibel: A Partial-Review of Single-Channel Energy-Efficient High-Speed Nyquist ADCs
+  - 张明磊 ISSCC 2025 F4: Extending ADC Performance Through TDC-Assisted Quantization in Multiple Dimensions
 - paid
-  - hoomanreyhani 2024: Extreme SAR ADCs
+  - 陈知行 hoomanreyhani 2024: Extreme SAR ADCs
 
 ### Paid
 
