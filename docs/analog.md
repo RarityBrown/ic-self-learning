@@ -23,7 +23,7 @@
 
 - book & solution: CMOS only
   - 中文版翻译质量极高（甚至纠正了一些原版的错误），适合初学者（模电基础还是需要的） ⭐⭐⭐⭐⭐
-  - 网上的作业答案有五个版本：Razavi?手写版、潘剑华中文翻译版、chegg?电子版、知乎网友版（不全）、icdesign.com（付费） 版，手写版和电子版作为最广泛流传的版本都存在着不少错误（特别是噪声那一章，而且可能一道题两份答案两种错法） ⭐⭐
+  - 网上的作业答案有五个版本：~~Razavi?~~ Razavi 研究生的手写版、潘剑华中文翻译版、chegg?电子版、知乎网友版（不全）、icdesign.com（付费） 版，手写版和电子版作为最广泛流传的版本都存在着不少错误（特别是噪声那一章，而且可能一道题两份答案两种错法） ⭐⭐
 - courseware
   - 课题组[网站](https://www.seas.ucla.edu/brweb/teaching/)上提供了 courseware、配套作业和考试的题目和解析
 - video
@@ -231,4 +231,4 @@ gantt
 
 ## 后记
 
-如果你不满足于此，可以去看看 [Analog Plus](#./analog/analogplus.md)
+如果你不满足于此，可以去看看 [Analog Plus](./analog/analogplus.md)
