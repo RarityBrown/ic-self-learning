@@ -67,7 +67,10 @@ Move to ADDA
 | Design of Voltage References       | 2013 | Wing-Hung Ki   | Tutorial |
 | Designing Amplifiers for Stability | 2021 | Viola Schäffer | Tutorial |
 
-### 射频
+### T-Coil
+
+- Razavi SSC-M: The Bridged T-Coil
+- Abidi TCAS-I: The T-Coil Circuit Demystified
 
 ## 资料来源
 
