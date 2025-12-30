@@ -6,7 +6,6 @@ used in
 
 ### Switched-Capacitor
 
-
 - Ken Kundert
   - Simulating Switched-Capacitor Filters with SpectreRF
 - Boris Murmann
@@ -28,10 +27,19 @@ used in
   - [宇文青霜 - 知乎1](https://zhuanlan.zhihu.com/p/1973463738737780166) [2](https://zhuanlan.zhihu.com/p/557606071)
 - Current-Steering / CML latch
   - Razavi ADC book comparator chapter
+- Dynamic Bias (Harijot Singh Bindra & Bram Nauta)
+  - ESSCIRC 2017: [A 30fJ/comparison dynamic bias comparator](https://ieeexplore.ieee.org/document/8094528)
+  - JSSC 2018: [A 1.2-V Dynamic Bias Latch-Type Comparator in 65-nm CMOS With 0.4-mV Input Noise](https://ieeexplore.ieee.org/document/8345180)
+  - ISSCC 2022: [A 174μVRMS Input Noise, 1 GS/s Comparator in 22nm FDSOI with a Dynamic-Bias Preamplifier Using Tail Charge Pump and Capacitive Neutralization Across the Latch](https://ieeexplore.ieee.org/document/9731728)
+- Floating Inverter Amplifier FIA (唐希源 & 孙楠)
+  - VLSI 2019: [An Energy-Efficient Comparator with Dynamic Floating Inverter Pre-Amplifier](https://ieeexplore.ieee.org/document/8777942)
+  - JSSC 2020: [An Energy-Efficient Comparator With Dynamic Floating Inverter Amplifier](https://ieeexplore.ieee.org/abstract/document/8947992)
+  - CICC 2023: [A 0.69-Noise-Efficiency-Factor 4 x-Current-Reuse Dynamic Comparator with A Stacking FIA](https://ieeexplore.ieee.org/document/10121319)
 
 - Papers
   - [TCAS-I 2008: Noise Analysis of Regenerative Comparators for Reconfigurable ADC Architectures](https://ieeexplore.ieee.org/document/4446769)
-  - [TCAS-I 2009: Simulation and Analysis of Random Decision Errors in Clocked Comparators](https://ieeexplore.ieee.org/abstract/document/5175291/)
+  - [TCAS-I 2009: Simulation and Analysis of Random Decision Errors in Clocked Comparators](https://ieeexplore.ieee.org/document/5175291/)
+  - [TCAS-I 2009: Analyses of Static and Dynamic Random Offset Voltages in Dynamic Comparators](https://ieeexplore.ieee.org/document/4783032)
   - [TCAS-I 2019: Analysis and Design of Regenerative Comparators for Low Offset and Noise]
 
 - Simulation
