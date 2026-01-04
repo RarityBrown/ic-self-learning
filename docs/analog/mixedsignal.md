@@ -18,7 +18,7 @@ used in
   - [Metastability: Deeply misunderstood](https://ieeexplore.ieee.org/document/10584398) by Chris Mangelsdorf [王小桃翻译](https://zhuanlan.zhihu.com/p/1915074577098323233)
   - Cross-Coupled Pair 的 Razavi SSC-M 通俗易懂，但是缺少进一步拔高的 insight 和计算，此处不放链接
 
-基本比较器类型：
+#### 基本比较器类型
 
 - StrongARM
   - [再世孟子 - 知乎](https://zhuanlan.zhihu.com/p/598924151)
@@ -36,21 +36,25 @@ used in
   - JSSC 2020: [An Energy-Efficient Comparator With Dynamic Floating Inverter Amplifier](https://ieeexplore.ieee.org/abstract/document/8947992)
   - CICC 2023: [A 0.69-Noise-Efficiency-Factor 4 x-Current-Reuse Dynamic Comparator with A Stacking FIA](https://ieeexplore.ieee.org/document/10121319)
 
+#### 分析与仿真
+
 - Papers
-  - [TCAS-I 2008: Noise Analysis of Regenerative Comparators for Reconfigurable ADC Architectures](https://ieeexplore.ieee.org/document/4446769)
-  - [TCAS-I 2009: Simulation and Analysis of Random Decision Errors in Clocked Comparators](https://ieeexplore.ieee.org/document/5175291/)
-  - [TCAS-I 2009: Analyses of Static and Dynamic Random Offset Voltages in Dynamic Comparators](https://ieeexplore.ieee.org/document/4783032)
-  - [TCAS-I 2019: Analysis and Design of Regenerative Comparators for Low Offset and Noise]
+  - noise, offset focused - General ADC
+    - [TCAS-I 2008: Noise Analysis of Regenerative Comparators for Reconfigurable ADC Architectures](https://ieeexplore.ieee.org/document/4446769)
+    - [TCAS-I 2009: Simulation and Analysis of Random Decision Errors in Clocked Comparators](https://ieeexplore.ieee.org/document/5175291/)
+    - [TCAS-I 2009: Analyses of Static and Dynamic Random Offset Voltages in Dynamic Comparators](https://ieeexplore.ieee.org/document/4783032)
+    - [TCAS-I 2019: Analysis and Design of Regenerative Comparators for Low Offset and Noise]
+  - SerDes focused
+    - [VLSI 2008: Characterizing Sampling Aperture of Clocked Comparators]
 
-- Simulation
+- Simulation: noise, offset, metastability
   - tran 时域方法
-    - Razavi ADC book 6.4 和 7.7 (这和之前 Razavi 发表的 SSC-M 中的内容基本是一模一样的，[王小桃翻译](https://zhuanlan.zhihu.com/p/16347220323))
+    - ⭐Razavi ADC book 6.4 和 7.7 (这和之前 Razavi 发表的 SSC-M 中的内容基本是一模一样的，[王小桃翻译](https://zhuanlan.zhihu.com/p/16347220323))
   - PSS 频域方法
-    - Cadence doc
-      - [Keeping Things Quiet: A New Methodology for Dynamic Comparator Noise Analysis, Art Schaldenbrand, 2016](https://www.cadence.com/content/dam/cadence-www/global/en_US/videos/tools/custom-_ic_analog_rf_design/NoiseAnalyisposting201612Chalk%20Talk.pdf)  [video](https://www.youtube.com/watch?v=Syg2mK__Nj0)
-      - [ADC Verification Rapid Adoption Kit, Module 3: Dynamic Comparator Characterization](https://bbs.eetop.cn/thread-964432-1-1.html)
+    - Cadence 
+      - doc: [Keeping Things Quiet: A New Methodology for Dynamic Comparator Noise Analysis, Art Schaldenbrand, 2016](https://www.cadence.com/content/dam/cadence-www/global/en_US/videos/tools/custom-_ic_analog_rf_design/NoiseAnalyisposting201612Chalk%20Talk.pdf)  [video](https://www.youtube.com/watch?v=Syg2mK__Nj0)
+      - doc: ⭐[ADC Verification Rapid Adoption Kit, Module 3: Dynamic Comparator Characterization](https://bbs.eetop.cn/thread-964432-1-1.html)
+      - video: ⭐[Analog IP Verification Seminar, SAR ADC design and verification - 3 Simulations for SAR ADC, Effective Number of Bits (ENOB)](https://bbs.eetop.cn/thread-969302-1-1.html)
   - [通用介绍 by 宇文青霜 - 知乎 ](https://zhuanlan.zhihu.com/p/279111199)
-
-
  
 ### Faster Logic (TSPC & CML)
