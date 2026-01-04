@@ -20,24 +20,20 @@ ADDA 方向部分大学是有本科生选修课的
 
 ```mermaid
 graph LR
-
-  SAR["2016 T5: Basics of SAR ADCs: Circuits & Architectures"] --> FoM
-  %% Fundamentals["2023 T3: Fundamentals of Data Converters"] --> FoM
-  FoM["2022 SC3: Introduction to ADCs/DACs: Metrics, Topologies, Trade Space, and Applications"]
-  
-  FoM --> NS["2019 T5: **Noise-Shaping** in Data Converters"]
-  FoM --> TI["2020 T5: Fundamentals of **Time-Interleaved** ADCs"]
-  FoM --> CT["2024 T7: Fundamentals of **Continuous-Time** ADCs"]
+  SAR["ISSCC 2016 T5⭐: Basics of SAR ADCs: Circuits & Architectures"] --> FoM
+  Fundamentals["ISSCC 2023 T3⭐: Fundamentals of Data Converters"] --> FoM
+  FoM["ISSCC 2022 SC3: Introduction to ADCs/DACs: Metrics, Topologies, Trade Space, and Applications"] --> Cdns["Cadence⭐, Analog IP Verification Seminar, SAR ADC design and verification"]
+  Cdns --> TI["ISSCC 2020 T5: Fundamentals of **Time-Interleaved** ADCs"] --> SerDes["ISSCC 2018 T10: ADC-Based Serial Links, Design and Analysis"]
+  Cdns --> NS["ISSCC 2019 T5: **Noise-Shaping** in Data Converters"]
+  Cdns --> CT["ISSCC 2024 T7: Fundamentals of **Continuous-Time** ADCs"]
 ```
 
 - A Brief History of Data Conversion: A Tale of Nozzles, Relays, Tubes, Transistors, and CMOS
 - FUNDAMENTALS OF SAMPLED DATA SYSTEMS, ADI
-- Pieter Harpe @ TU/e
-  - ISSCC 2016 [T05](https://resourcecenter.sscs.ieee.org/education/short-courses/sscstut20160090) - Basics of SAR ADCs Circuits & Architectures
 
 ### Boris Murmann @ Stanford → UH Mānoa
 
-- 一句话介绍: ADC FoM 表格的经典 maintainer
+- 一句话介绍: ADC FoM 经典表格的 maintainer
 - courseware
   - Stanford EE315A, EE315B
 - conference
@@ -118,6 +114,12 @@ graph LR
   - ASSCC 2017 T1: ADC hybrids and ADC morphing
   - ISSCC 2018 edu: Evolutional of the SAR ADC
 
+### Ewout Martens @ imec
+
+- conference
+  - ESSCIRC 2019 T: Advanced Techniques for ADCs for 5G Massive MIMO Presented
+  - CICC 2023: Calibration Techniques for Optimizing Performance of High-Speed ADCs
+
 ### Aaron Buchwald ⚡ @ Entropic → Inphi → Aeonsemi
 
 - conference
@@ -176,6 +178,11 @@ Kenneth C. Dyer
 - paid
   - 陈知行 hoomanreyhani 2024: Extreme SAR ADCs
 
+### Cadence
+
+- ADC Verification Rapid Adoption Kit ⭐ [eetop download](https://bbs.eetop.cn/thread-964432-1-1.html) ⭐
+- Analog IP Verification Seminar, SAR ADC design and verification ⭐ [eetop download](https://bbs.eetop.cn/thread-969302-1-1.html) [link2](https://pan.baidu.com/s/1TNBDKtl22S0xxORziXMdsg?pwd=sjxj)
+
 ### Paid
 
 - eeeknow.com 移知
@@ -187,19 +194,22 @@ Kenneth C. Dyer
   - SAR ADC
   - Current Steering DAC
 
-### Others
+### Courseware
 
 - UC Berkeley
-  - UCB EE 247 (old), EE 240C (new)
+  - EE 247 (old), EE 240C (new)
+  - EECS 247 Analog-Digital Interface Integrated Circuits by Haideh Khorramabadi
+- Vishal Saxena
+  - ECE 615 Mixed Signal IC Design Delta Sigma - Fall 2013 on YouTube
+  - ECE 4/517 MIXED SIGNAL - Spring 2017 with Slides
+
+### Others
+
+
 - 朱樟明 @ XIDIAN
   - 《低功耗 CMOS 逐次逼近型模数转换器》
 - Allen
   - 第二版
-
-### Cadence
-
-- ADC Verification Rapid Adoption Kit [eetop download](https://bbs.eetop.cn/thread-964432-1-1.html) ⭐
-- Analog IP Verification Seminar, SAR ADC design and verification [eetop download](https://bbs.eetop.cn/thread-969302-1-1.html) [link2](https://pan.baidu.com/s/1TNBDKtl22S0xxORziXMdsg?pwd=sjxj)
 
 ### MATLAB
 
