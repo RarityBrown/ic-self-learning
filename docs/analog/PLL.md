@@ -16,8 +16,11 @@ ref: https://zhuanlan.zhihu.com/p/9576555642
   - ISSCC 2016 T1: Understanding Phase Noise in LC VCOs
   - ESSCIRC 2021 Keynote 1: [Digital PLLs: the Modern Timing Reference for Radar and Communication Systems](https://underline.io/lecture/32801-digital-plls-the-modern-timing-reference-for-radar-and-communication-systems)
   - ISSCC 2024 Tutorial: Calibration Techniques in PLLs
-- Woogeun Rhee @ THU
+- 李宇根 Woogeun Rhee @ THU
   - hoomanreyhani 2024: Phase-Locked Loops
+  - books
+    - *Phase-Locked Loops: System Perspectives and Circuit Design Aspects*
+    - *Phase-Locked Frequency Generation and Clocking: Architectures and circuits for modern wireless and wireline systems*
 
 #### Phase Noise
 
