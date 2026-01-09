@@ -1,4 +1,4 @@
-## General Mixed Signal Sub-Blockes
+## General Mixed Signal Concepts
 
 used in 
 
@@ -14,7 +14,7 @@ used in
 
 ### Comparator
 
-- Metastability & Cross-Coupled Pair
+- Metastability & Cross-Coupled Pair & Latch
   - [Metastability: Deeply misunderstood](https://ieeexplore.ieee.org/document/10584398) by Chris Mangelsdorf [王小桃翻译](https://zhuanlan.zhihu.com/p/1915074577098323233)
   - Cross-Coupled Pair 的 Razavi SSC-M 通俗易懂，但是缺少进一步拔高的 insight 和计算，此处不放链接
 
@@ -56,5 +56,14 @@ used in
       - doc: ⭐[ADC Verification Rapid Adoption Kit, Module 3: Dynamic Comparator Characterization](https://bbs.eetop.cn/thread-964432-1-1.html)
       - video: ⭐[Analog IP Verification Seminar, SAR ADC design and verification - 3 Simulations for SAR ADC, Effective Number of Bits (ENOB)](https://bbs.eetop.cn/thread-969302-1-1.html)
   - [通用介绍 by 宇文青霜 - 知乎 ](https://zhuanlan.zhihu.com/p/279111199)
- 
+
+#### Schmitt Trigger
+
+https://zhuanlan.zhihu.com/p/1989558080313254329
+
+
 ### Faster Logic (TSPC & CML)
+
+### Jitter in mixed signal 
+
+
