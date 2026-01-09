@@ -77,5 +77,5 @@ IC 是一个很大的方向，笔者只对其中甚少的方向有些极为粗�
 
 - [muhammadaldacher](https://github.com/muhammadaldacher/muhammadaldacher) ⭐
 - [751K/EIE-Knowledge-Base](https://github.com/751K/EIE-Knowledge-Base)
-- [YiDingg/LatexNotes](https://github.com/YiDingg/LatexNotes)
+- [YiDingg/LatexNotes](https://github.com/YiDingg/LatexNotes)   [YiDingg/YiDingg](https://github.com/YiDingg/YiDingg)   
 
