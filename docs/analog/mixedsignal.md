@@ -56,6 +56,8 @@ used in
       - doc: ⭐[ADC Verification Rapid Adoption Kit, Module 3: Dynamic Comparator Characterization](https://bbs.eetop.cn/thread-964432-1-1.html)
       - video: ⭐[Analog IP Verification Seminar, SAR ADC design and verification - 3 Simulations for SAR ADC, Effective Number of Bits (ENOB)](https://bbs.eetop.cn/thread-969302-1-1.html)
   - [通用介绍 by 宇文青霜 - 知乎 ](https://zhuanlan.zhihu.com/p/279111199)
+  - offset
+
 
 #### Schmitt Trigger
 
@@ -64,6 +66,10 @@ https://zhuanlan.zhihu.com/p/1989558080313254329
 
 ### Faster Logic (TSPC & CML)
 
+### Level Shifter
+
 ### Jitter in mixed signal 
+
+### Oscillator in mixed signal
 
 
