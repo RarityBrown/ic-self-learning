@@ -72,4 +72,6 @@ https://zhuanlan.zhihu.com/p/1989558080313254329
 
 ### Oscillator in mixed signal
 
+### FinFET for mixed signal
 
+CICC 2018 Qualcomm: Analog/Mixed-Signal Design Challenges in 7-nm CMOS and Beyond
