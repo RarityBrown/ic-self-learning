@@ -38,7 +38,9 @@ graph LR
   - Stanford EE315A, EE315B
 - conference
   - 2013 CICC T: A/D Converter Circuit and Architecture Design for High-Speed Data Communication
+  - 2023 ESSCIRC: Digitally Assisted Data Converter Design
   - 2022 ISSCC SC: Introduction to ADCs/DACs: Metrics, Topologies, Trade Space, and Applications ⭐
+  - 2026 ISSCC F6.1: Data Converter Calibration: Motivation, Evolution, and General Aspects
 - https://github.com/bmurmann/ADC-survey
 
 ### Manar El-Chammas ⚡ @ TI → Omni Design
@@ -90,14 +92,6 @@ graph LR
   - mwscas 2012: Recent Advances in Multistep Nyquist ADC’s
   - ISSCC 2023 T3: Fundamentals of Data Converters
 
-### Ahmed M. A. Ali ⚡ @ ADI → Apple (High Speed)
-    
-- book
-  - 2016 IET: High Speed Data Converters 《高速数据转换器设计》
-- conference
-  - CICC 2018 T: High Speed Pipelined ADCs: Fundamentals and Variants
-  - ISSCC 2021 T05: Calibration Techniques in ADCs
-
 ### 陳碩偉 Mike Shuo-Wei Chen @ USC
 
 - 一句话介绍: 现代异步 SAR-ADC (比较器 Valid 信号作为自驱动时钟) 的提出者; ISSCC, JSSC 2006
@@ -145,12 +139,28 @@ Kenneth C. Dyer
 - journal
   - 2018 SSC-M: Calibration and Dynamic Matching in Data Converters: Part 1, Part 2
 
-### Walt Kester @ ADI
+### ADI
+
+#### Walt Kester @ ADI
 
 - book
   - 2005 ADI: Data Conversion Handbook
 - MT series ADI
   - MT-001 to MT-031
+
+#### Ahmed M. A. Ali ⚡ @ ADI → Apple (High Speed)
+    
+- book
+  - 2016 IET: High Speed Data Converters 《高速数据转换器设计》
+- conference
+  - CICC 2018 T: High Speed Pipelined ADCs: Fundamentals and Variants
+  - ISSCC 2021 T05: Calibration Techniques in ADCs
+
+#### Huseyin Dinc ⚡ @ ADI
+
+- conference
+  - CICC 2025 ES2.4: Digital Calibration Techniques for High-Speed Pipelined ADCs
+  - ISSCC 2026 F6.2: Background Calibration of High-Speed Pipelined ADCs: Methods, Limitations and Practical Considerations
 
 ### 孙楠, 李福乐, 揭路 @ THU ⭐
 
@@ -166,6 +176,7 @@ Kenneth C. Dyer
 
 - conference
   - 沈林晓 ISSCC 2025 F4：High-Performance Discrete-Time Amplifiers Utilizing Time-Varying Settling Processes
+  - 唐希源 CICC 2025 ES2.1: Noise-Shaping SAR ADCs: From Fundamentals to Recent Advances
 - journal
   - 唐希源 [Low-Power SAR ADC Design: Overview and Survey of State-of-the-Art Techniques](https://ieeexplore.ieee.org/document/9761973)
 
