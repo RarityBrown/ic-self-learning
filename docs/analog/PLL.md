@@ -13,7 +13,10 @@ ref: https://zhuanlan.zhihu.com/p/9576555642
 - Ali Sheikholeslami @ University of Toronto
   - Understanding Jitter and Phase Noise: A Circuits and Systems Perspective
 - Salvatore Levantino & Carlo Samori @ PoliMi
+  - ATIME ADI 2015: Advanced Digital Phase-Locked Loops
   - ISSCC 2016 T1: Understanding Phase Noise in LC VCOs
+  - 2017: Mostly Digital Phase-Locked Loops
+  - CICC 2018: Digital Phase-Locked Loops
   - ESSCIRC 2021 Keynote 1: [Digital PLLs: the Modern Timing Reference for Radar and Communication Systems](https://underline.io/lecture/32801-digital-plls-the-modern-timing-reference-for-radar-and-communication-systems)
   - ISSCC 2024 Tutorial: Calibration Techniques in PLLs
 - 李宇根 Woogeun Rhee @ THU
