@@ -64,7 +64,10 @@ used in
 https://zhuanlan.zhihu.com/p/1989558080313254329
 
 
-### Faster Logic (TSPC & CML)
+### Faster/Lower Power Logic
+
+- TSPC & CML
+- CPL, DPL
 
 ### Level Shifter
 
