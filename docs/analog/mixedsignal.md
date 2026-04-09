@@ -77,4 +77,12 @@ https://zhuanlan.zhihu.com/p/1989558080313254329
 
 ### FinFET for mixed signal
 
-CICC 2018 Qualcomm: Analog/Mixed-Signal Design Challenges in 7-nm CMOS and Beyond
+- Qualcomm
+  - VLSI 2016: Migrating Analog/Mixed-Signal (AMS) Designs to FinFET
+  - CERN ESE Seminar 2017: Analog/Mixed-Signal Design in FinFET Technologies
+  - International Workshop on Nanodevice Technologies 2017: Migrating Analog/Mixed-Signal (AMS) Designs to FinFET Technology
+  - CICC 2018: Analog/Mixed-Signal Design Challenges in 7-nm CMOS and Beyond
+- ISSCC 2018 F2: FinFETs & FDSOI — A mixed signal circuit designer's perspective
+  - F2.2 Intel: RF & mm-Wave Design in FinFET Technology
+  - F2.5 MediaTek: FinFETs for Analog & Mixed-Signal Designs
+  - F2.6 Xilinx: High Speed Transceivers Using FinFETs
