@@ -127,12 +127,17 @@ graph LR
 
 ### Keysight ⚡
 
-John P. Keane
+#### Ken Poulton
+
+- conference
+  - ISSCC 2015 F1: Interleaved ADCs Through the Ages
+
+#### John P. Keane
 
 - conference
   - ISSCC 2020 T5: Fundamentals of Time-Interleaved ADCs ⭐
 
-Kenneth C. Dyer
+#### Kenneth C. Dyer
 
 - conference
   - 2016 ISSCC F2: Calibration and Dynamic Matching in Data Converters
@@ -185,6 +190,7 @@ Kenneth C. Dyer
 
 - conference
   - 陈知行 CICC 2024: The Race for the Extra Pico Second without Losing the Decibel: A Partial-Review of Single-Channel Energy-Efficient High-Speed Nyquist ADCs
+  - 陈知行 ASSCC 2024: Mechanisms for accelerating ADC speed: Quantization shortcuts
   - 张明磊 ISSCC 2025 F4: Extending ADC Performance Through TDC-Assisted Quantization in Multiple Dimensions
 - paid
   - 陈知行 hoomanreyhani 2024: Extreme SAR ADCs
