@@ -82,6 +82,7 @@ https://zhuanlan.zhihu.com/p/1989558080313254329
   - CERN ESE Seminar 2017: Analog/Mixed-Signal Design in FinFET Technologies
   - International Workshop on Nanodevice Technologies 2017: Migrating Analog/Mixed-Signal (AMS) Designs to FinFET Technology
   - CICC 2018: Analog/Mixed-Signal Design Challenges in 7-nm CMOS and Beyond
+- ESSCIRC 2018 TSMC: Design onto FinFET technology
 - ISSCC 2018 F2: FinFETs & FDSOI — A mixed signal circuit designer's perspective
   - F2.2 Intel: RF & mm-Wave Design in FinFET Technology
   - F2.5 MediaTek: FinFETs for Analog & Mixed-Signal Designs
