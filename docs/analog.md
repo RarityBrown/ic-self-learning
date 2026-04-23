@@ -1,5 +1,3 @@
-<img width="2538" height="175" alt="image" src="https://github.com/user-attachments/assets/c6b810fc-5890-4eba-a814-bd09891866ce" /># Analog IC
-
 ## Undergraduate-level device & Graduate-level, design perspective device and manufacture
 
 - [Analog circuits in ultra-deep-submicron CMOS](https://ieeexplore.ieee.org/document/1374997)
