@@ -39,7 +39,7 @@ graph LR
 - conference
   - 2013 CICC T: A/D Converter Circuit and Architecture Design for High-Speed Data Communication
   - 2023 ESSCIRC: Digitally Assisted Data Converter Design
-  - 2022 ISSCC SC: Introduction to ADCs/DACs: Metrics, Topologies, Trade Space, and Applications ⭐
+  - 2022 ISSCC SC1: Introduction to ADCs/DACs: Metrics, Topologies, Trade Space, and Applications ⭐
   - 2026 ISSCC F6.1: Data Converter Calibration: Motivation, Evolution, and General Aspects
 - https://github.com/bmurmann/ADC-survey
 
@@ -73,6 +73,7 @@ graph LR
   - 2022 Springer: Analog-to Digital Conversion, Fourth Edition ⭐⭐
   - 2023 Springer: Multi-Gigahertz Nyquist Analog-to-Digital Converters
 - conference
+  - ISSCC 2017 F: Pushing the Boundaries of Performance - A Technology Perspective
   - 2020 SSCS-EDS South Brazil Distinguished Talk: [ADC Performance Limits - The Fundamentals](https://www.youtube.com/watch?v=doTHd0W9QhA)
 
 ### Behzad Razavi @ UCLA
@@ -106,6 +107,7 @@ graph LR
 - conference
   - CICC 2015: ADC Trends and Impact on SAR ADC Architecture and Analysis
   - ASSCC 2017 T1: ADC hybrids and ADC morphing
+  - ISSCC 2017 F: Best of Both Worlds Hybrid Data Converters
   - ISSCC 2018 edu: Evolutional of the SAR ADC
 
 ### Ewout Martens @ imec
@@ -113,6 +115,11 @@ graph LR
 - conference
   - ESSCIRC 2019 T: Advanced Techniques for ADCs for 5G Massive MIMO Presented
   - CICC 2023: Calibration Techniques for Optimizing Performance of High-Speed ADCs
+
+### Sam Palermo @ Texas A&M University
+
+- conference
+  - ISSCC 2026 F: Calibration Techniques for High‑Speed Time‑Interleaved Time‑Domain ADCs
 
 ### Aaron Buchwald ⚡ @ Entropic → Inphi → Aeonsemi
 
@@ -167,6 +174,23 @@ graph LR
   - CICC 2025 ES2.4: Digital Calibration Techniques for High-Speed Pipelined ADCs
   - ISSCC 2026 F6.2: Background Calibration of High-Speed Pipelined ADCs: Methods, Limitations and Practical Considerations
 
+#### Ron Kapusta ⚡ @ ADI
+
+- conference
+  - ISSCC 2017 F: Advanced SAR ADCs for high-throughput applications
+
+#### Jesper Steensgaard 🎯 @ ADI
+
+- conference
+  - ISSCC 2021 F2.8: Intrinsically-Linear Data Converters
+
+### MediaTek
+
+#### Gabriele Manganaro
+
+- conference
+  - ISSCC 2022 SC2: Ultra-High-Data-Rate ADCs and DACs: Architectures and Implementations
+
 ### 孙楠, 李福乐, 揭路 @ THU ⭐
 
 - courseware / slides
@@ -175,6 +199,7 @@ graph LR
   - 孙楠 2021 @THU: https://bbs.eetop.cn/thread-943698-1-29.html
   - 李福乐 SAR 2019 @THU: https://bbs.eetop.cn/thread-959512-1-1.html
 - conference
+  - 孙楠 ISSCC 2022 SC4: Emerging Data Converter Concepts
   - 揭路 ASSCC 2025 T1: Noise-Shaping SAR ADC: Design, Development, and Deployment
 
 ### 唐希源, 沈林晓 @ PKU
@@ -185,7 +210,6 @@ graph LR
 - journal
   - 唐希源 [Low-Power SAR ADC Design: Overview and Survey of State-of-the-Art Techniques](https://ieeexplore.ieee.org/document/9761973)
 
-
 ### 陈知行, 张明磊⚡ @ University of Macau
 
 - conference
@@ -194,6 +218,8 @@ graph LR
   - 张明磊 ISSCC 2025 F4: Extending ADC Performance Through TDC-Assisted Quantization in Multiple Dimensions
 - paid
   - 陈知行 hoomanreyhani 2024: Extreme SAR ADCs
+
+### 
 
 ### Cadence
 
