@@ -23,13 +23,23 @@ graph LR
   SAR["ISSCC 2016 T5⭐: Basics of SAR ADCs: Circuits & Architectures"] --> FoM
   Fundamentals["ISSCC 2023 T3⭐: Fundamentals of Data Converters"] --> FoM
   FoM["ISSCC 2022 SC3: Introduction to ADCs/DACs: Metrics, Topologies, Trade Space, and Applications"] --> Cdns["Cadence⭐, Analog IP Verification Seminar, SAR ADC design and verification"]
-  Cdns --> TI["ISSCC 2020 T5: Fundamentals of **Time-Interleaved** ADCs"] --> SerDes["ISSCC 2018 T10: ADC-Based Serial Links, Design and Analysis"]
-  Cdns --> NS["ISSCC 2019 T5: **Noise-Shaping** in Data Converters"]
-  Cdns --> CT["ISSCC 2024 T7: Fundamentals of **Continuous-Time** ADCs"]
 ```
 
 - A Brief History of Data Conversion: A Tale of Nozzles, Relays, Tubes, Transistors, and CMOS
 - FUNDAMENTALS OF SAMPLED DATA SYSTEMS, ADI
+
+| Type              | Basic Intro     |
+| ----------------- | --------------- |
+| SAR               | ISSCC 2016 T5   |
+| Noise-Shaping SAR | ISSCC 2019 T5   |
+| Continuous-Time   | ISSCC 2024 T7   |
+| Time-Domain       | ISSCC 2025 F4.7 |
+| Time-Interleaving | ISSCC 2020 T5   |
+| ADC-based Serdes  | ISSCC 2018 T10  |
+
+### Checklist
+
+
 
 ### Boris Murmann @ Stanford → UH Mānoa
 
@@ -98,7 +108,7 @@ graph LR
 - 一句话介绍: 现代异步 SAR-ADC (比较器 Valid 信号作为自驱动时钟) 的提出者; ISSCC, JSSC 2006
 - conference
   - CICC 2018 T: Evolutions of SAR ADC: From high resolution to high speed regime
-  - ISSCC 2025 F4: High-Speed DAC Architectures and Techniques Towards High Dynamic Range, Bandwidth and Output Power
+  - ISSCC 2025 F4.4: High-Speed DAC Architectures and Techniques Towards High Dynamic Range, Bandwidth and Output Power
 - paid
   - hoomanreyhani 2021: Advanced Data Converters
 
@@ -184,12 +194,38 @@ graph LR
 - conference
   - ISSCC 2021 F2.8: Intrinsically-Linear Data Converters
 
+#### Sharvil Patil @ ADI
+
+- conference
+  - ISSCC 2025 F4.3: Developments and Challenges in High-Speed Continuous-Time ADCs for Wideband Wireless Communications
+
+### Texas Instruments
+
+#### Venkatesh Srinivasan
+
+- conference
+  - ISSCC 2019 T5: Noise-Shaping in Data Converters
+
 ### MediaTek
 
 #### Gabriele Manganaro
 
 - conference
   - ISSCC 2022 SC2: Ultra-High-Data-Rate ADCs and DACs: Architectures and Implementations
+
+### Broadcom
+
+#### 张恒
+
+- conference
+  - ISSCC 2025 F4.2: High-speed ADCs for 100Gbps+ Wireline Transceivers
+
+### NXP
+
+#### Muhammed Bolatkale
+
+- conference
+  - ISSCC 2025 F4.5: High-performance Noise-shaping ADCs
 
 ### 孙楠, 李福乐, 揭路 @ THU ⭐
 
@@ -205,7 +241,7 @@ graph LR
 ### 唐希源, 沈林晓 @ PKU
 
 - conference
-  - 沈林晓 ISSCC 2025 F4：High-Performance Discrete-Time Amplifiers Utilizing Time-Varying Settling Processes
+  - 沈林晓 ISSCC 2025 F4.8：High-Performance Discrete-Time Amplifiers Utilizing Time-Varying Settling Processes
   - 唐希源 CICC 2025 ES2.1: Noise-Shaping SAR ADCs: From Fundamentals to Recent Advances
 - journal
   - 唐希源 [Low-Power SAR ADC Design: Overview and Survey of State-of-the-Art Techniques](https://ieeexplore.ieee.org/document/9761973)
@@ -215,11 +251,9 @@ graph LR
 - conference
   - 陈知行 CICC 2024: The Race for the Extra Pico Second without Losing the Decibel: A Partial-Review of Single-Channel Energy-Efficient High-Speed Nyquist ADCs
   - 陈知行 ASSCC 2024: Mechanisms for accelerating ADC speed: Quantization shortcuts
-  - 张明磊 ISSCC 2025 F4: Extending ADC Performance Through TDC-Assisted Quantization in Multiple Dimensions
+  - 张明磊 ISSCC 2025 F4.7: Extending ADC Performance Through TDC-Assisted Quantization in Multiple Dimensions
 - paid
   - 陈知行 hoomanreyhani 2024: Extreme SAR ADCs
-
-### 
 
 ### Cadence
 
