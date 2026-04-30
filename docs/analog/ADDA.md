@@ -119,6 +119,7 @@ graph LR
   - ASSCC 2017 T1: ADC hybrids and ADC morphing
   - ISSCC 2017 F: Best of Both Worlds Hybrid Data Converters
   - ISSCC 2018 edu: Evolutional of the SAR ADC
+  - VLSI 2020 SC3-2: The noise-shaping SAR ADC techique: The best of both worlds
 
 ### Ewout Martens @ imec
 
