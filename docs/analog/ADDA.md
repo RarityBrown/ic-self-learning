@@ -253,6 +253,7 @@ graph LR
   - 陈知行 CICC 2024: The Race for the Extra Pico Second without Losing the Decibel: A Partial-Review of Single-Channel Energy-Efficient High-Speed Nyquist ADCs
   - 陈知行 ASSCC 2024: Mechanisms for accelerating ADC speed: Quantization shortcuts
   - 张明磊 ISSCC 2025 F4.7: Extending ADC Performance Through TDC-Assisted Quantization in Multiple Dimensions
+  - 陈知行 OJSSC 2026: Beyond Sole Parametric Optimization Design Regimes: Understanding and Advancing the Frontiers of High-Speed ADCs
 - paid
   - 陈知行 hoomanreyhani 2024: Extreme SAR ADCs
 
