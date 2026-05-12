@@ -213,6 +213,8 @@ graph LR
 
 - conference
   - ISSCC 2022 SC2: Ultra-High-Data-Rate ADCs and DACs: Architectures and Implementations
+- journal
+  - OJSSC 2022: An Introduction to High Sample Rate Nyquist Analog-to-Digital Converters
 
 ### Broadcom
 
