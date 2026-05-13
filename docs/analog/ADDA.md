@@ -107,6 +107,7 @@ graph LR
 
 - 一句话介绍: 现代异步 SAR-ADC (比较器 Valid 信号作为自驱动时钟) 的提出者; ISSCC, JSSC 2006
 - conference
+  - CICC 2017 26-5: Emerging Trend in High-Speed DAC Design
   - CICC 2018 T: Evolutions of SAR ADC: From high resolution to high speed regime
   - ISSCC 2025 F4.4: High-Speed DAC Architectures and Techniques Towards High Dynamic Range, Bandwidth and Output Power
 - paid
@@ -126,6 +127,11 @@ graph LR
 - conference
   - ESSCIRC 2019 T: Advanced Techniques for ADCs for 5G Massive MIMO Presented
   - CICC 2023: Calibration Techniques for Optimizing Performance of High-Speed ADCs
+
+### Lukas Kull @ IBM → Cisco 
+
+- conference
+  - CICC 2017 4-3: Measurement of high-speed ADCs
 
 ### Sam Palermo @ Texas A&M University
 
@@ -171,6 +177,15 @@ graph LR
 - MT series ADI
   - MT-001 to MT-031
 
+
+#### David H. Robertson⚡@ ADI
+
+- conference
+  - ESSCIRC 2016: Data converter reflections: 19 papers from the last ten years that deserve a second look ⭐
+  - CICC 2017 26-1: Stranger Things: Problems, Solutions, and Possible Trends in High Speed Data Conversion
+- journal
+  - SSC-M 2015: Problems and Solutions: How Applications Drive Data Converters (and How Changing Data Converter Technology Influences System Architecture)
+
 #### Ahmed M. A. Ali ⚡ @ ADI → Apple (High Speed)
     
 - book
@@ -188,7 +203,7 @@ graph LR
 #### Ron Kapusta ⚡ @ ADI
 
 - conference
-  - ISSCC 2017 F: Advanced SAR ADCs for high-throughput applications
+  - ISSCC 2017 F6-: Advanced SAR ADCs for high-throughput applications
 
 #### Jesper Steensgaard 🎯 @ ADI
 
@@ -230,14 +245,14 @@ graph LR
 - conference
   - ISSCC 2025 F4.5: High-performance Noise-shaping ADCs
 
-### 孙楠, 李福乐, 揭路 @ THU ⭐
+### 孙楠, 揭路 @ THU ⭐
 
 - courseware / slides
   - 孙楠 ADC intro @THU: https://bbs.eetop.cn/thread-953294-1-23.html
   - 孙楠 2014 @UT Austin: https://bbs.eetop.cn/thread-954969-1-90.html
   - 孙楠 2021 @THU: https://bbs.eetop.cn/thread-943698-1-29.html
-  - 李福乐 SAR 2019 @THU: https://bbs.eetop.cn/thread-959512-1-1.html
 - conference
+  - 孙楠 CICC 2017 26-4: Emerging Data Conversion Architectures 
   - 孙楠 ISSCC 2022 SC4: Emerging Data Converter Concepts
   - 揭路 ASSCC 2025 T1: Noise-Shaping SAR ADC: Design, Development, and Deployment
 
@@ -248,6 +263,10 @@ graph LR
   - 唐希源 CICC 2025 ES2.1: Noise-Shaping SAR ADCs: From Fundamentals to Recent Advances
 - journal
   - 唐希源 [Low-Power SAR ADC Design: Overview and Survey of State-of-the-Art Techniques](https://ieeexplore.ieee.org/document/9761973)
+
+### 李福乐 
+
+- SAR 2019 @THU: https://bbs.eetop.cn/thread-959512-1-1.html
 
 ### 陈知行, 张明磊⚡ @ University of Macau
 
