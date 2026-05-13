@@ -109,6 +109,7 @@ graph LR
 - conference
   - CICC 2017 26-5: Emerging Trend in High-Speed DAC Design
   - CICC 2018 T: Evolutions of SAR ADC: From high resolution to high speed regime
+  - CICC 2022 15: High-Speed Digital-to-Analog Converter Design Towards High Dynamic Range 
   - ISSCC 2025 F4.4: High-Speed DAC Architectures and Techniques Towards High Dynamic Range, Bandwidth and Output Power
 - paid
   - hoomanreyhani 2021: Advanced Data Converters
@@ -128,10 +129,18 @@ graph LR
   - ESSCIRC 2019 T: Advanced Techniques for ADCs for 5G Massive MIMO Presented
   - CICC 2023: Calibration Techniques for Optimizing Performance of High-Speed ADCs
 
-### Lukas Kull @ IBM → Cisco 
+### IBM
+
+#### Lukas Kull @ IBM → Cisco 
 
 - conference
   - CICC 2017 4-3: Measurement of high-speed ADCs
+
+#### Timothy (Tod) Dickson @ IBM
+
+- conference
+  - CICC 2023 3-2: High-Speed DAC Design in 4nm FinFET for 200+ Gb/s Wireline Transmitters
+  - CICC 2024 23-1: Digital-to-Analog Converters for 100+ Gb/s Wireline Transmitters: Architectures, Circuits, and Calibration
 
 ### Sam Palermo @ Texas A&M University
 
@@ -176,7 +185,6 @@ graph LR
   - 2005 ADI: Data Conversion Handbook
 - MT series ADI
   - MT-001 to MT-031
-
 
 #### David H. Robertson⚡@ ADI
 
@@ -231,6 +239,11 @@ graph LR
 - journal
   - OJSSC 2022: An Introduction to High Sample Rate Nyquist Analog-to-Digital Converters
 
+#### Tamer Ali
+
+- conference
+  - CICC 2023 3.1: Data Converters for 200+Gbps Wireline Links and Transceivers
+
 ### Broadcom
 
 #### 张恒
@@ -244,6 +257,15 @@ graph LR
 
 - conference
   - ISSCC 2025 F4.5: High-performance Noise-shaping ADCs
+
+### Alphawave
+
+#### Tony Chan Carusone
+
+- conference
+  - CICC 2023 3-3: Precision Clocking for High-Speed Data Converters
+- journal
+  - JSSC 2026: Modern Wireline Transceivers
 
 ### 孙楠, 揭路 @ THU ⭐
 
