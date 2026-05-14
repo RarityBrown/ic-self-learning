@@ -1,5 +1,3 @@
-# ADDA
-
 ## Modules
 
 ### Bootstrap
@@ -90,7 +88,9 @@ graph LR
 - book
   - 2025 Cambridge: Analysis and Design of Data Converters ⭐⭐
 - journal
-  - 2013 JSSC: Design considerations for interleaved ADCs
+  - 建议直接阅读书即可，例如 Bootstrap SSC-M, StrongARM SSC-M, TIADC 2013 JSSC 等文章都重新被整理并扩写成了 ADC 的书
+- conference
+  - 2020 ISCAS: Lower Bounds on Power Consumption of Clock Generators for ADCs
 - courseware (not recommended)
   - 2012 EE215D: https://www.seas.ucla.edu/brweb/teaching/215D_S2012/
 
@@ -227,9 +227,15 @@ graph LR
 #### Gabriele Manganaro @ ADI → MediaTek
 
 - conference
+  - CICC 2018: Emerging data converter architectures and techniques
   - ISSCC 2022 SC2: Ultra-High-Data-Rate ADCs and DACs: Architectures and Implementations
+  - ESSERC 2024: Rethinking mixed-signal IC design
 - journal
   - OJSSC 2022: An Introduction to High Sample Rate Nyquist Analog-to-Digital Converters
+  - SSC-M 2022: An introduction to high data rate current-steering Nyquist DACs: Fasten your seat belts
+- talks
+  - SSCS Webinar 2020: Mixed-signal technologies for ultra-wide band signal processing systems
+  - CASS Talks 2024: https://www.youtube.com/watch?v=UMWmVuoxmww
 
 #### Tamer Ali
 
@@ -256,6 +262,11 @@ graph LR
 
 - conference
   - ISSCC 2025 F4.5: High-performance Noise-shaping ADCs
+
+#### Lucien Breems
+
+- conference
+  - ESSERC 2024: Fundamentals on High-Performance Continuous-Time ADC’s
 
 ### Alphawave
 
