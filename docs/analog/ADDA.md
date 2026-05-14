@@ -81,7 +81,6 @@ graph LR
 - 一句话介绍: ADC 领域的真正专家
 - book
   - 2022 Springer: Analog-to Digital Conversion, Fourth Edition ⭐⭐
-  - 2023 Springer: Multi-Gigahertz Nyquist Analog-to-Digital Converters
 - conference
   - ISSCC 2017 F: Pushing the Boundaries of Performance - A Technology Perspective
   - 2020 SSCS-EDS South Brazil Distinguished Talk: [ADC Performance Limits - The Fundamentals](https://www.youtube.com/watch?v=doTHd0W9QhA)
@@ -223,16 +222,9 @@ graph LR
 - conference
   - ISSCC 2025 F4.3: Developments and Challenges in High-Speed Continuous-Time ADCs for Wideband Wireless Communications
 
-### Texas Instruments
-
-#### Venkatesh Srinivasan
-
-- conference
-  - ISSCC 2019 T5: Noise-Shaping in Data Converters
-
 ### MediaTek
 
-#### Gabriele Manganaro
+#### Gabriele Manganaro @ ADI → MediaTek
 
 - conference
   - ISSCC 2022 SC2: Ultra-High-Data-Rate ADCs and DACs: Architectures and Implementations
@@ -243,6 +235,13 @@ graph LR
 
 - conference
   - CICC 2023 3.1: Data Converters for 200+Gbps Wireline Links and Transceivers
+
+### Texas Instruments
+
+#### Venkatesh Srinivasan
+
+- conference
+  - ISSCC 2019 T5: Noise-Shaping in Data Converters
 
 ### Broadcom
 
@@ -266,6 +265,15 @@ graph LR
   - CICC 2023 3-3: Precision Clocking for High-Speed Data Converters
 - journal
   - JSSC 2026: Modern Wireline Transceivers
+ 
+### AMD
+
+#### Athanasios Ramkaj
+
+- paper
+  - 2022 SSC-M: In the Pursuit of the Optimal Accuracy–Speed–Power Analog-to-Digital Converter Architecture: A mathematical framework
+- book
+  - 2023 Springer: Multi-Gigahertz Nyquist Analog-to-Digital Converters
 
 ### 孙楠, 揭路 @ THU ⭐
 
