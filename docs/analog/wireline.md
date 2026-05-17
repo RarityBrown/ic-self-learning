@@ -1,5 +1,7 @@
 # Wireline > SerDes > CDR
 
+## General Materials
+
 - Behzad Razavi @ UCLA
   - 2012 Book: Design of Integrated Circuits for Optical Communications, Second Edition
   - 2015 Qualcomm 内部授课: [Low-Power SERDES Design](https://bbs.eetop.cn/thread-580435-1-1.html)
@@ -19,3 +21,10 @@
 - https://www.zhihu.com/question/622726217
 - https://www.zhihu.com/question/13101332896
 - https://zhuanlan.zhihu.com/p/1903166545942774607
+
+## DSP-Based
+
+### Intel
+
+- conference
+  - CICC 2024 23.2: Design of 224Gb/s DSP-Based Transceiver in CMOS Technology: Signal Integrity, Architecture, Circuits, and Packaging
