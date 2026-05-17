@@ -193,7 +193,7 @@ graph LR
 - journal
   - SSC-M 2015: Problems and Solutions: How Applications Drive Data Converters (and How Changing Data Converter Technology Influences System Architecture)
 
-#### Ahmed M. A. Ali ⚡ @ ADI → Apple (High Speed)
+#### Ahmed M. A. Ali ⚡ @ ADI → Apple
     
 - book
   - 2016 IET: High Speed Data Converters 《高速数据转换器设计》
@@ -217,6 +217,11 @@ graph LR
 - conference
   - ISSCC 2021 F2.8: Intrinsically-Linear Data Converters
 
+#### Hajime Shibata @ ADI
+
+- conference
+  - ISSCC 2023 F5.3: Continuous-Time Pipelined ADC: A Breed of Continuous-Time ADCs for Ultra-Wideband Conversion
+
 #### Sharvil Patil @ ADI
 
 - conference
@@ -226,6 +231,8 @@ graph LR
 
 #### Gabriele Manganaro @ ADI → MediaTek
 
+- book
+  - Cambridge 2012: Advanced Data Converters
 - conference
   - CICC 2018: Emerging data converter architectures and techniques
   - ISSCC 2022 SC2: Ultra-High-Data-Rate ADCs and DACs: Architectures and Implementations
