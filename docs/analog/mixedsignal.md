@@ -87,6 +87,7 @@ https://zhuanlan.zhihu.com/p/1989558080313254329
   - F2.2 Intel: RF & mm-Wave Design in FinFET Technology
   - F2.5 MediaTek: FinFETs for Analog & Mixed-Signal Designs
   - F2.6 Xilinx: High Speed Transceivers Using FinFETs
+- ISSCC 2020 SC3 IBM: High-Speed and Mixed-Signal Circuit Design Techniques in FinFET Technology for Wireline and Optical Interface Applications
 
 ### SOI for mixed signal
 
