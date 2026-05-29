@@ -54,6 +54,7 @@ graph LR
 ### Manar El-Chammas ⚡ @ TI → Omni Design
 
 - conference
+  - ISCAS 2009: General analysis on the impact of phase-skew in time-interleaved ADCs
   - ICECS 2011 T: Time-Interleaved ADCs Theory and Design
   - NEWCAS 2012 T: The World of Time-Interleaved ADCs from theory to design
   - ISSCC 2017 F6: Design Techniques for Multi-GSs and High Performance Pipelined ADCs
@@ -310,6 +311,7 @@ graph LR
   - 沈林晓 ISSCC 2025 F4.8：High-Performance Discrete-Time Amplifiers Utilizing Time-Varying Settling Processes
   - 唐希源 CICC 2025 ES2.1: Noise-Shaping SAR ADCs: From Fundamentals to Recent Advances
 - journal
+  - 唐希源 
   - 唐希源 [Low-Power SAR ADC Design: Overview and Survey of State-of-the-Art Techniques](https://ieeexplore.ieee.org/document/9761973)
 
 ### 李福乐 
