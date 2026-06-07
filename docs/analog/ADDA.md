@@ -236,6 +236,7 @@ graph LR
   - Cambridge 2012: Advanced Data Converters
 - conference
   - CICC 2018: Emerging data converter architectures and techniques
+  - CICC 2020 ES4-3: Current Steering D/As
   - ISSCC 2022 SC2: Ultra-High-Data-Rate ADCs and DACs: Architectures and Implementations
   - ESSERC 2024: Rethinking mixed-signal IC design
 - journal
@@ -304,6 +305,8 @@ graph LR
   - 孙楠 CICC 2017 26-4: Emerging Data Conversion Architectures 
   - 孙楠 ISSCC 2022 SC4: Emerging Data Converter Concepts
   - 揭路 ASSCC 2025 T1: Noise-Shaping SAR ADC: Design, Development, and Deployment
+- journal
+  - 揭路 OJSSC 2021: An Overview of Noise-Shaping SAR ADC: From Fundamentals to the Frontier
 
 ### 唐希源, 沈林晓 @ PKU
 
@@ -389,7 +392,10 @@ https://www.mathworks.com/help/msblks/gs/DesignAndEvaluateSARADC.html
 
 ### Pipeline ADC
 
-#### Amp
+#### RA
+
+- ISSCC 2024 T1: Process-Scalable Low-Power Amplifier
+- SSC-M 2024: Process-Scalable and Low-Power Amplifiers: Progress and prospects in dynamic amplifier research
 
 ##### Ring Amp by [Benjamin Hershberg](https://ieeexplore.ieee.org/author/37399879200)
 
@@ -399,6 +405,9 @@ https://www.mathworks.com/help/msblks/gs/DesignAndEvaluateSARADC.html
     - slides: [PowerPoint Presentation](https://www.benjamin.hershberg.com/wp-content/papercite-data/slides/2020-cicc-invited-talk.pdf)
     - (the very first) paper: [Ring Amplifiers for Switched Capacitor Circuits, 2012, JSSC](https://ieeexplore.ieee.org/document/6373760)
   - Personal website: https://www.benjamin.hershberg.com/
+
+
+
 
 ### Clocking
 
