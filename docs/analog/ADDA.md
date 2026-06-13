@@ -239,6 +239,7 @@ graph LR
   - CICC 2020 ES4-3: Current Steering D/As
   - ISSCC 2022 SC2: Ultra-High-Data-Rate ADCs and DACs: Architectures and Implementations
   - ESSERC 2024: Rethinking mixed-signal IC design
+  - ISSCC 2026 F6.5: Calibration for high-speed, high-resolution DACs
 - journal
   - OJSSC 2022: An Introduction to High Sample Rate Nyquist Analog-to-Digital Converters
   - SSC-M 2022: An introduction to high data rate current-steering Nyquist DACs: Fasten your seat belts
@@ -260,6 +261,11 @@ graph LR
 
 ### Broadcom
 
+#### 曹军
+
+- conference
+  - ISSCC 2019 F6.7: Multi-GS/s Data Converters for High-Speed Wireline and Optical Links
+
 #### 张恒
 
 - conference
@@ -275,7 +281,18 @@ graph LR
 #### Lucien Breems
 
 - conference
-  - ESSERC 2024: Fundamentals on High-Performance Continuous-Time ADC’s
+  - ESSERC 2024: Fundamentals on High-Performance Continuous-Time ADC’s
+
+#### Kostas Doris
+
+- conference
+  - ISSCC 2015 F1.6: GS/s Time-Interleaved ADCs for Broadband Multi-Carrier Signal Reception 
+  - ESSERC 2024: Fundamentals on High-Performance Continuous-Time ADC’s
+
+#### Maarten Molendijk
+
+- conference
+  - ESSERC 2024: Machine Learning-Based Calibration of Analog-to-Digital Converters
 
 ### Alphawave
 
@@ -295,6 +312,13 @@ graph LR
 - book
   - 2023 Springer: Multi-Gigahertz Nyquist Analog-to-Digital Converters
 
+### Samsung
+
+#### Ben (Hyo-Gyuem) Rhew
+
+- conference
+  - ISSCC 2023 F: High-Speed ADC Design in Wireline and Wireless Applications
+
 ### 孙楠, 揭路 @ THU ⭐
 
 - courseware / slides
@@ -304,6 +328,7 @@ graph LR
 - conference
   - 孙楠 CICC 2017 26-4: Emerging Data Conversion Architectures 
   - 孙楠 ISSCC 2022 SC4: Emerging Data Converter Concepts
+  - 孙楠 Webinar: Break the kT over C Noise Limit
   - 揭路 ASSCC 2025 T1: Noise-Shaping SAR ADC: Design, Development, and Deployment
 - journal
   - 揭路 OJSSC 2021: An Overview of Noise-Shaping SAR ADC: From Fundamentals to the Frontier
@@ -330,6 +355,20 @@ graph LR
   - 陈知行 OJSSC 2026: Beyond Sole Parametric Optimization Design Regimes: Understanding and Advancing the Frontiers of High-Speed ADCs
 - paid
   - 陈知行 hoomanreyhani 2024: Extreme SAR ADCs
+
+### Shanthi Pavan @ IIT
+
+- book
+  - Wiley 2017: Understanding Delta-Sigma Data Converters
+- conference
+  - ISSCC 2013 T5: Simulation Techniques in Data Converter Design
+  - ISSCC 2021 F2.7: Architectural and Design Challenges in High-Resolution Continuous-Time Delta-Sigma Data Converters
+  - VLSI 2021 WS3.4: Delta-Sigma A/D Converter Design
+  - ISSCC 2024 T7: Fundamentals of Continuous-Time ADCs
+  - ESSERC 2024: The Rise and Rise ofContinuous-Time ADCs
+- journal
+  - TCAS-II 2021: Continuous-Time Pipelined Analog-to-Digital Converters: A Mini-Tutorial
+  - SSC-M 2024: Fundamentals of Continuous-Time ADCs: Part 1 /2: The Continuous-Time Pipeline / Delta–Sigma Converters
 
 ### Cadence
 
