@@ -194,7 +194,7 @@ graph LR
 - journal
   - SSC-M 2015: Problems and Solutions: How Applications Drive Data Converters (and How Changing Data Converter Technology Influences System Architecture)
 
-#### Ahmed M. A. Ali ⚡ @ ADI → Apple
+#### Ahmed M. A. Ali ⚡ @ TI → ADI → Apple
     
 - book
   - 2016 IET: High Speed Data Converters 《高速数据转换器设计》
