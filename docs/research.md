@@ -13,6 +13,7 @@
   - [1](https://learn.microsoft.com/en-us/answers/questions/5191020/visio-professional-default-font-style-pt-and-color) [2](https://learn.microsoft.com/en-us/answers/questions/4913123/visio-2016-default-fonts) [3](https://bvisual.net/2022/09/28/setting-theme-defaults-in-visio/) [4](https://bvisual.net/2020/08/13/using-an-updateable-default-font-in-visio/)
 - Visio Templates
   - Kwantae Kim @ Aalto University  https://github.com/KwantaeKim/visio
+- The Practical Skill of Schematics Drawing and Its Importance for Designers Success, Kevin Zhang
 
 ## Presentation
 
