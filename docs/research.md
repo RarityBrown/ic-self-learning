@@ -7,7 +7,7 @@
 
 ## Schematic & Diagramming
 
-- *通过 Visio, Excel 和 Powerpoint 绘制电路图和仿真图*, 胡诣哲
+- 通过 Visio, Excel 和 Powerpoint 绘制电路图和仿真图, 胡诣哲
   - [Slides & Samples](https://bbs.eetop.cn/thread-983425-5-1.html)
 - Visio 改变默认字体至 Arial 和黑体
   - [1](https://learn.microsoft.com/en-us/answers/questions/5191020/visio-professional-default-font-style-pt-and-color) [2](https://learn.microsoft.com/en-us/answers/questions/4913123/visio-2016-default-fonts) [3](https://bvisual.net/2022/09/28/setting-theme-defaults-in-visio/) [4](https://bvisual.net/2020/08/13/using-an-updateable-default-font-in-visio/)
@@ -72,6 +72,8 @@ Put in slides (for analog):
   - [Slides](https://resourcecenter.sscs.ieee.org/education/webinars/sscsweb3099)
 - *Writing a good ISSCC paper, June 2024: Tips on how to increase the chances of paper acceptance*, Jan Van der Spiegel
   - [Slides](https://submissions.mirasmart.com/ISSCC2025/PDF/ISSCC2025_WritingGoodISSCCPaper.pdf)
+- 中科大数频实验室 Latex 写作规范, 胡诣哲
+  - [eetop](https://bbs.eetop.cn/thread-1003594-1-1.html)
 - todo: 论文图表设计的色彩搭配理论，并结合色彩纠正和配色方案的定量分析
 
 
