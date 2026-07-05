@@ -57,7 +57,7 @@ graph LR
   - ISCAS 2009: General analysis on the impact of phase-skew in time-interleaved ADCs
   - ICECS 2011 T: Time-Interleaved ADCs Theory and Design
   - NEWCAS 2012 T: The World of Time-Interleaved ADCs from theory to design
-  - ISSCC 2017 F6: Design Techniques for Multi-GSs and High Performance Pipelined ADCs
+  - ISSCC 2017 F6.3: Design Techniques for Multi-GSs and High Performance Pipelined ADCs
   - AUB Talks Semantic Communications 2024: The hardware behind the algorithms: A look at energy-efficient transievers and accelerators
 - book
   - 2024 High-Performance and High-Speed Pipelined ADCs (z-lib + tor)
@@ -81,7 +81,7 @@ graph LR
 - book
   - 2022 Springer: Analog-to Digital Conversion, Fourth Edition ⭐⭐
 - conference
-  - ISSCC 2017 F: Pushing the Boundaries of Performance - A Technology Perspective
+  - ISSCC 2017 F6.1: Pushing the Boundaries of Performance - A Technology Perspective
   - 2020 SSCS-EDS South Brazil Distinguished Talk: [ADC Performance Limits - The Fundamentals](https://www.youtube.com/watch?v=doTHd0W9QhA)
 
 ### Behzad Razavi @ UCLA
@@ -119,7 +119,7 @@ graph LR
 - conference
   - CICC 2015: ADC Trends and Impact on SAR ADC Architecture and Analysis
   - ASSCC 2017 T1: ADC hybrids and ADC morphing
-  - ISSCC 2017 F: Best of Both Worlds Hybrid Data Converters
+  - ISSCC 2017 F6.6: Best of Both Worlds Hybrid Data Converters
   - ISSCC 2018 edu: Evolutional of the SAR ADC
   - VLSI 2020 SC3-2: The noise-shaping SAR ADC techique: The best of both worlds
 
@@ -199,6 +199,7 @@ graph LR
 - book
   - 2016 IET: High Speed Data Converters 《高速数据转换器设计》
 - conference
+  - ISSCC 2016 F2.3: Advanced Calibration Techniques for High-Speed and High-Resolution ADCs
   - CICC 2018 T: High Speed Pipelined ADCs: Fundamentals and Variants
   - ISSCC 2021 T05: Calibration Techniques in ADCs
 
@@ -211,7 +212,7 @@ graph LR
 #### Ron Kapusta ⚡ @ ADI
 
 - conference
-  - ISSCC 2017 F6-: Advanced SAR ADCs for high-throughput applications
+  - ISSCC 2017 F6.1: Advanced SAR ADCs for high-throughput applications
 
 #### Jesper Steensgaard 🎯 @ ADI
 
@@ -435,6 +436,13 @@ https://www.mathworks.com/help/msblks/gs/DesignAndEvaluateSARADC.html
 
 - ISSCC 2024 T1: Process-Scalable Low-Power Amplifier
 - SSC-M 2024: Process-Scalable and Low-Power Amplifiers: Progress and prospects in dynamic amplifier research
+
+
+##### Gain Enhancement
+
+- Correlated Double Sampling (CDS): Enz, Proc. IEEE 1996
+- Correlated Level Shifting (CLS): Gregorie, ISSCC 2008
+- Replicated Parallel Gain Enhancement (RPGE): Hariprasath, CICC 2013
 
 ##### Ring Amp by [Benjamin Hershberg](https://ieeexplore.ieee.org/author/37399879200)
 
