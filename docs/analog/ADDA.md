@@ -411,7 +411,7 @@ https://www.mathworks.com/help/msblks/ug/adc-tutorial.html
 
 
 https://www.mathworks.com/help/msblks/ug/successive-approximation-adc.html
-https://www.mathworks.com/help/msblks/gs/DesignAndEvaluateSARADC.html
+https://www.mathworks.com/help/msblks/gs/DesignAndEvaluateSADC.html
 
 
 - Mixed-Signal Blockset (msblks)
@@ -436,7 +436,7 @@ https://www.mathworks.com/help/msblks/gs/DesignAndEvaluateSARADC.html
 
 - ISSCC 2024 T1: Process-Scalable Low-Power Amplifier
 - SSC-M 2024: Process-Scalable and Low-Power Amplifiers: Progress and prospects in dynamic amplifier research
-
+- ISSCC 2025 F4.8：High-Performance Discrete-Time Amplifiers Utilizing Time-Varying Settling Processes
 
 ##### Gain Enhancement
 
