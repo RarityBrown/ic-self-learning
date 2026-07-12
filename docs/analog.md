@@ -226,7 +226,16 @@ gantt
 
 定性的 insight & intuition 是非常重要的。几乎所有老师都有特别强调过，即使没有强调，也会潜移默化的提到。
 
-## 
+## 在线资源
+
+### CMFB
+
+- [开关电容 CMFB——建模与分析 Analysis of Switched-Capacitor Common-Mode Feedback Circuit, part I](https://zhuanlan.zhihu.com/p/1889326366257828981)
+- [开关电容 CMFB——分析与优化 Analysis of Switched-Capacitor Common-Mode Feedback Circuit, part II](https://zhuanlan.zhihu.com/p/1890464741568250026)
+- [全差分两级运放设计：Cascode+CS+SC-CMFB](https://zhuanlan.zhihu.com/p/1929555475956998274)
+- [共模反馈 CMFB Common Mode Feedback](https://zhuanlan.zhihu.com/p/14156382741)
+- [全差分运放的仿真方法小结](https://zhuanlan.zhihu.com/p/25864257082)
+- [全差分两级运放设计：Folded Cascode+CS+CT-CMFB](https://zhuanlan.zhihu.com/p/24924955199)
 
 ## 后记
 
