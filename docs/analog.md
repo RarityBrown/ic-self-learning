@@ -237,6 +237,12 @@ gantt
 - [全差分运放的仿真方法小结](https://zhuanlan.zhihu.com/p/25864257082)
 - [全差分两级运放设计：Folded Cascode+CS+CT-CMFB](https://zhuanlan.zhihu.com/p/24924955199)
 
+### Doublet
+
+- [王小桃：零极点对 Doublet](https://zhuanlan.zhihu.com/p/1890858060592947915)
+- [2sc3357：零极点的意义及其位置对阶跃响应的影响 - 知乎](https://zhuanlan.zhihu.com/p/1937872919242978096)
+- [2sc3357：反馈造成的零极点对](https://zhuanlan.zhihu.com/p/1942606999624876096)
+
 ## 后记
 
 如果你不满足于此，可以去看看 [Analog Plus](./analog/analogplus.md)
