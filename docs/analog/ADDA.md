@@ -229,6 +229,11 @@ graph LR
 - conference
   - ISSCC 2025 F4.3: Developments and Challenges in High-Speed Continuous-Time ADCs for Wideband Wireless Communications
 
+### Chris Mangelsdorf @ ADI
+
+- conference
+  - ESSERC 2024: Data Converters: Our only connection to The Matrix 
+
 ### MediaTek
 
 #### Gabriele Manganaro @ ADI → MediaTek
@@ -252,6 +257,11 @@ graph LR
 
 - conference
   - CICC 2023 3.1: Data Converters for 200+Gbps Wireline Links and Transceivers
+
+#### Yun-Shiang Shu
+
+- conference
+  - ISSCC 2022 T3: Noise-Shaping SAR ADCs
 
 ### Texas Instruments
 
