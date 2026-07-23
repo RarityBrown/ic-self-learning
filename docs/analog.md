@@ -146,6 +146,16 @@ Razavi 的学生
 
 UCB 的 EE140/240 相对好一些，大概 2010 年左右的视频。（不过画质看上去像是 2000 年的）
 
+### TU Delft
+
+- Klaas Bult
+  - Book: BASIC ANALOG CMOS DESIGN: An Intuitive Approach
+- Structured Electronics Design
+  - Book: Structured Electronics Design
+  - EE4109: Structured Electronics Design
+    - Video: Youtube
+  - [Poster](https://analog-electronics.tudelft.nl/posters.html)
+
 ### 孙楠,揭路 @ THU
 
 - book: CMOS only
