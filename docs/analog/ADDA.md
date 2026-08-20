@@ -89,7 +89,7 @@ graph LR
 - book
   - 2025 Cambridge: Analysis and Design of Data Converters ⭐⭐
 - journal
-  - 建议直接阅读书即可，例如 Bootstrap SSC-M, StrongARM SSC-M, TIADC 2013 JSSC 等文章都重新被整理并扩写成了 ADC 的书
+  - 建议直接阅读书即可，例如 Bootstrap SSC-M, StgARM SSC-M, TIADC 2013 JSSC 等文章都重新被整理并扩写成了 ADC 的书
 - conference
   - 2020 ISCAS: Lower Bounds on Power Consumption of Clock Generators for ADCs
 - courseware (not recommended)
@@ -212,6 +212,8 @@ graph LR
 #### Ron Kapusta ⚡ @ ADI
 
 - conference
+  - CICC 2013 / JSSC 2015: Sampling circuits that break the kT/C thermal noise limit
+  - CICC 2015 ED7: SAR ADCs in parallel time-interleaved converter arrays
   - ISSCC 2017 F6.1: Advanced SAR ADCs for high-throughput applications
 
 #### Jesper Steensgaard 🎯 @ ADI
