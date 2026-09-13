@@ -186,7 +186,13 @@ graph LR
 - MT series ADI
   - MT-001 to MT-031
 
-#### David H. Robertson⚡@ ADI
+#### Chris Mangelsdorf ⚡ @ ADI
+
+- conference
+  - ESSERC 2024: Data Converters: Our only connection to The Matrix
+  - CICC 2026: Grandpa Looks at AI
+
+#### David H. Robertson⚡ @ ADI
 
 - conference
   - ESSCIRC 2016: Data converter reflections: 19 papers from the last ten years that deserve a second look ⭐
@@ -230,11 +236,6 @@ graph LR
 
 - conference
   - ISSCC 2025 F4.3: Developments and Challenges in High-Speed Continuous-Time ADCs for Wideband Wireless Communications
-
-### Chris Mangelsdorf @ ADI
-
-- conference
-  - ESSERC 2024: Data Converters: Our only connection to The Matrix 
 
 ### MediaTek
 
