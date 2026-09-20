@@ -49,6 +49,9 @@ graph LR
   - 2023 ESSCIRC: Digitally Assisted Data Converter Design
   - 2022 ISSCC SC1: Introduction to ADCs/DACs: Metrics, Topologies, Trade Space, and Applications ⭐
   - 2026 ISSCC F6.1: Data Converter Calibration: Motivation, Evolution, and General Aspects
+- journal
+  - 2015 SSC-M: The Race for the Extra Decibel: A Brief Review of Current ADC Performance Trajectories
+  - 2016 IEEE Communications Magazine: The successive approximation register ADC: a versatile building block for ultra-low- power to ultra-high-speed applications
 - https://github.com/bmurmann/ADC-survey
 
 ### Manar El-Chammas ⚡ @ TI → Omni Design
