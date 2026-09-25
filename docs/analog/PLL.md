@@ -24,6 +24,8 @@ ref: https://zhuanlan.zhihu.com/p/9576555642
   - books
     - *Phase-Locked Loops: System Perspectives and Circuit Design Aspects*
     - *Phase-Locked Frequency Generation and Clocking: Architectures and circuits for modern wireless and wireline systems*
+- 杨尊松 @ 中科院微电子所
+  - [PLL 电路基础理论与仿真实操](https://bbs.eetop.cn/forum.php?mod=viewthread&tid=932639)
 
 #### Phase Noise
 
