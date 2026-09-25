@@ -13,7 +13,12 @@
   - 2025 [ECEN720](https://people.engr.tamu.edu/spalermo/ecen720.html): High-Speed Links Circuits and Systems
   - 2025 [ECEN689](https://people.engr.tamu.edu/spalermo/ecen689_oi.html): Optical Interconnects Circuits and Systems
   - 2018 ISSCC [T10](https://resourcecenter.sscs.ieee.org/education/short-courses/sscstut201827) - ADC-Based Serial Links Design and Analysis
-
+- Broadcom
+  - 张博 ASSCC 2015 T4: Multi-Gbps Serial Backplane Transceiver: From Dilemma to Solution
+  - 曹军 ISSCC 2019 F6.7: Multi-GS/s Data Converters for High-Speed Wireline and Optical Links
+  - Anand Vasani VLSI 2023: Design Considerations for High-Speed Transmitters in Wireline and Optical Communications
+  - Cathy Liu 刘叶 CICC 2024 ES3.2: The Latest High Speed Wireline SerDes Technology
+  - 张恒 ISSCC 2025 F4.2: High-speed ADCs for 100Gbps+ Wireline Transceivers
 
 对于（没那么有钱/connection）高校来说可能不是一个很好的方向，非常吃先进工艺。但是确实是近年来信号链比较火的方向。
 
@@ -21,6 +26,12 @@
 - https://www.zhihu.com/question/622726217
 - https://www.zhihu.com/question/13101332896
 - https://zhuanlan.zhihu.com/p/1903166545942774607
+
+一些会议：
+
+- Ethernet Alliance TEF
+- DesignCon / OIF
+- OCP / OFC
 
 ## DSP-Based
 
