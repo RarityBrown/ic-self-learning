@@ -1,4 +1,4 @@
-# Wireline > SerDes > CDR
+# Wireline
 
 ## General Materials
 
@@ -17,7 +17,7 @@
   - 张博 ASSCC 2015 T4: Multi-Gbps Serial Backplane Transceiver: From Dilemma to Solution
   - 曹军 ISSCC 2019 F6.7: Multi-GS/s Data Converters for High-Speed Wireline and Optical Links
   - Anand Vasani VLSI 2023: Design Considerations for High-Speed Transmitters in Wireline and Optical Communications
-  - Cathy Liu 刘叶 CICC 2024 ES3.2: The Latest High Speed Wireline SerDes Technology
+  - Cathy Liu 刘晔 CICC 2024 ES3.2: The Latest High Speed Wireline SerDes Technology
   - 张恒 ISSCC 2025 F4.2: High-speed ADCs for 100Gbps+ Wireline Transceivers
 
 对于（没那么有钱/connection）高校来说可能不是一个很好的方向，非常吃先进工艺。但是确实是近年来信号链比较火的方向。
