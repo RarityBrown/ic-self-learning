@@ -234,6 +234,8 @@ graph LR
 
 - conference
   - ISSCC 2023 F5.3: Continuous-Time Pipelined ADC: A Breed of Continuous-Time ADCs for Ultra-Wideband Conversion
+- journal
+  - OJSSC 2023: Continuous-Time Pipelined ADC: A Breed of Continuous-Time ADCs for Wideband Data Conversion
 
 #### Sharvil Patil @ ADI
 
@@ -414,7 +416,6 @@ graph LR
 
 ### Others
 
-
 - 朱樟明 @ XIDIAN
   - 《低功耗 CMOS 逐次逼近型模数转换器》
 - Allen
@@ -469,9 +470,6 @@ https://www.mathworks.com/help/msblks/gs/DesignAndEvaluateSADC.html
     - (the very first) paper: [Ring Amplifiers for Switched Capacitor Circuits, 2012, JSSC](https://ieeexplore.ieee.org/document/6373760)
   - Personal website: https://www.benjamin.hershberg.com/
 
-
-
-
 ### Clocking
 
 The Speed–Power Trade-Off in the Design of CMOS True-Single-Phase-Clock Divider
@@ -480,9 +478,7 @@ The Speed–Power Trade-Off in the Design of CMOS True-Single-Phase-Clock Divide
 
 ### ΣΔ Modulation
 
-
 ## Sensor Interface & Biomedical IC
-
 
 | University | Course No. | Year / WebSite                                              | Name                | Teacher         | Video | Slide |
 | ---------- | ---------- | ----------------------------------------------------------- | ------------------- | --------------- | ----- | ----- |
@@ -521,7 +517,3 @@ The Speed–Power Trade-Off in the Design of CMOS True-Single-Phase-Clock Divide
 - https://www.zhihu.com/question/478487601
 - https://www.zhihu.com/question/590222455
 - https://www.zhihu.com/question/433785533
-
-资料收集原则：尽量只收集 2010 年及以后的资料，理由：
-
-1. 再经典的资料也会过时的
