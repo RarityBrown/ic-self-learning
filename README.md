@@ -71,6 +71,7 @@ IC 是一个很大的方向，笔者只对其中甚少的方向有些极为粗�
 
 - [EECS | 学科自学指南](https://mugglewei.github.io/learning_compass/posts/major/eecs/) ⭐
   - [Eta Kappa Nu (HKN), Mu Chapter](https://hkn.eecs.berkeley.edu/courseguides)
+- [IC Guide — 集成电路自学指南 by Crys-Chen](https://github.com/Crys-Chen/ic-guide) ⭐
 - [清华大学微电子培养方案及相应参考课程视频](https://www.bilibili.com/opus/508995032359647547)
 
 ### Personal
