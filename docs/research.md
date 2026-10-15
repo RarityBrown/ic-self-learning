@@ -73,6 +73,8 @@ Put in slides (for analog):
   - [Slides](https://resourcecenter.sscs.ieee.org/education/webinars/sscsweb3099)
 - *Writing a good ISSCC paper, June 2024: Tips on how to increase the chances of paper acceptance*, Jan Van der Spiegel
   - [Slides](https://submissions.mirasmart.com/ISSCC2025/PDF/ISSCC2025_WritingGoodISSCCPaper.pdf)
+- *IEEE Journal of Solid-State Circuits Town Hall Meeting*, Boris Murmann
+  - [SSCS Video](https://resourcecenter.sscs.ieee.org/education/technical-webinar/sscs_edu_web_murmann_100526)
 - 中科大数频实验室 Latex 写作规范, 胡诣哲
   - [eetop](https://bbs.eetop.cn/thread-1003594-1-1.html)
 - todo: 论文图表设计的色彩搭配理论，并结合色彩纠正和配色方案的定量分析
