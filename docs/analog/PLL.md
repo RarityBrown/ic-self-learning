@@ -13,6 +13,7 @@ ref: https://zhuanlan.zhihu.com/p/9576555642
 - Ali Sheikholeslami @ University of Toronto
   - Understanding Jitter and Phase Noise: A Circuits and Systems Perspective
 - Salvatore Levantino & Carlo Samori @ PoliMi
+  - CICC 2013: Advanced Digital Phase-Locked Loops
   - ATIME ADI 2015: Advanced Digital Phase-Locked Loops
   - ISSCC 2016 T1: Understanding Phase Noise in LC VCOs
   - 2017: Mostly Digital Phase-Locked Loops
