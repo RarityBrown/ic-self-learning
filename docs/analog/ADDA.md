@@ -112,8 +112,10 @@ graph LR
 - conference
   - CICC 2017 26-5: Emerging Trend in High-Speed DAC Design
   - CICC 2018 T: Evolutions of SAR ADC: From high resolution to high speed regime
-  - CICC 2022 15: High-Speed Digital-to-Analog Converter Design Towards High Dynamic Range 
+  - CICC 2022 15: High-Speed Digital-to-Analog Converter Design Towards High Dynamic Range
+  - ISCAS 2022: Nonuniform Sampling ADCs
   - ISSCC 2025 F4.4: High-Speed DAC Architectures and Techniques Towards High Dynamic Range, Bandwidth and Output Power
+  - ASSCC 2026 T1: Non-uniform Sampling ADC and RF Front-end
 - paid
   - hoomanreyhani 2021: Advanced Data Converters
 
