@@ -204,6 +204,8 @@ graph LR
   - CICC 2017 26-1: Stranger Things: Problems, Solutions, and Possible Trends in High Speed Data Conversion
 - journal
   - SSC-M 2015: Problems and Solutions: How Applications Drive Data Converters (and How Changing Data Converter Technology Influences System Architecture)
+- talks
+  - SSCS Webinar 2017: Trends in Broadband Converters
 
 #### Ahmed M. A. Ali ⚡ @ TI → ADI → Apple
     
