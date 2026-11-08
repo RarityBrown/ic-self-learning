@@ -8,13 +8,11 @@
 | ---------------------- | ---------- | ------------------------------------------------------------ | ------------------------- | ------------- | --------- | ------------------- | ---------------------------------------------- |
 | Boise State University | ECE614     | [2014](https://www.eecis.udel.edu/~vsaxena/courses/ece614/f14/Lectures.htm) | Advanced Analog IC Design | Vishal Saxena | available | CMFB + Differential | Switched-Capacitor, Comparators, Architectures |
 
+Video by Kwantae Kim @ https://www.youtube.com/@KwantaeKim/videos
+
 ## 常见模块
 
 ### 模拟/混合信号
-
-#### Bootstrap
-
-Move to ADDA
 
 #### Dealing with Offset
 
@@ -51,7 +49,6 @@ Move to ADDA
 - [A Systematic Review of Voltage Reference Circuits: Spanning Room Temperature to Cryogenic Applications](https://ieeexplore.ieee.org/document/10786235) TCAS1
 
 #### (Advanced) OpAmp
-
 
 - Johan Huijsing @ TU Delft
   - book
