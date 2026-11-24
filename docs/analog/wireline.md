@@ -35,7 +35,10 @@
 
 ## DSP-Based
 
-### Intel
-
-- conference
+- Intel
   - CICC 2024 23.2: Design of 224Gb/s DSP-Based Transceiver in CMOS Technology: Signal Integrity, Architecture, Circuits, and Packaging
+
+## Die-to-Die
+
+- Cadence
+  - Didem Turker Melek ISSCC 2027 T10: Basics of Die-to-Die Interface Circuits
